@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Preconnect critical origins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="preconnect" href="https://cmp.gatekeeperconsent.com" crossorigin />
+    <link rel="preconnect" href="https://the.gatekeeperconsent.com" crossorigin />
+    <link rel="preconnect" href="https://www.ezojs.com" crossorigin />
+    <link rel="preconnect" href="https://ezoicanalytics.com" crossorigin />
+    <link rel="preconnect" href="https://www.clarity.ms" crossorigin />
+
+    <!-- DNS prefetch for commonly used origins -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="https://firestore.googleapis.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="https://cmp.gatekeeperconsent.com" />
+    <link rel="dns-prefetch" href="https://the.gatekeeperconsent.com" />
+    <link rel="dns-prefetch" href="https://www.ezojs.com" />
+    <link rel="dns-prefetch" href="https://ezoicanalytics.com" />
+    <link rel="dns-prefetch" href="https://www.clarity.ms" />
+
+    <!-- Preload LCP image -->
+    <link rel="preload" href="/logo.webp" as="image" type="image/webp" />
+
+    <!-- Preload critical fonts -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700&display=swap" as="style" />
+
+    <!-- Critical CSS (inline to eliminate render blocking) -->
+    <style>
+      *,::after,::before{box-sizing:border-box}html{-moz-tab-size:4;tab-size:4}body{margin:0;font-family:Inter,system-ui,sans-serif;line-height:inherit;-webkit-text-size-adjust:100%}h1,h2,h3,h4,h5,h6{font-family:Outfit,sans-serif;margin:0}#root{min-height:100vh}:root{--background:#F8FAFC;--surface:#FFFFFF;--surface-secondary:#F1F5F9;--primary:#F97316;--secondary:#06B6D4;--accent:#F97316;--text:#0F172A;--muted:#64748B;--border:#E2E8F0}.dark{--background:#0F172A;--surface:#111827;--surface-secondary:#1E293B;--primary:#F97316;--secondary:#06B6D4;--accent:#F97316;--text:#F8FAFC;--muted:#94A3B8;--border:rgba(255,255,255,0.08)}body{font-family:Inter,sans-serif;background-color:var(--background);color:var(--text)}.fixed{position:fixed}.inset-0{inset:0}.z-\[-1\]{z-index:-1}.pointer-events-none{pointer-events:none}.bg-grid-pattern{background-image:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);background-size:40px 40px}.bg-grid{background-size:40px 40px;mask-image:linear-gradient(to bottom,transparent,5%,black,95%,transparent)}.opacity-\[0\.4\]{opacity:.4}
+
+    </style>
+    <script>
+      (function() {
+        try {
+          var pref = localStorage.getItem('theme') || localStorage.getItem('theme-preference') || 'system';
+          var isDark = pref === 'dark' || (pref === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <!-- Load fonts asynchronously -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700&display=swap" />
+    </noscript>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; frame-src 'self' https:; connect-src 'self' https: wss:;" />
+    
+    <!-- Schema.org JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ShikshaSahayak",
+      "url": "https://shikshasahayak.org",
+      "logo": "https://shikshasahayak.org/logo.png",
+      "email": "team@shikshasahayak.org"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "ShikshaSahayak",
+      "url": "https://shikshasahayak.org",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://shikshasahayak.org/ai-tutor?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="ShikshaSahayak helps GTU engineering students find Gujarat Technological University previous year question papers (PYQs), study notes, syllabus guidelines, and practical exam preparation strategies." />
+    <meta name="keywords" content="gtu, gtu pyq, gtu syllabus, gtu notes, gtu study material, gtu exam paper, gtu paper solution, gtu paper solution pdf, gtu imp questions, gtu student portal, gtu question paper repository, gtu study materials, gtu handwritten notes, gtu subject-wise notes, gujarat technological university, engineering notes, previous year question papers, pyqs, study guides, exam revision, lecture notes, study portal, padhaku portal, padhakuportal" />
+    <meta name="robots" content="index,follow" />
+    <meta name="theme-color" content="#f97316" />
+    <meta property="og:title" content="ShikshaSahayak - Engineering Notes, PYQs and Study Guides" />
+    <meta property="og:site_name" content="ShikshaSahayak" />
+    <meta property="og:description" content="Find organized engineering PYQs, study notes, exam guides, and revision support for semester preparation." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://shikshasahayak.org/" />
+    <meta property="og:image" content="https://shikshasahayak.org/logo.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ShikshaSahayak - Engineering Notes, PYQs and Study Guides" />
+    <meta name="twitter:description" content="Find organized engineering PYQs, study notes, exam guides, and revision support for semester preparation." />
+    <meta name="twitter:image" content="https://shikshasahayak.org/logo.png" />
+    <link rel="canonical" href="https://shikshasahayak.org/" />
+    <title>ShikshaSahayak - Engineering Notes, PYQs and Study Guides</title>
+
+    <!-- PWA Web App Manifest & iOS Tags -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="ShikshaSahayak" />
+    <link rel="apple-touch-icon" href="/logo.png" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="shortcut icon" href="/favicon-32x32.png" />
+    <link rel="stylesheet" href="/src/index.css">
+
+    <!-- Third-party deferred loading script to optimize rendering performance -->
+    <script>
+      function loadThirdPartyScripts() {
+        if (window.thirdPartyScriptsLoaded) return;
+        window.thirdPartyScriptsLoaded = true;
+
+        // Ezoic Privacy and Consent Scripts
+        const ezoicCmp = document.createElement('script');
+        ezoicCmp.setAttribute('data-cfasync', 'false');
+        ezoicCmp.src = 'https://cmp.gatekeeperconsent.com/min.js';
+        ezoicCmp.defer = true;
+        document.head.appendChild(ezoicCmp);
+
+        const ezoicThe = document.createElement('script');
+        ezoicThe.setAttribute('data-cfasync', 'false');
+        ezoicThe.src = 'https://the.gatekeeperconsent.com/cmp.min.js';
+        ezoicThe.defer = true;
+        document.head.appendChild(ezoicThe);
+
+        // Ezoic Header Script
+        window.ezstandalone = window.ezstandalone || {};
+        window.ezstandalone.cmd = window.ezstandalone.cmd || [];
+        const ezoicSa = document.createElement('script');
+        ezoicSa.async = true;
+        ezoicSa.src = '//www.ezojs.com/ezoic/sa.min.js';
+        document.head.appendChild(ezoicSa);
+
+        const ezoicAnalytics = document.createElement('script');
+        ezoicAnalytics.src = '//ezoicanalytics.com/analytics.js';
+        ezoicAnalytics.defer = true;
+        document.head.appendChild(ezoicAnalytics);
+
+        // Clarity tracking code
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, 'clarity', 'script', 'xkpv39aqbq');
+
+        // Google tag manager (gtag.js)
+        const gtm = document.createElement('script');
+        gtm.async = true;
+        gtm.src = 'https://www.googletagmanager.com/gtag/js?id=G-XC3KBRD44E';
+        document.head.appendChild(gtm);
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XC3KBRD44E');
+
+        // Google AdSense
+        const adsense = document.createElement('script');
+        adsense.defer = true;
+        adsense.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5961584768569079';
+        adsense.crossOrigin = 'anonymous';
+        document.head.appendChild(adsense);
+      }
+
+      // Trigger loading after 3.5 seconds or on first user interaction
+      const idleTimeout = setTimeout(loadThirdPartyScripts, 3500);
+      ['click', 'scroll', 'mousemove', 'touchstart'].forEach(event => {
+        window.addEventListener(event, () => {
+          clearTimeout(idleTimeout);
+          loadThirdPartyScripts();
+        }, { passive: true, once: true });
+      });
+    </script>
+
+    <!-- Self-healing dynamic asset recovery script (executes before any bundle loads) -->
+    <script>
+      (function() {
+        var reloadKey = 'padhaku_cdn_reload';
+        var now = Date.now();
+        var lastReload = sessionStorage.getItem(reloadKey);
+        
+        function tryRecover(reason) {
+          if (!lastReload || (now - parseInt(lastReload, 10) > 15000)) {
+            sessionStorage.setItem(reloadKey, now.toString());
+            console.warn('[Self-Healing] Critical asset loading failure (' + reason + '). Bypassing cache...');
+            window.location.reload();
+          }
+        }
+
+        window.addEventListener('error', function(event) {
+          var target = event.target;
+          if (target && (target.tagName === 'SCRIPT' || target.tagName === 'LINK')) {
+            var url = target.src || target.href;
+            if (url && (url.indexOf('/assets/') !== -1 || url.indexOf('.js') !== -1 || url.indexOf('.css') !== -1)) {
+              tryRecover('Failed resource load: ' + url);
+            }
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          var msg = (event.reason && (event.reason.message || event.reason.toString())) || '';
+          if (
+            msg.indexOf('ChunkLoadError') !== -1 ||
+            msg.indexOf('Failed to fetch dynamically imported module') !== -1 ||
+            msg.indexOf('Loading chunk') !== -1
+          ) {
+            tryRecover('Dynamic chunk import error');
+          }
+        });
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx" data-cfasync="false"></script>
+  </body>
+</html>

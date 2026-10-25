@@ -1,0 +1,542 @@
+{
+  "exportDate": "2026-09-03T19:48:44.130Z",
+  "sourceDatabase": "keydocs (d0d22669-42aa-4c36-b9e3-c3aace80cad4)",
+  "tables": {
+    "universities": {
+      "rowCount": 1,
+      "columns": [
+        "id",
+        "name",
+        "short_name",
+        "slug",
+        "created_at",
+        "updated_at",
+        "is_active",
+        "country",
+        "state"
+      ]
+    },
+    "branches": {
+      "rowCount": 7,
+      "columns": [
+        "id",
+        "university_id",
+        "name",
+        "slug",
+        "short_name",
+        "created_at",
+        "updated_at",
+        "Code",
+        "is_active"
+      ]
+    },
+    "document_files": {
+      "rowCount": 406,
+      "columns": [
+        "id",
+        "document_id",
+        "file_type",
+        "storage_key",
+        "file_url",
+        "mime_type",
+        "size_bytes",
+        "is_primary",
+        "created_at",
+        "file_asset_id",
+        "original_filename"
+      ]
+    },
+    "blogs": {
+      "rowCount": 15,
+      "columns": [
+        "id",
+        "related_document_id",
+        "title",
+        "content",
+        "author",
+        "category",
+        "tags",
+        "thumbnail",
+        "status",
+        "views",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "announcements": {
+      "rowCount": 1,
+      "columns": [
+        "id",
+        "text",
+        "link",
+        "created_at"
+      ]
+    },
+    "file_assets": {
+      "rowCount": 217,
+      "columns": [
+        "id",
+        "content_hash",
+        "original_filename",
+        "storage_key",
+        "mime_type",
+        "size_bytes",
+        "created_at"
+      ]
+    },
+    "subjects": {
+      "rowCount": 307,
+      "columns": [
+        "id",
+        "university_id",
+        "branch_id",
+        "semester",
+        "name",
+        "code",
+        "slug",
+        "created_at",
+        "updated_at",
+        "subject_group_id",
+        "wef_year",
+        "is_active",
+        "credits",
+        "syllabus_url",
+        "syllabus_link"
+      ]
+    },
+    "documents": {
+      "rowCount": 406,
+      "columns": [
+        "id",
+        "document_type",
+        "university_id",
+        "branch_id",
+        "semester",
+        "subject_id",
+        "title",
+        "description",
+        "approval_status",
+        "uploaded_by",
+        "approved_by",
+        "approved_at",
+        "blog_id",
+        "parent_document_id",
+        "created_at",
+        "updated_at",
+        "paper_year",
+        "season",
+        "exam_label",
+        "syllabus_year",
+        "regulation",
+        "version_label",
+        "material_kind",
+        "unit_no",
+        "chapter",
+        "topic",
+        "author",
+        "views",
+        "likes",
+        "downloads"
+      ]
+    },
+    "website_popups": {
+      "rowCount": 1,
+      "columns": [
+        "id",
+        "title",
+        "type",
+        "html_content",
+        "is_active",
+        "start_date",
+        "end_date",
+        "frequency",
+        "expiry_days",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "subject_groups": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "d1_migrations": {
+      "rowCount": 14,
+      "columns": [
+        "id",
+        "name",
+        "applied_at"
+      ]
+    },
+    "bug_reports": {
+      "rowCount": 5,
+      "columns": [
+        "id",
+        "user_email",
+        "description",
+        "screenshot_url",
+        "screenshot_storage_key",
+        "error_stack",
+        "browser_info",
+        "status",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "pyq_details": {
+      "rowCount": 5,
+      "columns": [
+        "document_id",
+        "paper_year",
+        "season",
+        "exam_label"
+      ]
+    },
+    "syllabus_details": {
+      "rowCount": 291,
+      "columns": [
+        "document_id",
+        "syllabus_year",
+        "regulation",
+        "version_label"
+      ]
+    },
+    "study_material_details": {
+      "rowCount": 110,
+      "columns": [
+        "document_id",
+        "material_kind",
+        "unit_no",
+        "chapter",
+        "topic",
+        "author"
+      ]
+    },
+    "document_stats": {
+      "rowCount": 406,
+      "columns": [
+        "document_id",
+        "views",
+        "likes",
+        "downloads",
+        "updated_at"
+      ]
+    },
+    "teacher_profiles": {
+      "rowCount": 1,
+      "columns": [
+        "user_id",
+        "full_name",
+        "institution",
+        "department",
+        "designation",
+        "subjects_json",
+        "branches_json",
+        "semesters_json",
+        "is_onboarded",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "class_enrollments": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "teacher_attendance_sessions": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "teacher_attendance_records": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "admin_audit_logs": {
+      "rowCount": 2,
+      "columns": [
+        "id",
+        "admin_id",
+        "action",
+        "resource_type",
+        "resource_id",
+        "details",
+        "ip_address",
+        "created_at",
+        "details_json"
+      ]
+    },
+    "academic_years": {
+      "rowCount": 2,
+      "columns": [
+        "id",
+        "year",
+        "start_date",
+        "end_date",
+        "status",
+        "description",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "content_factory_jobs": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "content_factory_items": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "feature_flags": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "user_beta_access": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "teacher_whitelist": {
+      "rowCount": 1,
+      "columns": [
+        "id",
+        "email",
+        "name",
+        "department",
+        "college",
+        "status",
+        "added_by",
+        "created_at",
+        "updated_at",
+        "notes"
+      ]
+    },
+    "subject_units": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "subject_topics": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "unified_users": {
+      "rowCount": 1,
+      "columns": [
+        "id",
+        "uid",
+        "email",
+        "display_name",
+        "user_type",
+        "status",
+        "ai_beta_enabled",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "custom_roles": {
+      "rowCount": 6,
+      "columns": [
+        "id",
+        "role_key",
+        "name",
+        "description",
+        "badge_color",
+        "icon_name",
+        "is_system",
+        "permissions_json",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "curriculum_nodes": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "canonical_subjects": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_subject_mappings": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_question_papers": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_sync_logs": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "master_question_bank": {
+      "rowCount": 167,
+      "columns": [
+        "id",
+        "source_type",
+        "is_original_pyq",
+        "is_ai_generated",
+        "parent_question_id",
+        "provenance_id",
+        "source_url",
+        "exam_name",
+        "exam_year",
+        "exam_session",
+        "exam_paper_code",
+        "question_no",
+        "sub_question_no",
+        "canonical_subject_id",
+        "subject_code",
+        "subject_name",
+        "semester",
+        "curriculum_node_id",
+        "unit_no",
+        "topic_name",
+        "subtopic_name",
+        "question_type",
+        "question_text",
+        "question_html",
+        "question_image_url",
+        "options_json",
+        "correct_answer_json",
+        "acceptable_numerical_range_json",
+        "explanation",
+        "step_by_step_solution_json",
+        "latex_formulas_json",
+        "diagram_needed",
+        "diagram_r2_url",
+        "marks",
+        "negative_marking",
+        "difficulty",
+        "bloom_level",
+        "tags_json",
+        "verification_status",
+        "verified_by",
+        "verified_at",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "question_branch_mappings": {
+      "rowCount": 812,
+      "columns": [
+        "id",
+        "question_id",
+        "branch_id",
+        "is_primary",
+        "created_at"
+      ]
+    },
+    "question_ingestion_queue": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_mcq_attempts": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_mcq_bookmarks": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "test_sessions": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "test_session_questions": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "question_audit_logs": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_paper_registry": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_paper_discovery_runs": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "question_pipeline_jobs": {
+      "rowCount": 4,
+      "columns": [
+        "job_id",
+        "source_type",
+        "subject_code",
+        "requested_scope",
+        "trigger_mode",
+        "status",
+        "current_stage",
+        "total_items",
+        "processed_items",
+        "failed_items",
+        "staged_items",
+        "is_non_mutating_preview",
+        "checkpoint_json",
+        "error_summary",
+        "started_at",
+        "updated_at",
+        "completed_at"
+      ]
+    },
+    "question_pipeline_checkpoints": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "question_pipeline_errors": {
+      "rowCount": 3,
+      "columns": [
+        "id",
+        "job_id",
+        "item_id",
+        "stage_name",
+        "error_category",
+        "error_message",
+        "stack_trace",
+        "retry_count",
+        "is_resolved",
+        "created_at"
+      ]
+    },
+    "question_quality_metrics": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "question_issue_reports": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "question_quality_events": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_topic_mastery": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_adaptive_recommendations": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_mastery_events": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "student_mcq_topic_progress": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_discovery_runs": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "gtu_paper_ingestion_tracker": {
+      "rowCount": 0,
+      "columns": []
+    },
+    "sqlite_sequence": {
+      "rowCount": 1,
+      "columns": [
+        "name",
+        "seq"
+      ]
+    }
+  }
+}

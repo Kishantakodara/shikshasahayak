@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "coderabbitai": {
+      "command": "npx",
+      "args": ["-y", "coderabbitai-mcp@latest"]
+    },
+    "gsd": {
+      "command": "npx",
+      "args": ["-y", "@gsd-build/mcp-server@latest"]
+    },
+    "threeui": {
+      "url": "https://threeui.com/api/mcp"
+    }
+  }
+}

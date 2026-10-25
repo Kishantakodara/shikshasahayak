@@ -1,0 +1,58 @@
+[
+  {
+    "endpoint": "/api/admin/metrics",
+    "method": "GET",
+    "auth": true,
+    "desc": "Cloudflare Worker Platform Telemetry & Metrics",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/admin/audit-logs",
+    "method": "GET",
+    "auth": true,
+    "desc": "D1 Security & Authentication Audit Logs",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/admin/cleanup",
+    "method": "POST",
+    "auth": true,
+    "desc": "D1 Storage & Foreign Key Cascade Cleanup Task",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/v1/ai/chat",
+    "method": "POST",
+    "auth": true,
+    "desc": "AI Worker Edge Streaming & SSE Gateway",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/personalization/dashboard",
+    "method": "GET",
+    "auth": false,
+    "desc": "Edge Cache-Control & Widget Layout Engine",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/personalization/feed",
+    "method": "GET",
+    "auth": false,
+    "desc": "Recommendation Engine & Edge Feed Query",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/personalization/explore",
+    "method": "GET",
+    "auth": false,
+    "desc": "Knowledge Graph Index & Search Route",
+    "status": 200
+  },
+  {
+    "endpoint": "/api/student/profile",
+    "method": "GET",
+    "auth": false,
+    "desc": "D1 User Academic Profile Endpoint",
+    "status": 200
+  }
+]

@@ -1,0 +1,2215 @@
+﻿[
+  {
+    "results": [
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE02000011",
+        "subject_name": "Mathematics 2",
+        "subject_slug": "mathematics-2",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE02000021",
+        "subject_name": "English for Technical Communication",
+        "subject_slug": "english-for-technical-communication",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00041",
+        "subject_name": "Fundamentals Of AI",
+        "subject_slug": "fundamentals-of-ai",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE04000271",
+        "subject_name": "Computer Networks",
+        "subject_slug": "computer-networks",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000271",
+        "subject_name": "Computer Networks",
+        "subject_slug": "computer-networks",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "civil",
+        "semester": 1
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "computer",
+        "semester": 1
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "electrical",
+        "semester": 1
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "ece",
+        "semester": 1
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "it",
+        "semester": 1
+      },
+      {
+        "code": "BE01R00041",
+        "subject_name": "Mathematics - 1",
+        "subject_slug": "mathematics-1",
+        "branch_slug": "mechanical",
+        "semester": 1
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00061",
+        "subject_name": "Industrial safety and standard",
+        "subject_slug": "industrial-safety-and-standard",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00101",
+        "subject_name": "Basic Civil Engineering",
+        "subject_slug": "basic-civil-engineering",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00061",
+        "subject_name": "Engineering Graphic Design",
+        "subject_slug": "engineering-graphic-design",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00121",
+        "subject_name": "Programming for Problem Solving",
+        "subject_slug": "programming-for-problem-solving",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00091",
+        "subject_name": "MECHANICS OF SOLIDS",
+        "subject_slug": "mechanics-of-solids",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00021",
+        "subject_name": "Physics",
+        "subject_slug": "physics",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00031",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00051",
+        "subject_name": "Basic Electrical Engineering",
+        "subject_slug": "basic-electrical-engineering",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00111",
+        "subject_name": "Basic Electronic Engineering",
+        "subject_slug": "basic-electronic-engineering",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00081",
+        "subject_name": "Basic Mechanical Engineering",
+        "subject_slug": "basic-mechanical-engineering",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R000141",
+        "subject_name": "Universal Human Values",
+        "subject_slug": "universal-human-values",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00031",
+        "subject_name": "Intellectual Property Rights",
+        "subject_slug": "intellectual-property-rights",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "civil",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "computer",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "electrical",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "ece",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "it",
+        "semester": 2
+      },
+      {
+        "code": "BE02R00071",
+        "subject_name": "Standardization and Quality Ecosystem",
+        "subject_slug": "standardization-and-quality-ecosystem",
+        "branch_slug": "mechanical",
+        "semester": 2
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "civil",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "computer",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "electrical",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "ece",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "it",
+        "semester": 0
+      },
+      {
+        "code": "BE01R00161",
+        "subject_name": "Integrated Personality Development Course",
+        "subject_slug": "integrated-personality-development-course",
+        "branch_slug": "mechanical",
+        "semester": 0
+      },
+      {
+        "code": "BE03000251",
+        "subject_name": "Probability and Statistics",
+        "subject_slug": "probability-and-statistics",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000251",
+        "subject_name": "Probability and Statistics",
+        "subject_slug": "probability-and-statistics",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000091",
+        "subject_name": "Database Management System",
+        "subject_slug": "database-management-system",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000091",
+        "subject_name": "Database Management System",
+        "subject_slug": "database-management-system",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000071",
+        "subject_name": "Digital Fundamentals",
+        "subject_slug": "digital-fundamentals",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000071",
+        "subject_name": "Digital Fundamentals",
+        "subject_slug": "digital-fundamentals",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000081",
+        "subject_name": "Data Structures",
+        "subject_slug": "data-structures",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000081",
+        "subject_name": "Data Structures",
+        "subject_slug": "data-structures",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000061",
+        "subject_name": "Indian Constitution",
+        "subject_slug": "indian-constitution",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000241",
+        "subject_name": "Indian Knowledge System for Engineering",
+        "subject_slug": "indian-knowledge-system-for-engineering",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "computer",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE03000051",
+        "subject_name": "Professional Communication and Ethics",
+        "subject_slug": "professional-communication-and-ethics",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000231",
+        "subject_name": "Machine Drawing and Elements of Machine Design",
+        "subject_slug": "machine-drawing-and-elements-of-machine-design",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000221",
+        "subject_name": "Material Science and Metallurgy",
+        "subject_slug": "material-science-and-metallurgy",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000211",
+        "subject_name": "Mathematics 3 (Mechanical)",
+        "subject_slug": "mathematics-3-mechanical",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000201",
+        "subject_name": "Engineering Thermodynamics",
+        "subject_slug": "engineering-thermodynamics",
+        "branch_slug": "mechanical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000251",
+        "subject_name": "Probability and Statistics",
+        "subject_slug": "probability-and-statistics",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000181",
+        "subject_name": "Digital System Design",
+        "subject_slug": "digital-system-design",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000171",
+        "subject_name": "Signals and Systems",
+        "subject_slug": "signals-and-systems",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03000161",
+        "subject_name": "Network Theory",
+        "subject_slug": "network-theory",
+        "branch_slug": "ece",
+        "semester": 3
+      },
+      {
+        "code": "BE03009011",
+        "subject_name": "Analog and Digital Electronics",
+        "subject_slug": "analog-and-digital-electronics",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03009031",
+        "subject_name": "Electrical Circuit Analysis",
+        "subject_slug": "electrical-circuit-analysis",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03009021",
+        "subject_name": "Electrical Machines I",
+        "subject_slug": "electrical-machines-i",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03000191",
+        "subject_name": "Numerical Methods for Electrical Engineering",
+        "subject_slug": "numerical-methods-for-electrical-engineering",
+        "branch_slug": "electrical",
+        "semester": 3
+      },
+      {
+        "code": "BE03006031",
+        "subject_name": "Building Construction and Technology",
+        "subject_slug": "building-construction-and-technology",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03006021",
+        "subject_name": "Concrete Technology",
+        "subject_slug": "concrete-technology",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03006011",
+        "subject_name": "Theory of Structure",
+        "subject_slug": "theory-of-structure",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": "BE03000251",
+        "subject_name": "Probability and Statistics",
+        "subject_slug": "probability-and-statistics",
+        "branch_slug": "civil",
+        "semester": 3
+      },
+      {
+        "code": null,
+        "subject_name": "Maths",
+        "subject_slug": "maths",
+        "branch_slug": "it",
+        "semester": 3
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000161",
+        "subject_name": "Fluid Mechanics",
+        "subject_slug": "fluid-mechanics",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000171",
+        "subject_name": "Kinematics and Theory of Machines",
+        "subject_slug": "kinematics-and-theory-of-machines",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000181",
+        "subject_name": "Mechanical Measurement and Metrology",
+        "subject_slug": "mechanical-measurement-and-metrology",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000191",
+        "subject_name": "Manufacturing Processes",
+        "subject_slug": "manufacturing-processes",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000201",
+        "subject_name": "Operation Research",
+        "subject_slug": "operation-research",
+        "branch_slug": "mechanical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000251",
+        "subject_name": "Computer Organization & Architecture",
+        "subject_slug": "computer-organization-and-architecture",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000261",
+        "subject_name": "Discrete Mathematics and Graph Theory",
+        "subject_slug": "discrete-mathematics-and-graph-theory",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000231",
+        "subject_name": "Object Oriented Programming",
+        "subject_slug": "object-oriented-programming",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000221",
+        "subject_name": "Operating System",
+        "subject_slug": "operating-system",
+        "branch_slug": "it",
+        "semester": 4
+      },
+      {
+        "code": "BE04000301",
+        "subject_name": "Electromagnetics",
+        "subject_slug": "electromagnetics",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04000051",
+        "subject_name": "Linear Integrated Circuits",
+        "subject_slug": "linear-integrated-circuits",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04000061",
+        "subject_name": "Microcontroller",
+        "subject_slug": "microcontroller",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04000031",
+        "subject_name": "Principles of Communication",
+        "subject_slug": "principles-of-communication",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04000041",
+        "subject_name": "Control Systems",
+        "subject_slug": "control-systems",
+        "branch_slug": "ece",
+        "semester": 4
+      },
+      {
+        "code": "BE04009021",
+        "subject_name": "Engineering Electromagnetics",
+        "subject_slug": "engineering-electromagnetics",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04009011",
+        "subject_name": "Electrical Machines-II",
+        "subject_slug": "electrical-machines-ii",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04009031",
+        "subject_name": "Power Electronics",
+        "subject_slug": "power-electronics",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04009041",
+        "subject_name": "Power Systems l",
+        "subject_slug": "power-systems-l",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04009051",
+        "subject_name": "Signals and Systems",
+        "subject_slug": "signals-and-systems",
+        "branch_slug": "electrical",
+        "semester": 4
+      },
+      {
+        "code": "BE04000241",
+        "subject_name": "Analysis and Design of Algorithms",
+        "subject_slug": "analysis-and-design-of-algorithms",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04000251",
+        "subject_name": "Computer Organization & Architecture",
+        "subject_slug": "computer-organization-and-architecture",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04000261",
+        "subject_name": "Discrete Mathematics and Graph Theory",
+        "subject_slug": "discrete-mathematics-and-graph-theory",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04000231",
+        "subject_name": "Object Oriented Programming",
+        "subject_slug": "object-oriented-programming",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04000221",
+        "subject_name": "Operating System",
+        "subject_slug": "operating-system",
+        "branch_slug": "computer",
+        "semester": 4
+      },
+      {
+        "code": "BE04006051",
+        "subject_name": "Fluid Mechanics",
+        "subject_slug": "fluid-mechanics",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": "BE04006021",
+        "subject_name": "Geotechnical Engineering",
+        "subject_slug": "geotechnical-engineering",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": "BE04006011",
+        "subject_name": "Surveying",
+        "subject_slug": "surveying",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": "BE04006041",
+        "subject_name": "Basic Structural Analysis",
+        "subject_slug": "basic-structural-analysis",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": "BE04006031",
+        "subject_name": "Building and Town Planning",
+        "subject_slug": "building-and-town-planning",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": "BE04000101",
+        "subject_name": "Environmental Science, Sustainability and Renewable Energy",
+        "subject_slug": "environmental-science-sustainability-and-renewable-energy",
+        "branch_slug": "civil",
+        "semester": 4
+      },
+      {
+        "code": null,
+        "subject_name": "Testing Compression",
+        "subject_slug": "testing-compression",
+        "branch_slug": "computer",
+        "semester": 1
+      },
+      {
+        "code": "BE05006071",
+        "subject_name": "Air and Noise Pollution",
+        "subject_slug": "air-and-noise-pollution",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006051",
+        "subject_name": "Advanced Structural Analysis",
+        "subject_slug": "advanced-structural-analysis",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000511",
+        "subject_name": "Computer Organization & Architecture",
+        "subject_slug": "computer-organization-and-architecture",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006011",
+        "subject_name": "Design of Reinforced Concrete Structure",
+        "subject_slug": "design-of-reinforced-concrete-structure",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000431",
+        "subject_name": "Energy Audit and Management",
+        "subject_slug": "energy-audit-and-management",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006021",
+        "subject_name": "Engineering Hydrology",
+        "subject_slug": "engineering-hydrology",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000461",
+        "subject_name": "Fuzzy Logic and Genetic Programming",
+        "subject_slug": "fuzzy-logic-and-genetic-programming",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000541",
+        "subject_name": "Fundamental of Power Electronics",
+        "subject_slug": "fundamental-of-power-electronics",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000501",
+        "subject_name": "Instrumentation and Measurement Techniques",
+        "subject_slug": "instrumentation-and-measurement-techniques",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000471",
+        "subject_name": "Oil Hydraulics and Pneumatics",
+        "subject_slug": "oil-hydraulics-and-pneumatics",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006061",
+        "subject_name": "Pavement Design and Construction",
+        "subject_slug": "pavement-design-and-construction",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000481",
+        "subject_name": "Project Management",
+        "subject_slug": "project-management",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006041",
+        "subject_name": "Soil Mechanics",
+        "subject_slug": "soil-mechanics",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05006031",
+        "subject_name": "Transportation Engineering",
+        "subject_slug": "transportation-engineering",
+        "branch_slug": "civil",
+        "semester": 5
+      },
+      {
+        "code": "BE05000131",
+        "subject_name": "Advanced Java Programming",
+        "subject_slug": "advanced-java-programming",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000441",
+        "subject_name": "Application of Remote Sensing and GIS in Engineering",
+        "subject_slug": "application-of-remote-sensing-and-gis-in-engineering",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000171",
+        "subject_name": "Computer Networks",
+        "subject_slug": "computer-networks",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000181",
+        "subject_name": "Data Mining Techniques",
+        "subject_slug": "data-mining-techniques",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000431",
+        "subject_name": "Energy Audit and Management",
+        "subject_slug": "energy-audit-and-management",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000541",
+        "subject_name": "Fundamental of Power Electronics",
+        "subject_slug": "fundamental-of-power-electronics",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000501",
+        "subject_name": "Instrumentation and Measurement Techniques",
+        "subject_slug": "instrumentation-and-measurement-techniques",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000551",
+        "subject_name": "Microprocessor and Interfacing",
+        "subject_slug": "microprocessor-and-interfacing",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000471",
+        "subject_name": "Oil Hydraulics and Pneumatics",
+        "subject_slug": "oil-hydraulics-and-pneumatics",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000451",
+        "subject_name": "Occupational Health & Safety Management",
+        "subject_slug": "occupational-health-and-safety-management",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000231",
+        "subject_name": "Python for Data Science",
+        "subject_slug": "python-for-data-science",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000481",
+        "subject_name": "Project Management",
+        "subject_slug": "project-management",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000261",
+        "subject_name": "System Software",
+        "subject_slug": "system-software",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05000281",
+        "subject_name": "Web Application Development",
+        "subject_slug": "web-application-development",
+        "branch_slug": "computer",
+        "semester": 5
+      },
+      {
+        "code": "BE05009061",
+        "subject_name": "Advanced Power Electronics",
+        "subject_slug": "advanced-power-electronics",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000441",
+        "subject_name": "Application of Remote Sensing and GIS in Engineering",
+        "subject_slug": "application-of-remote-sensing-and-gis-in-engineering",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000511",
+        "subject_name": "Computer Organization & Architecture",
+        "subject_slug": "computer-organization-and-architecture",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009011",
+        "subject_name": "Control Systems",
+        "subject_slug": "control-systems",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009091",
+        "subject_name": "Electrical Distribution Systems",
+        "subject_slug": "electrical-distribution-systems",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009041",
+        "subject_name": "Elements of Electrical Design",
+        "subject_slug": "elements-of-electrical-design",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009081",
+        "subject_name": "Energy Management and Audit",
+        "subject_slug": "energy-management-and-audit",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000461",
+        "subject_name": "Fuzzy Logic and Genetic Programming",
+        "subject_slug": "fuzzy-logic-and-genetic-programming",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009071",
+        "subject_name": "High Voltage Engineering",
+        "subject_slug": "high-voltage-engineering",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009031",
+        "subject_name": "Measurement and Instrumentation",
+        "subject_slug": "measurement-and-instrumentation",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000471",
+        "subject_name": "Oil Hydraulics and Pneumatics",
+        "subject_slug": "oil-hydraulics-and-pneumatics",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000451",
+        "subject_name": "Occupational Health & Safety Management",
+        "subject_slug": "occupational-health-and-safety-management",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000481",
+        "subject_name": "Project Management",
+        "subject_slug": "project-management",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009021",
+        "subject_name": "Power Systems-II",
+        "subject_slug": "power-systems-ii",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05009051",
+        "subject_name": "Renewable Energy Technology",
+        "subject_slug": "renewable-energy-technology",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000381",
+        "subject_name": "Antennas and Wave Propagation",
+        "subject_slug": "antennas-and-wave-propagation",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000361",
+        "subject_name": "Digital Communications",
+        "subject_slug": "digital-communications",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "electrical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000431",
+        "subject_name": "Energy Audit and Management",
+        "subject_slug": "energy-audit-and-management",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000461",
+        "subject_name": "Fuzzy Logic and Genetic Programming",
+        "subject_slug": "fuzzy-logic-and-genetic-programming",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000501",
+        "subject_name": "Instrumentation and Measurement Techniques",
+        "subject_slug": "instrumentation-and-measurement-techniques",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000471",
+        "subject_name": "Oil Hydraulics and Pneumatics",
+        "subject_slug": "oil-hydraulics-and-pneumatics",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000451",
+        "subject_name": "Occupational Health & Safety Management",
+        "subject_slug": "occupational-health-and-safety-management",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000421",
+        "subject_name": "PCB Designing and Fabrication",
+        "subject_slug": "pcb-designing-and-fabrication",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000391",
+        "subject_name": "Power Electronics",
+        "subject_slug": "power-electronics",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000481",
+        "subject_name": "Project Management",
+        "subject_slug": "project-management",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000411",
+        "subject_name": "Python Programming",
+        "subject_slug": "python-programming",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000401",
+        "subject_name": "Sensors and Transducers",
+        "subject_slug": "sensors-and-transducers",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000371",
+        "subject_name": "VLSI Design",
+        "subject_slug": "vlsi-design",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000351",
+        "subject_name": "Advance Microcontroller",
+        "subject_slug": "advance-microcontroller",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000441",
+        "subject_name": "Application of Remote Sensing and GIS in Engineering",
+        "subject_slug": "application-of-remote-sensing-and-gis-in-engineering",
+        "branch_slug": "ece",
+        "semester": 5
+      },
+      {
+        "code": "BE05000441",
+        "subject_name": "Application of Remote Sensing and GIS in Engineering",
+        "subject_slug": "application-of-remote-sensing-and-gis-in-engineering",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000161",
+        "subject_name": "Computer Graphics and Visualization",
+        "subject_slug": "computer-graphics-and-visualization",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05016041",
+        "subject_name": "Cyber Security",
+        "subject_slug": "cyber-security",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05016021",
+        "subject_name": "Data Science",
+        "subject_slug": "data-science",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000431",
+        "subject_name": "Energy Audit and Management",
+        "subject_slug": "energy-audit-and-management",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000541",
+        "subject_name": "Fundamental of Power Electronics",
+        "subject_slug": "fundamental-of-power-electronics",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000501",
+        "subject_name": "Instrumentation and Measurement Techniques",
+        "subject_slug": "instrumentation-and-measurement-techniques",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000471",
+        "subject_name": "Oil Hydraulics and Pneumatics",
+        "subject_slug": "oil-hydraulics-and-pneumatics",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000451",
+        "subject_name": "Occupational Health & Safety Management",
+        "subject_slug": "occupational-health-and-safety-management",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000481",
+        "subject_name": "Project Management",
+        "subject_slug": "project-management",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000261",
+        "subject_name": "System Software",
+        "subject_slug": "system-software",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000281",
+        "subject_name": "Web Application Development",
+        "subject_slug": "web-application-development",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05016011",
+        "subject_name": "Algorithm Analysis and Design",
+        "subject_slug": "algorithm-analysis-and-design",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05016031",
+        "subject_name": "Advanced Database Management System",
+        "subject_slug": "advanced-database-management-system",
+        "branch_slug": "it",
+        "semester": 5
+      },
+      {
+        "code": "BE05000441",
+        "subject_name": "Application of Remote Sensing and GIS in Engineering",
+        "subject_slug": "application-of-remote-sensing-and-gis-in-engineering",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000321",
+        "subject_name": "Basics of Industrial Engineering",
+        "subject_slug": "basics-of-industrial-engineering",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000511",
+        "subject_name": "Computer Organization & Architecture",
+        "subject_slug": "computer-organization-and-architecture",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000301",
+        "subject_name": "Dynamics of Machinery",
+        "subject_slug": "dynamics-of-machinery",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000431",
+        "subject_name": "Energy Audit and Management",
+        "subject_slug": "energy-audit-and-management",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05019021",
+        "subject_name": "Energy Conservation and Management",
+        "subject_slug": "energy-conservation-and-management",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000461",
+        "subject_name": "Fuzzy Logic and Genetic Programming",
+        "subject_slug": "fuzzy-logic-and-genetic-programming",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000541",
+        "subject_name": "Fundamental of Power Electronics",
+        "subject_slug": "fundamental-of-power-electronics",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000291",
+        "subject_name": "Heat Transfer",
+        "subject_slug": "heat-transfer",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000491",
+        "subject_name": "Introduction to Biomedical Technology",
+        "subject_slug": "introduction-to-biomedical-technology",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000501",
+        "subject_name": "Instrumentation and Measurement Techniques",
+        "subject_slug": "instrumentation-and-measurement-techniques",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000311",
+        "subject_name": "Manufacturing Technology",
+        "subject_slug": "manufacturing-technology",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000451",
+        "subject_name": "Occupational Health & Safety Management",
+        "subject_slug": "occupational-health-and-safety-management",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000581",
+        "subject_name": "Product Design and Value Engineering",
+        "subject_slug": "product-design-and-value-engineering",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000331",
+        "subject_name": "Quality and Reliability Engineering",
+        "subject_slug": "quality-and-reliability-engineering",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000521",
+        "subject_name": "Sustainability and Circularity in Textile Industry",
+        "subject_slug": "sustainability-and-circularity-in-textile-industry",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000561",
+        "subject_name": "Sustainable Energy Technology",
+        "subject_slug": "sustainable-energy-technology",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000011",
+        "subject_name": "Societal Internship",
+        "subject_slug": "societal-internship",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000571",
+        "subject_name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+        "subject_slug": "sustainable-polymers-materials-safety-and-circular-economy",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "BE05000531",
+        "subject_name": "Textile for Engineering Application",
+        "subject_slug": "textile-for-engineering-application",
+        "branch_slug": "mechanical",
+        "semester": 5
+      },
+      {
+        "code": "INT-3181901",
+        "subject_name": "Internship/Project",
+        "subject_slug": "internship-project",
+        "branch_slug": "mechanical",
+        "semester": 8
+      },
+      {
+        "code": "3183101",
+        "subject_name": "Internship/Project",
+        "subject_slug": "internship-project",
+        "branch_slug": "computer",
+        "semester": 8
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 3.8341
+      },
+      "duration": 3.8341,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 1646592,
+      "rows_read": 626,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]

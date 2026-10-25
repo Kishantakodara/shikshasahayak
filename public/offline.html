@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline — ShikshaSahayak</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0F172A;
+      color: #F8FAFC;
+      font-family: 'Inter', system-ui, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      box-sizing: border-box;
+      padding: 24px;
+    }
+    .card {
+      background-color: #111827;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 24px;
+      padding: 32px;
+      max-width: 420px;
+      width: 100%;
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+    }
+    .icon {
+      width: 64px;
+      height: 64px;
+      background: rgba(249, 115, 22, 0.1);
+      color: #f97316;
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 16px auto;
+      font-size: 28px;
+    }
+    h1 {
+      font-size: 20px;
+      font-weight: 800;
+      margin: 0 0 8px 0;
+    }
+    p {
+      font-size: 13px;
+      color: #94A3B8;
+      line-height: 1.6;
+      margin: 0 0 24px 0;
+    }
+    button {
+      background-color: #f97316;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 13px;
+      font-weight: 700;
+      border-radius: 12px;
+      cursor: pointer;
+      width: 100%;
+      transition: background-color 0.2s ease;
+    }
+    button:hover {
+      background-color: #ea580c;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">⚡</div>
+    <h1>You are currently Offline</h1>
+    <p>ShikshaSahayak is operating in Offline Mode. Previously downloaded GTU notes, PYQs, and cached study plans remain accessible in your PWA application.</p>
+    <button onclick="window.location.href='/'">Retry Connection</button>
+  </div>
+  <script>
+    window.addEventListener('online', function() {
+      window.location.href = '/';
+    });
+    if (navigator.onLine) {
+      setTimeout(function() {
+        window.location.href = '/';
+      }, 500);
+    }
+  </script>
+</body>
+</html>

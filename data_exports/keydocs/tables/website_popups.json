@@ -1,0 +1,15 @@
+[
+  {
+    "id": "popup_welcome_beta_2026",
+    "title": "Welcome to ShikshaSahayak 2.0 Beta!",
+    "type": "announcement",
+    "html_content": "<h3>🚀 GTU Study Portal 2.0</h3><p>Access 290+ Syllabus guides, 110+ Study Materials, and Previous Year Questions across all Engineering Branches.</p>",
+    "is_active": 1,
+    "start_date": null,
+    "end_date": null,
+    "frequency": "once",
+    "expiry_days": 7,
+    "created_at": "2026-08-10 06:01:45",
+    "updated_at": "2026-08-10 06:01:45"
+  }
+]

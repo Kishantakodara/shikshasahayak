@@ -1,0 +1,22 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Allow public read & admin write for Beta Whitelist collection
+    match /beta_whitelist/{email} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Allow public read & admin write for Teacher Whitelist collection
+    match /teacher_whitelist/{email} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Default rule for all other collections
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

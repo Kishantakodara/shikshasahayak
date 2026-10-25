@@ -1,0 +1,270 @@
+@import "katex/dist/katex.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #F8FAFC;
+    --surface: #FFFFFF;
+    --surface-secondary: #F1F5F9;
+    --primary: #F97316;
+    --secondary: #06B6D4;
+    --accent: #F97316;
+    --text: #0F172A;
+    --muted: #64748B;
+    --border: #E2E8F0;
+    --success: #22C55E;
+    --warning: #F59E0B;
+    --danger: #EF4444;
+
+    /* EdTech Category Colors (Light) */
+    --cat-notes: #2563EB;
+    --cat-notes-bg: #EFF6FF;
+    --cat-notes-border: #BFDBFE;
+    --cat-pyq: #7C3AED;
+    --cat-pyq-bg: #F5F3FF;
+    --cat-pyq-border: #DDD6FE;
+    --cat-syllabus: #059669;
+    --cat-syllabus-bg: #ECFDF5;
+    --cat-syllabus-border: #A7F3D0;
+    --cat-blog: #D97706;
+    --cat-blog-bg: #FFFBEB;
+    --cat-blog-border: #FDE68A;
+
+    /* Dashboard variables (Light Mode) */
+    --foreground: #0F172A;
+    --primary-foreground: #FFFFFF;
+    --secondary-foreground: #0F172A;
+    --muted-foreground: #64748B;
+    --accent-foreground: #0F172A;
+    --popover: #FFFFFF;
+    --popover-foreground: #0F172A;
+    --card: #FFFFFF;
+    --card-foreground: #0F172A;
+    --input: #E2E8F0;
+    --ring: #F97316;
+    
+    --sidebar-background: #FFFFFF;
+    --sidebar-foreground: #334155;
+    --sidebar-primary: #F97316;
+    --sidebar-primary-foreground: #FFFFFF;
+    --sidebar-accent: #F1F5F9;
+    --sidebar-accent-foreground: #F97316;
+    --sidebar-border: #E2E8F0;
+    --sidebar-ring: #F97316;
+  }
+
+  .dark {
+    --background: #090D1A;
+    --surface: #0F172A;
+    --surface-secondary: #1E293B;
+    --primary: #F97316;
+    --secondary: #06B6D4;
+    --accent: #F97316;
+    --text: #F8FAFC;
+    --muted: #94A3B8;
+    --border: rgba(255,255,255,0.08);
+    --success: #22C55E;
+    --warning: #F59E0B;
+    --danger: #EF4444;
+
+    /* EdTech Category Colors (Dark) */
+    --cat-notes: #60A5FA;
+    --cat-notes-bg: rgba(37, 99, 235, 0.15);
+    --cat-notes-border: rgba(96, 165, 250, 0.3);
+    --cat-pyq: #A78BFA;
+    --cat-pyq-bg: rgba(124, 58, 237, 0.15);
+    --cat-pyq-border: rgba(167, 139, 250, 0.3);
+    --cat-syllabus: #34D399;
+    --cat-syllabus-bg: rgba(5, 150, 105, 0.15);
+    --cat-syllabus-border: rgba(52, 211, 153, 0.3);
+    --cat-blog: #FBBF24;
+    --cat-blog-bg: rgba(217, 119, 6, 0.15);
+    --cat-blog-border: rgba(251, 191, 36, 0.3);
+
+    /* Dashboard variables (Dark Mode) */
+    --foreground: #F8FAFC;
+    --primary-foreground: #FFFFFF;
+    --secondary-foreground: #F8FAFC;
+    --muted-foreground: #94A3B8;
+    --accent-foreground: #F8FAFC;
+    --popover: #0F172A;
+    --popover-foreground: #F8FAFC;
+    --card: #0F172A;
+    --card-foreground: #F8FAFC;
+    --input: rgba(255,255,255,0.08);
+    --ring: #F97316;
+    
+    --sidebar-background: #0F172A;
+    --sidebar-foreground: #94A3B8;
+    --sidebar-primary: #F97316;
+    --sidebar-primary-foreground: #FFFFFF;
+    --sidebar-accent: #1E293B;
+    --sidebar-accent-foreground: #F8FAFC;
+    --sidebar-border: rgba(255,255,255,0.08);
+    --sidebar-ring: #F97316;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    overflow-x: hidden;
+    width: 100%;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    touch-action: manipulation;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+@layer components {
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--muted);
+  }
+
+  /* Background Patterns */
+  .bg-grid {
+    background-size: 40px 40px;
+    mask-image: linear-gradient(to bottom, transparent, 5%, black, 95%, transparent);
+  }
+
+  /* Glassmorphism */
+  .glass {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--border);
+  }
+  .dark .glass {
+    background: rgba(15, 23, 42, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  /* Interactive Cards */
+  .card-interactive {
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .card-interactive:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px -6px rgba(0, 0, 0, 0.08), 0 4px 12px -2px rgba(0, 0, 0, 0.04);
+  }
+  .dark .card-interactive:hover {
+    box-shadow: 0 16px 32px -8px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(249, 115, 22, 0.2);
+  }
+
+  /* Category Badges */
+  .badge-notes {
+    background-color: var(--cat-notes-bg);
+    color: var(--cat-notes);
+    border: 1px solid var(--cat-notes-border);
+  }
+  .badge-pyq {
+    background-color: var(--cat-pyq-bg);
+    color: var(--cat-pyq);
+    border: 1px solid var(--cat-pyq-border);
+  }
+  .badge-syllabus {
+    background-color: var(--cat-syllabus-bg);
+    color: var(--cat-syllabus);
+    border: 1px solid var(--cat-syllabus-border);
+  }
+  .badge-blog {
+    background-color: var(--cat-blog-bg);
+    color: var(--cat-blog);
+    border: 1px solid var(--cat-blog-border);
+  }
+
+  /* Markdown Styles */
+  .prose p { margin-bottom: 1em; line-height: 1.7; }
+  .prose ul, .prose ol { padding-left: 1.25em; margin-bottom: 1em; }
+  .prose li { margin-bottom: 0.5em; list-style-type: disc; }
+  .prose strong { font-weight: 700; color: var(--text); }
+  .prose code { background-color: rgba(249, 115, 22, 0.1); padding: 0.2em 0.4em; border-radius: 0.3em; font-family: monospace; font-size: 0.9em; color: var(--primary); font-weight: 500; }
+  .prose blockquote { border-left: 4px solid var(--border); padding-left: 1em; font-style: italic; color: var(--muted); }
+}
+
+@layer utilities {
+  .animate-float {
+    animation: float 4s ease-in-out infinite;
+  }
+  .animate-slide-up {
+    animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+  .scrollbar-hide::-webkit-scrollbar,
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide,
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes shimmer {
+  100% { transform: translateX(100%); }
+}
+
+/* Responsive mobile optimizations */
+@supports (padding: env(safe-area-inset-bottom)) {
+  body {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+@media (max-width: 640px) {
+  /* Ensure images and media don't exceed container boundaries */
+  img, svg, video, canvas, audio, iframe, embed, object {
+    max-width: 100%;
+    height: auto;
+  }
+}
+

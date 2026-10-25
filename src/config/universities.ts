@@ -1,0 +1,61 @@
+export interface TechnicalUniversity {
+  id: string;
+  name: string;
+  shortName: string;
+  state: string;
+  type: 'Central' | 'State' | 'Deemed' | 'Private' | 'Institute of National Importance';
+}
+
+export const TECHNICAL_UNIVERSITIES: TechnicalUniversity[] = [
+  { id: 'gtu', name: 'Gujarat Technological University (GTU)', shortName: 'GTU', state: 'Gujarat', type: 'State' },
+  { id: 'aktu', name: 'Dr. A.P.J. Abdul Kalam Technical University (AKTU / UPTU)', shortName: 'AKTU', state: 'Uttar Pradesh', type: 'State' },
+  { id: 'vtu', name: 'Visvesvaraya Technological University (VTU)', shortName: 'VTU', state: 'Karnataka', type: 'State' },
+  { id: 'anna', name: 'Anna University', shortName: 'Anna Univ', state: 'Tamil Nadu', type: 'State' },
+  { id: 'jntuh', name: 'Jawaharlal Nehru Technological University (JNTUH)', shortName: 'JNTUH', state: 'Telangana', type: 'State' },
+  { id: 'jntuk', name: 'Jawaharlal Nehru Technological University (JNTUK)', shortName: 'JNTUK', state: 'Andhra Pradesh', type: 'State' },
+  { id: 'jntua', name: 'Jawaharlal Nehru Technological University (JNTUA)', shortName: 'JNTUA', state: 'Andhra Pradesh', type: 'State' },
+  { id: 'makaut', name: 'Maulana Abul Kalam Azad University of Technology (MAKAUT / WBUT)', shortName: 'MAKAUT', state: 'West Bengal', type: 'State' },
+  { id: 'rgpv', name: 'Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)', shortName: 'RGPV', state: 'Madhya Pradesh', type: 'State' },
+  { id: 'rtu', name: 'Rajasthan Technical University (RTU)', shortName: 'RTU', state: 'Rajasthan', type: 'State' },
+  { id: 'btu', name: 'Bikaner Technical University (BTU)', shortName: 'BTU', state: 'Rajasthan', type: 'State' },
+  { id: 'ptu', name: 'I.K. Gujral Punjab Technical University (IKGPTU)', shortName: 'PTU', state: 'Punjab', type: 'State' },
+  { id: 'csvtu', name: 'Chhattisgarh Swami Vivekanand Technical University (CSVTU)', shortName: 'CSVTU', state: 'Chhattisgarh', type: 'State' },
+  { id: 'bput', name: 'Biju Patnaik University of Technology (BPUT)', shortName: 'BPUT', state: 'Odisha', type: 'State' },
+  { id: 'hptu', name: 'Himachal Pradesh Technical University (HPTU)', shortName: 'HPTU', state: 'Himachal Pradesh', type: 'State' },
+  { id: 'astu', name: 'Assam Science and Technology University (ASTU)', shortName: 'ASTU', state: 'Assam', type: 'State' },
+  { id: 'utu', name: 'Veer Madho Singh Bhandari Uttarakhand Technical University (UTU)', shortName: 'UTU', state: 'Uttarakhand', type: 'State' },
+  { id: 'jut', name: 'Jharkhand University of Technology (JUT)', shortName: 'JUT', state: 'Jharkhand', type: 'State' },
+  { id: 'sppu', name: 'Savitribai Phule Pune University (SPPU / Pune University)', shortName: 'SPPU', state: 'Maharashtra', type: 'State' },
+  { id: 'mu', name: 'University of Mumbai (MU)', shortName: 'Mumbai Univ', state: 'Maharashtra', type: 'State' },
+  { id: 'dbatu', name: 'Dr. Babasaheb Ambedkar Technological University (DBATU)', shortName: 'DBATU', state: 'Maharashtra', type: 'State' },
+  { id: 'coep', name: 'COEP Technological University', shortName: 'COEP Tech', state: 'Maharashtra', type: 'State' },
+  { id: 'dtu', name: 'Delhi Technological University (DTU)', shortName: 'DTU', state: 'Delhi', type: 'State' },
+  { id: 'nsut', name: 'Netaji Subhas University of Technology (NSUT)', shortName: 'NSUT', state: 'Delhi', type: 'State' },
+  { id: 'ggsipu', name: 'Guru Gobind Singh Indraprastha University (GGSIPU)', shortName: 'GGSIPU', state: 'Delhi', type: 'State' },
+  { id: 'igdtuw', name: 'Indira Gandhi Delhi Technical University for Women (IGDTUW)', shortName: 'IGDTUW', state: 'Delhi', type: 'State' },
+  { id: 'hbtu', name: 'Harcourt Butler Technical University (HBTU)', shortName: 'HBTU', state: 'Uttar Pradesh', type: 'State' },
+  { id: 'mmmut', name: 'Madan Mohan Malaviya University of Technology (MMMUT)', shortName: 'MMMUT', state: 'Uttar Pradesh', type: 'State' },
+  { id: 'jmi', name: 'Jamia Millia Islamia (Faculty of Engineering & Technology)', shortName: 'JMI', state: 'Delhi', type: 'Central' },
+  { id: 'amu', name: 'Aligarh Muslim University (Z.H. College of Engineering & Tech)', shortName: 'AMU', state: 'Uttar Pradesh', type: 'Central' },
+  { id: 'bhu', name: 'Indian Institute of Technology (BHU) Varanasi', shortName: 'IIT BHU', state: 'Uttar Pradesh', type: 'Institute of National Importance' },
+  { id: 'iit_bombay', name: 'Indian Institute of Technology Bombay (IITB)', shortName: 'IIT Bombay', state: 'Maharashtra', type: 'Institute of National Importance' },
+  { id: 'iit_delhi', name: 'Indian Institute of Technology Delhi (IITD)', shortName: 'IIT Delhi', state: 'Delhi', type: 'Institute of National Importance' },
+  { id: 'iit_madras', name: 'Indian Institute of Technology Madras (IITM)', shortName: 'IIT Madras', state: 'Tamil Nadu', type: 'Institute of National Importance' },
+  { id: 'iit_kanpur', name: 'Indian Institute of Technology Kanpur (IITK)', shortName: 'IIT Kanpur', state: 'Uttar Pradesh', type: 'Institute of National Importance' },
+  { id: 'iit_kharagpur', name: 'Indian Institute of Technology Kharagpur (IIT KGP)', shortName: 'IIT Kharagpur', state: 'West Bengal', type: 'Institute of National Importance' },
+  { id: 'iit_roorkee', name: 'Indian Institute of Technology Roorkee (IITR)', shortName: 'IIT Roorkee', state: 'Uttarakhand', type: 'Institute of National Importance' },
+  { id: 'nit_trichy', name: 'National Institute of Technology Tiruchirappalli (NIT Trichy)', shortName: 'NITT', state: 'Tamil Nadu', type: 'Institute of National Importance' },
+  { id: 'nitk_surathkal', name: 'National Institute of Technology Karnataka (NITK Surathkal)', shortName: 'NITK', state: 'Karnataka', type: 'Institute of National Importance' },
+  { id: 'mnit_jaipur', name: 'Malaviya National Institute of Technology Jaipur (MNIT)', shortName: 'MNIT', state: 'Rajasthan', type: 'Institute of National Importance' },
+  { id: 'vnit_nagpur', name: 'Visvesvaraya National Institute of Technology Nagpur (VNIT)', shortName: 'VNIT', state: 'Maharashtra', type: 'Institute of National Importance' },
+  { id: 'bits_pilani', name: 'Birla Institute of Technology and Science (BITS Pilani)', shortName: 'BITS Pilani', state: 'Rajasthan', type: 'Deemed' },
+  { id: 'vit_vellore', name: 'Vellore Institute of Technology (VIT University)', shortName: 'VIT Vellore', state: 'Tamil Nadu', type: 'Deemed' },
+  { id: 'srm_university', name: 'SRM Institute of Science and Technology (SRMIST)', shortName: 'SRMIST', state: 'Tamil Nadu', type: 'Deemed' },
+  { id: 'manipal_mahe', name: 'Manipal Academy of Higher Education (MAHE / MIT Manipal)', shortName: 'Manipal', state: 'Karnataka', type: 'Deemed' },
+  { id: 'thapar_university', name: 'Thapar Institute of Engineering and Technology (TIET)', shortName: 'Thapar', state: 'Punjab', type: 'Deemed' },
+  { id: 'kiit_university', name: 'Kalinga Institute of Industrial Technology (KIIT)', shortName: 'KIIT', state: 'Odisha', type: 'Deemed' },
+  { id: 'lpu', name: 'Lovely Professional University (LPU)', shortName: 'LPU', state: 'Punjab', type: 'Private' },
+  { id: 'chandigarh_univ', name: 'Chandigarh University (CU)', shortName: 'CU Mohali', state: 'Punjab', type: 'Private' },
+  { id: 'amity_univ', name: 'Amity University (Faculty of Engineering & Technology)', shortName: 'Amity', state: 'Uttar Pradesh', type: 'Private' },
+  { id: 'pes_univ', name: 'PES University Bengaluru', shortName: 'PES Univ', state: 'Karnataka', type: 'Private' }
+];

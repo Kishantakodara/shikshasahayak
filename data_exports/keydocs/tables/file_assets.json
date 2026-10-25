@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "asset_434fdb24",
+    "content_hash": "ca65983f4d5043c205615f9d890285fd73c81cd364f622c0f039114ce44261ad",
+    "original_filename": "Acoustics.pdf",
+    "storage_key": "storage/blobs/ca65983f4d5043c205615f9d890285fd73c81cd364f622c0f039114ce44261ad.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 4563262,
+    "created_at": "2026-06-10 15:14:06"
+  },
+  {
+    "id": "asset_cf2a48df",
+    "content_hash": "2c7180f9381cfad79457fa061075b7a9f2a0e5940d99249ae3205fd7d0288eff",
+    "original_filename": "Optics.pdf",
+    "storage_key": "storage/blobs/2c7180f9381cfad79457fa061075b7a9f2a0e5940d99249ae3205fd7d0288eff.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 16038274,
+    "created_at": "2026-06-10 15:14:44"
+  },
+  {
+    "id": "asset_5dfe5649",
+    "content_hash": "07596eea3fc54b4840b00c6d7c77cde8d39637caae4bc7da1d44575179af6009",
+    "original_filename": "ETC full marks guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/07596eea3fc54b4840b00c6d7c77cde8d39637caae4bc7da1d44575179af6009.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 2567982,
+    "created_at": "2026-06-11 07:03:52"
+  },
+  {
+    "id": "asset_d6c74d42",
+    "content_hash": "75e015a80c258d2719113cefb70d5bd1ab5bc8893c34150e1112b2f92448d92f",
+    "original_filename": "Maths 2 Full Marks Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/75e015a80c258d2719113cefb70d5bd1ab5bc8893c34150e1112b2f92448d92f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 715655,
+    "created_at": "2026-06-11 07:09:28"
+  },
+  {
+    "id": "asset_ef52850b",
+    "content_hash": "be7ba155e28613496e0c78c0e08908b8137b58b563080c21fa34c311723a4f58",
+    "original_filename": "BEE Full Mark Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/be7ba155e28613496e0c78c0e08908b8137b58b563080c21fa34c311723a4f58.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 647385,
+    "created_at": "2026-06-12 07:45:06"
+  },
+  {
+    "id": "asset_7deaadd8",
+    "content_hash": "ad2aeeb234710cc21a69bbabe45d5f943826836c2e5d4e0b08adc6577f78d88d",
+    "original_filename": "FOAi full mark guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/ad2aeeb234710cc21a69bbabe45d5f943826836c2e5d4e0b08adc6577f78d88d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 2308378,
+    "created_at": "2026-06-12 08:16:40"
+  },
+  {
+    "id": "asset_f756ddab",
+    "content_hash": "73665f4fda158cb938e25cc0d71dc88863053d3aecc5be919eb5d28b2d39a4e6",
+    "original_filename": "BE full marks guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/73665f4fda158cb938e25cc0d71dc88863053d3aecc5be919eb5d28b2d39a4e6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 647037,
+    "created_at": "2026-06-13 06:56:29"
+  },
+  {
+    "id": "asset_e3ea766b",
+    "content_hash": "e94930d39f87dc3a0c817ed3f5c121f1b545fa6ff14551499a74ca3a75791399",
+    "original_filename": "Physics Full Marks Guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/e94930d39f87dc3a0c817ed3f5c121f1b545fa6ff14551499a74ca3a75791399.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 641910,
+    "created_at": "2026-06-13 09:32:48"
+  },
+  {
+    "id": "asset_356d439f",
+    "content_hash": "11b08734d06dc397047810b3d3ebfcd100116e6d5f4efe19d774465fcb55a70d",
+    "original_filename": "CN Short Notes.pdf",
+    "storage_key": "storage/blobs/11b08734d06dc397047810b3d3ebfcd100116e6d5f4efe19d774465fcb55a70d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 217038,
+    "created_at": "2026-06-15 09:23:18"
+  },
+  {
+    "id": "asset_0fd6ec69",
+    "content_hash": "767dd653d109b4548b5472c49c87298ba743f0bf168211185c3038b6d6dc7998",
+    "original_filename": "BME Full Mark Guide By ShikshaSahayak (2).pdf",
+    "storage_key": "storage/blobs/767dd653d109b4548b5472c49c87298ba743f0bf168211185c3038b6d6dc7998.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 616934,
+    "created_at": "2026-06-16 19:44:25"
+  },
+  {
+    "id": "asset_7d3cd8a1",
+    "content_hash": "815e76c274d9c34b17c64f2032b5298db86a88cb8baa421944c10f0086917eb3",
+    "original_filename": "Chemistry Full Mark Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/815e76c274d9c34b17c64f2032b5298db86a88cb8baa421944c10f0086917eb3.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 536501,
+    "created_at": "2026-06-16 20:26:51"
+  },
+  {
+    "id": "asset_31e0f305",
+    "content_hash": "ed6ec8d84f7dd492795b1ce16212ce94f5caae08defd6282ae9ffa6e35bc54ed",
+    "original_filename": "MOS Full Marks Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/ed6ec8d84f7dd492795b1ce16212ce94f5caae08defd6282ae9ffa6e35bc54ed.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 620125,
+    "created_at": "2026-06-16 20:29:43"
+  },
+  {
+    "id": "asset_f78569d1",
+    "content_hash": "053bd30dd722abc9b61b73f2f986830ed09f66c04831e82be20b96e8e68d521e",
+    "original_filename": "Mathematics – 1 Full Marks Guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/053bd30dd722abc9b61b73f2f986830ed09f66c04831e82be20b96e8e68d521e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 595326,
+    "created_at": "2026-06-17 11:39:09"
+  },
+  {
+    "id": "asset_c641bb57",
+    "content_hash": "07657dc404420ac8fabd29d0ea9a42e3fe585019178528f0e7e760f3d49899b7",
+    "original_filename": "PPS Full Mark Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/07657dc404420ac8fabd29d0ea9a42e3fe585019178528f0e7e760f3d49899b7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 5779608,
+    "created_at": "2026-06-18 20:33:15"
+  },
+  {
+    "id": "asset_f9bf2b79",
+    "content_hash": "e4190e595025beb4425b82d5b3475b41ad0ba8e591f2125188e2b105b786c35c",
+    "original_filename": "ShikshaSahayak GTU EGD Full Marks Guide.pdf",
+    "storage_key": "storage/blobs/e4190e595025beb4425b82d5b3475b41ad0ba8e591f2125188e2b105b786c35c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 468579,
+    "created_at": "2026-06-20 08:23:45"
+  },
+  {
+    "id": "asset_92b6f561",
+    "content_hash": "f77542dfdba0d8b42ca8fd889238ae8c688a02e827c8f39abb77a6dd6fca0042",
+    "original_filename": "BCE Full Mark Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/f77542dfdba0d8b42ca8fd889238ae8c688a02e827c8f39abb77a6dd6fca0042.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 510152,
+    "created_at": "2026-06-22 12:25:21"
+  },
+  {
+    "id": "asset_b748f1b8",
+    "content_hash": "247ea8204d6b8963dd521f530950954b06c96d84dee4e02cac35af5ea608fa02",
+    "original_filename": "ISS Full Mark Guide by ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/247ea8204d6b8963dd521f530950954b06c96d84dee4e02cac35af5ea608fa02.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 444751,
+    "created_at": "2026-06-26 11:52:12"
+  },
+  {
+    "id": "asset_7e868645",
+    "content_hash": "e2d492d2d0f33f15170132818651c6b0f3a6d7d579c288d5c09279ca37e81eaf",
+    "original_filename": "UHV Fullmark Guide By ShikshaSahayak.pdf",
+    "storage_key": "storage/blobs/e2d492d2d0f33f15170132818651c6b0f3a6d7d579c288d5c09279ca37e81eaf.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 198691,
+    "created_at": "2026-07-03 10:18:58"
+  },
+  {
+    "id": "asset_b3e9f22d",
+    "content_hash": "70de0b9ca5e4691a25831624990bd144467c8d98fb9a4ccf701371e5bc9f6cc1",
+    "original_filename": "Syllabus-MI-BE01R00041.pdf",
+    "storage_key": "storage/blobs/Syllabus-MI-BE01R00041_70de0b9ca5e4691a25831624990bd144467c8d98fb9a4ccf701371e5bc9f6cc1.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 791167,
+    "created_at": "2026-07-04 13:20:03"
+  },
+  {
+    "id": "asset_65bd304e",
+    "content_hash": "a1f48942c7ed49509ef5c89742ff9ec8a6d6c98a9635c5286dac02d9a4a6b1c2",
+    "original_filename": "Syllabus-ETC-BE02R00021.pdf",
+    "storage_key": "storage/blobs/Syllabus-ETC-BE02R00021_a1f48942c7ed49509ef5c89742ff9ec8a6d6c98a9635c5286dac02d9a4a6b1c2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 4239210,
+    "created_at": "2026-07-04 13:23:08"
+  },
+  {
+    "id": "asset_268bf337",
+    "content_hash": "44d27d5b602c9171e336bdadbc7b24188e65feba496ad63e8fdd8011614e5bc6",
+    "original_filename": "Syllabus-FA-BE02R00041.pdf",
+    "storage_key": "storage/blobs/Syllabus-FA-BE02R00041_44d27d5b602c9171e336bdadbc7b24188e65feba496ad63e8fdd8011614e5bc6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 325841,
+    "created_at": "2026-07-04 13:24:02"
+  },
+  {
+    "id": "asset_ad1869f8",
+    "content_hash": "1db68329c27bbfbb08519f1f93cb741ca8f6bb853b99501f87774eaaaa15d641",
+    "original_filename": "Syllabus-IPR-BE02R00031.pdf",
+    "storage_key": "storage/blobs/Syllabus-IPR-BE02R00031_1db68329c27bbfbb08519f1f93cb741ca8f6bb853b99501f87774eaaaa15d641.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 403062,
+    "created_at": "2026-07-04 13:25:06"
+  },
+  {
+    "id": "asset_63602d5d",
+    "content_hash": "481a0f18c534812aebf1d946bd1f9f40cfb4c33abe1e50a4c1a0039ba3875d92",
+    "original_filename": "Syllabus-ISS-BE02R00061.pdf",
+    "storage_key": "storage/blobs/Syllabus-ISS-BE02R00061_481a0f18c534812aebf1d946bd1f9f40cfb4c33abe1e50a4c1a0039ba3875d92.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 227572,
+    "created_at": "2026-07-04 13:26:14"
+  },
+  {
+    "id": "asset_13647c3f",
+    "content_hash": "34d8fbcbd0e4d7a411153087a5e8b605bf8fb9e1573afa0ec50fa3a3011269c4",
+    "original_filename": "Syllabus-M2-BE02R00011.pdf",
+    "storage_key": "storage/blobs/Syllabus-M2-BE02R00011_34d8fbcbd0e4d7a411153087a5e8b605bf8fb9e1573afa0ec50fa3a3011269c4.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 442271,
+    "created_at": "2026-07-04 13:27:08"
+  },
+  {
+    "id": "asset_f2db7215",
+    "content_hash": "787e0182ff2309d728638978fc10d017f04f0f1996c10e3119a15eb7d700f688",
+    "original_filename": "Syllabus-SQE-BE02R00071.pdf",
+    "storage_key": "storage/blobs/Syllabus-SQE-BE02R00071_787e0182ff2309d728638978fc10d017f04f0f1996c10e3119a15eb7d700f688.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 335419,
+    "created_at": "2026-07-04 13:28:12"
+  },
+  {
+    "id": "asset_04ddaa6d",
+    "content_hash": "f79879743e42b2edda09d3043210bc528828a48dd3fa13f7fe25c902d8716481",
+    "original_filename": "Syllabus-BEE-BE01R00051.pdf",
+    "storage_key": "storage/blobs/Syllabus-BEE-BE01R00051_f79879743e42b2edda09d3043210bc528828a48dd3fa13f7fe25c902d8716481.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 593626,
+    "created_at": "2026-07-04 13:35:06"
+  },
+  {
+    "id": "asset_cb059c04",
+    "content_hash": "d00a0523da29ceeb6f569b62e726f5fff558ade59e6e91f107961919bce8c75a",
+    "original_filename": "Syllabus-CHE-BE01R00031.pdf",
+    "storage_key": "storage/blobs/Syllabus-CHE-BE01R00031_d00a0523da29ceeb6f569b62e726f5fff558ade59e6e91f107961919bce8c75a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 410825,
+    "created_at": "2026-07-04 13:36:01"
+  },
+  {
+    "id": "asset_69834a17",
+    "content_hash": "2d96dcefa73267f14208dc0677f4cadd0969664bccc4f35661ce056015a05d4c",
+    "original_filename": "Syllabus-BCE-BE01R00101.pdf",
+    "storage_key": "storage/blobs/Syllabus-BCE-BE01R00101_2d96dcefa73267f14208dc0677f4cadd0969664bccc4f35661ce056015a05d4c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 572907,
+    "created_at": "2026-07-04 13:36:31"
+  },
+  {
+    "id": "asset_b7956a3e",
+    "content_hash": "5a34bfdbfc1c289c4dc82f32d14a5a956efa658c6d19324aa0ad778ff5072808",
+    "original_filename": "Syllabus-EGD-BE01R00061.pdf",
+    "storage_key": "storage/blobs/Syllabus-EGD-BE01R00061_5a34bfdbfc1c289c4dc82f32d14a5a956efa658c6d19324aa0ad778ff5072808.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 409836,
+    "created_at": "2026-07-04 13:37:01"
+  },
+  {
+    "id": "asset_a253009d",
+    "content_hash": "73b222f3406767643954b9fc1a95f17d1b662dd0da037df3b16b9c0bbe303151",
+    "original_filename": "Syllabus-IPDC-BE01R00161.pdf",
+    "storage_key": "storage/blobs/Syllabus-IPDC-BE01R00161_73b222f3406767643954b9fc1a95f17d1b662dd0da037df3b16b9c0bbe303151.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 594363,
+    "created_at": "2026-07-04 13:37:58"
+  },
+  {
+    "id": "asset_37418f23",
+    "content_hash": "f5d209211c69d3b709213e1bdbf6cf6881d8c227cc2ba0ced46221436fb60794",
+    "original_filename": "Syllabus-PHY-BE01R00021.pdf",
+    "storage_key": "storage/blobs/Syllabus-PHY-BE01R00021_f5d209211c69d3b709213e1bdbf6cf6881d8c227cc2ba0ced46221436fb60794.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 426235,
+    "created_at": "2026-07-04 13:43:04"
+  },
+  {
+    "id": "asset_be12e913",
+    "content_hash": "3369812d66ae10b30e67ac4e819a15ca736762dc032d6dd031add37f2947f349",
+    "original_filename": "Syllabus-PPS-BE01R00121.pdf",
+    "storage_key": "storage/blobs/Syllabus-PPS-BE01R00121_3369812d66ae10b30e67ac4e819a15ca736762dc032d6dd031add37f2947f349.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 500047,
+    "created_at": "2026-07-04 13:44:00"
+  },
+  {
+    "id": "asset_d39835ed",
+    "content_hash": "06fcb7fdd479914fa47b60f201873f8bcd7249d8135a3dd5652332a30edf064d",
+    "original_filename": "Syllabus-UHV-BE01R00141.pdf",
+    "storage_key": "storage/blobs/Syllabus-UHV-BE01R00141_06fcb7fdd479914fa47b60f201873f8bcd7249d8135a3dd5652332a30edf064d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 734404,
+    "created_at": "2026-07-04 13:44:59"
+  },
+  {
+    "id": "asset_a047096c",
+    "content_hash": "c6ceac8356d9ef8b32f8c88da86357efadd413cb0c31883003ad0446d53538a1",
+    "original_filename": "Syllabus-BE-BE01R00111.pdf",
+    "storage_key": "storage/blobs/Syllabus-BE-BE01R00111_c6ceac8356d9ef8b32f8c88da86357efadd413cb0c31883003ad0446d53538a1.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 415243,
+    "created_at": "2026-07-04 13:46:44"
+  },
+  {
+    "id": "asset_ab228345",
+    "content_hash": "1a9001ecd00f7c2689f263d96cec41dcce29e95740963bcbfbf8161c382412a1",
+    "original_filename": "Syllabus-MOS-BE01R00091.pdf",
+    "storage_key": "storage/blobs/Syllabus-MOS-BE01R00091_1a9001ecd00f7c2689f263d96cec41dcce29e95740963bcbfbf8161c382412a1.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 789081,
+    "created_at": "2026-07-04 13:55:19"
+  },
+  {
+    "id": "asset_cb581fa6",
+    "content_hash": "6116dbd9270d5eb58cc86449ee3457d5289158af14e8e0b8ec97bcfcd5be3c52",
+    "original_filename": "Syllabus-TEST-TESTCODE.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEST-TESTCODE_6116dbd9270d5eb58cc86449ee3457d5289158af14e8e0b8ec97bcfcd5be3c52.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 26,
+    "created_at": "2026-07-04 14:00:39"
+  },
+  {
+    "id": "asset_23fd48a8",
+    "content_hash": "75ac96d13f69b7195ac71874111776237074fe387da46092130820332bf0a47f",
+    "original_filename": "Syllabus-PS-BE03000251.pdf",
+    "storage_key": "storage/blobs/Syllabus-PS-BE03000251_75ac96d13f69b7195ac71874111776237074fe387da46092130820332bf0a47f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 219657,
+    "created_at": "2026-07-04 16:30:53"
+  },
+  {
+    "id": "asset_33c58019",
+    "content_hash": "aac9e75b0f099816d23d0559668252fdb2fbebe86791b59b20327e449f32486f",
+    "original_filename": "Syllabus-DBMS-BE03000091.pdf",
+    "storage_key": "storage/blobs/Syllabus-DBMS-BE03000091_aac9e75b0f099816d23d0559668252fdb2fbebe86791b59b20327e449f32486f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 481768,
+    "created_at": "2026-07-04 16:30:55"
+  },
+  {
+    "id": "asset_d27b5f0d",
+    "content_hash": "4d9dee624572856221f3147a04b14e27dba6d08e1737fcf1fe8929c938f2ad8e",
+    "original_filename": "Syllabus-DF-BE03000071.pdf",
+    "storage_key": "storage/blobs/Syllabus-DF-BE03000071_4d9dee624572856221f3147a04b14e27dba6d08e1737fcf1fe8929c938f2ad8e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 553791,
+    "created_at": "2026-07-04 16:30:58"
+  },
+  {
+    "id": "asset_7e6f5b38",
+    "content_hash": "24739b2d47f05668dfa701539cfba217bbd98a9d013bcb5297126609bff818e9",
+    "original_filename": "Syllabus-DS-BE03000081.pdf",
+    "storage_key": "storage/blobs/Syllabus-DS-BE03000081_24739b2d47f05668dfa701539cfba217bbd98a9d013bcb5297126609bff818e9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 262636,
+    "created_at": "2026-07-04 16:31:00"
+  },
+  {
+    "id": "asset_72845875",
+    "content_hash": "4aa1857c24727e5de46a283779005842f99138fa2cae08c7dded104136cfec20",
+    "original_filename": "Syllabus-IC-BE03000061.pdf",
+    "storage_key": "storage/blobs/Syllabus-IC-BE03000061_4aa1857c24727e5de46a283779005842f99138fa2cae08c7dded104136cfec20.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 4429884,
+    "created_at": "2026-07-04 16:37:50"
+  },
+  {
+    "id": "asset_9daa20b7",
+    "content_hash": "30db2c594d54ddeb33d910623e12dae6d90c158b1921739be2d50b9e1ae4a8c5",
+    "original_filename": "Syllabus-IKSE-BE03000241.pdf",
+    "storage_key": "storage/blobs/Syllabus-IKSE-BE03000241_30db2c594d54ddeb33d910623e12dae6d90c158b1921739be2d50b9e1ae4a8c5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 496635,
+    "created_at": "2026-07-04 16:40:45"
+  },
+  {
+    "id": "asset_3cd50b40",
+    "content_hash": "f556fe943bb7595c97969aa2825bb68148b23382c64516f94a2c4a052e064907",
+    "original_filename": "Syllabus-PCE-BE03000051.pdf",
+    "storage_key": "storage/blobs/Syllabus-PCE-BE03000051_f556fe943bb7595c97969aa2825bb68148b23382c64516f94a2c4a052e064907.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 476736,
+    "created_at": "2026-07-04 16:41:02"
+  },
+  {
+    "id": "asset_d96b9152",
+    "content_hash": "048fafec51a684ac3571768847d94b42f994abac5cf5fa95e56fd28b98bcb70c",
+    "original_filename": "Syllabus-MDEMD-BE03000231.pdf",
+    "storage_key": "storage/blobs/Syllabus-MDEMD-BE03000231_048fafec51a684ac3571768847d94b42f994abac5cf5fa95e56fd28b98bcb70c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 612668,
+    "created_at": "2026-07-04 16:43:17"
+  },
+  {
+    "id": "asset_51da71b0",
+    "content_hash": "dd51adf170c59ff312c0497ab29fc8dbfe0d70d4eea0aa99f118aa651c96476a",
+    "original_filename": "Syllabus-MSM-BE03000221.pdf",
+    "storage_key": "storage/blobs/Syllabus-MSM-BE03000221_dd51adf170c59ff312c0497ab29fc8dbfe0d70d4eea0aa99f118aa651c96476a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 742565,
+    "created_at": "2026-07-04 16:43:28"
+  },
+  {
+    "id": "asset_885703da",
+    "content_hash": "17e3e0cac27064e26a5c46f61939680d0f84490bfbadf3bb840a446ab1b8f9e5",
+    "original_filename": "Syllabus-M3-BE03000211.pdf",
+    "storage_key": "storage/blobs/Syllabus-M3-BE03000211_17e3e0cac27064e26a5c46f61939680d0f84490bfbadf3bb840a446ab1b8f9e5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 685931,
+    "created_at": "2026-07-04 16:43:35"
+  },
+  {
+    "id": "asset_8f6e5a5b",
+    "content_hash": "55e617ec992808595f99fc4ea2dc9f5342752ad3607380c63288e2f21e663acc",
+    "original_filename": "Syllabus-ET-BE03000201.pdf",
+    "storage_key": "storage/blobs/Syllabus-ET-BE03000201_55e617ec992808595f99fc4ea2dc9f5342752ad3607380c63288e2f21e663acc.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 304978,
+    "created_at": "2026-07-04 16:43:45"
+  },
+  {
+    "id": "asset_2ba94d13",
+    "content_hash": "883178c28bd7952c4ef0f6c33ea036ecdaca00a820ba3fd03e00485f219bd9de",
+    "original_filename": "Syllabus-DSD-BE03000181.pdf",
+    "storage_key": "storage/blobs/Syllabus-DSD-BE03000181_883178c28bd7952c4ef0f6c33ea036ecdaca00a820ba3fd03e00485f219bd9de.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 236741,
+    "created_at": "2026-07-04 16:51:56"
+  },
+  {
+    "id": "asset_84845cef",
+    "content_hash": "7cb0e91eb3135ebdc282dec00817ee96a21916abe604d56c5e15ab77fc3a84e0",
+    "original_filename": "Syllabus-SS-BE03000171.pdf",
+    "storage_key": "storage/blobs/Syllabus-SS-BE03000171_7cb0e91eb3135ebdc282dec00817ee96a21916abe604d56c5e15ab77fc3a84e0.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 163195,
+    "created_at": "2026-07-04 16:52:08"
+  },
+  {
+    "id": "asset_67924b29",
+    "content_hash": "530af9df92da5e370c8cdc13cade1d9fad797cd3b8245925b76b502225a82912",
+    "original_filename": "Syllabus-NT-BE03000161.pdf",
+    "storage_key": "storage/blobs/Syllabus-NT-BE03000161_530af9df92da5e370c8cdc13cade1d9fad797cd3b8245925b76b502225a82912.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 303341,
+    "created_at": "2026-07-04 16:52:18"
+  },
+  {
+    "id": "asset_bd5e99b7",
+    "content_hash": "90c44317361402f03653d0815d4d3def2d4db92fa2d4ad1dfeb82716eec042ea",
+    "original_filename": "Syllabus-ADE-BE03009011.pdf",
+    "storage_key": "storage/blobs/Syllabus-ADE-BE03009011_90c44317361402f03653d0815d4d3def2d4db92fa2d4ad1dfeb82716eec042ea.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 405727,
+    "created_at": "2026-07-04 16:55:33"
+  },
+  {
+    "id": "asset_40be096b",
+    "content_hash": "71f00352c3bf12969eba27c12099831dba8d7b4898e6f0a718ae65f8ac2cfca6",
+    "original_filename": "Syllabus-ECA-BE03009031.pdf",
+    "storage_key": "storage/blobs/Syllabus-ECA-BE03009031_71f00352c3bf12969eba27c12099831dba8d7b4898e6f0a718ae65f8ac2cfca6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 416899,
+    "created_at": "2026-07-04 16:55:47"
+  },
+  {
+    "id": "asset_5ee402e6",
+    "content_hash": "f807aeb2c74dd4bc12b3ba0129697561c39c0253665e6896a140791ca959c170",
+    "original_filename": "Syllabus-EMI-BE03009021.pdf",
+    "storage_key": "storage/blobs/Syllabus-EMI-BE03009021_f807aeb2c74dd4bc12b3ba0129697561c39c0253665e6896a140791ca959c170.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 407641,
+    "created_at": "2026-07-04 16:56:28"
+  },
+  {
+    "id": "asset_58208f20",
+    "content_hash": "33b0f741ee9492c98423c159da5853825359db42bbc36f78fb7d3ad76a11c227",
+    "original_filename": "Syllabus-NMEE-BE03000191.pdf",
+    "storage_key": "storage/blobs/Syllabus-NMEE-BE03000191_33b0f741ee9492c98423c159da5853825359db42bbc36f78fb7d3ad76a11c227.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 429237,
+    "created_at": "2026-07-04 17:00:22"
+  },
+  {
+    "id": "asset_e4d7df7b",
+    "content_hash": "d5b8202bbdce58a60f8fbfa5c138a07253856fdb9c3f5121a7999b4134e2a5cc",
+    "original_filename": "Syllabus-BCT-BE03006031.pdf",
+    "storage_key": "storage/blobs/Syllabus-BCT-BE03006031_d5b8202bbdce58a60f8fbfa5c138a07253856fdb9c3f5121a7999b4134e2a5cc.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 417466,
+    "created_at": "2026-07-04 17:06:29"
+  },
+  {
+    "id": "asset_889e3f60",
+    "content_hash": "66c5bceba136b305ac1725cacd6a0c1a43bb6465f0c13cbf7bc2dc1edcdef949",
+    "original_filename": "Syllabus-CT-BE03006021.pdf",
+    "storage_key": "storage/blobs/Syllabus-CT-BE03006021_66c5bceba136b305ac1725cacd6a0c1a43bb6465f0c13cbf7bc2dc1edcdef949.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 375594,
+    "created_at": "2026-07-04 17:06:39"
+  },
+  {
+    "id": "asset_ccc2d714",
+    "content_hash": "69766fa41b54e00c4f0b98ee78b1c1e2176fc0132103ee7ad991ca6842763b16",
+    "original_filename": "Syllabus-TS-BE03006011.pdf",
+    "storage_key": "storage/blobs/Syllabus-TS-BE03006011_69766fa41b54e00c4f0b98ee78b1c1e2176fc0132103ee7ad991ca6842763b16.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 351538,
+    "created_at": "2026-07-04 17:06:53"
+  },
+  {
+    "id": "asset_f4f91d6e",
+    "content_hash": "22680de8aff2d412a1f006bf20a23945de6d9a29f5c338f0a8deeef434401878",
+    "original_filename": "dummy.pdf",
+    "storage_key": "storage/blobs/dummy_22680de8aff2d412a1f006bf20a23945de6d9a29f5c338f0a8deeef434401878.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 11696,
+    "created_at": "2026-07-04 17:43:02"
+  },
+  {
+    "id": "asset_bc4f0c4c",
+    "content_hash": "c7685ab3d239ba3e653021161b4328a9efa5278af87a9714e8fd4d41f6a13b6b",
+    "original_filename": "tracemonkey.pdf",
+    "storage_key": "storage/blobs/tracemonkey_c7685ab3d239ba3e653021161b4328a9efa5278af87a9714e8fd4d41f6a13b6b.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 962807,
+    "created_at": "2026-07-04 17:46:18"
+  },
+  {
+    "id": "asset_22ab8682",
+    "content_hash": "d1bd39a27d332631316013320609e699eb5db10df75a3cf30feca8c9dcdeb5ed",
+    "original_filename": "tracemonkey.pdf",
+    "storage_key": "storage/blobs/tracemonkey_d1bd39a27d332631316013320609e699eb5db10df75a3cf30feca8c9dcdeb5ed.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 962807,
+    "created_at": "2026-07-04 17:47:46"
+  },
+  {
+    "id": "asset_ebac2619",
+    "content_hash": "1f00392e5f686ecb2ecd6f25cae12f6479aea9e19666703f9558804434ff7dc0",
+    "original_filename": "tracemonkey.pdf",
+    "storage_key": "storage/blobs/tracemonkey_1f00392e5f686ecb2ecd6f25cae12f6479aea9e19666703f9558804434ff7dc0.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 962807,
+    "created_at": "2026-07-04 17:48:21"
+  },
+  {
+    "id": "asset_8353ef4f",
+    "content_hash": "354098fe647eb6f71b1b8b65237aa511b189934eb22e7de38e15acf3a7a435b7",
+    "original_filename": "Syllabus-ESSRE-BE04000101.pdf",
+    "storage_key": "storage/blobs/Syllabus-ESSRE-BE04000101_354098fe647eb6f71b1b8b65237aa511b189934eb22e7de38e15acf3a7a435b7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 456968,
+    "created_at": "2026-07-05 09:42:32"
+  },
+  {
+    "id": "asset_495c114a",
+    "content_hash": "2dc0f76685923986d9f1fb31356e581254f89a41dfbb0e7a8fa518957cc6ffa9",
+    "original_filename": "Syllabus-FM-BE04000161.pdf",
+    "storage_key": "storage/blobs/Syllabus-FM-BE04000161_2dc0f76685923986d9f1fb31356e581254f89a41dfbb0e7a8fa518957cc6ffa9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 391962,
+    "created_at": "2026-07-05 09:42:36"
+  },
+  {
+    "id": "asset_91d83032",
+    "content_hash": "5ae3f6020c28aaaffdb4b67f7309768fdf47611849e6749ec8f9c76ccb25e4bb",
+    "original_filename": "Syllabus-KTM-BE04000171.pdf",
+    "storage_key": "storage/blobs/Syllabus-KTM-BE04000171_5ae3f6020c28aaaffdb4b67f7309768fdf47611849e6749ec8f9c76ccb25e4bb.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 508346,
+    "created_at": "2026-07-05 09:42:44"
+  },
+  {
+    "id": "asset_646a9db3",
+    "content_hash": "b8a8d08d464464d217e7c5b13ec15e43e7e63fc2ce32203ade83c687215d59e6",
+    "original_filename": "Syllabus-MMM-BE04000181.pdf",
+    "storage_key": "storage/blobs/Syllabus-MMM-BE04000181_b8a8d08d464464d217e7c5b13ec15e43e7e63fc2ce32203ade83c687215d59e6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 537959,
+    "created_at": "2026-07-05 09:42:47"
+  },
+  {
+    "id": "asset_4dd9f307",
+    "content_hash": "65a57cebc079a8c4779839d517fa8b9a7fba7ee440aee2d1cdd39e90dce29325",
+    "original_filename": "Syllabus-MP-BE04000191.pdf",
+    "storage_key": "storage/blobs/Syllabus-MP-BE04000191_65a57cebc079a8c4779839d517fa8b9a7fba7ee440aee2d1cdd39e90dce29325.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 751185,
+    "created_at": "2026-07-05 09:42:52"
+  },
+  {
+    "id": "asset_6f9d7bd3",
+    "content_hash": "42bdb14057049279f24eed568c00df72fa845d0858080a7346fac1b56cff3ac9",
+    "original_filename": "Syllabus-OR-BE04000201.pdf",
+    "storage_key": "storage/blobs/Syllabus-OR-BE04000201_42bdb14057049279f24eed568c00df72fa845d0858080a7346fac1b56cff3ac9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 549400,
+    "created_at": "2026-07-05 09:42:56"
+  },
+  {
+    "id": "asset_8862f129",
+    "content_hash": "ff6ca6357010687c268b5347cf91637026aa07ecb674c23788f8a567a2c7639a",
+    "original_filename": "Syllabus-CN-BE04000271.pdf",
+    "storage_key": "storage/blobs/Syllabus-CN-BE04000271_ff6ca6357010687c268b5347cf91637026aa07ecb674c23788f8a567a2c7639a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 328972,
+    "created_at": "2026-07-05 09:43:48"
+  },
+  {
+    "id": "asset_ca06e8be",
+    "content_hash": "0f474dc09e3a9dadbc0a866294fd9d88a43b76112d234ff069c9e7babc9d2917",
+    "original_filename": "Syllabus-COA-BE04000251.pdf",
+    "storage_key": "storage/blobs/Syllabus-COA-BE04000251_0f474dc09e3a9dadbc0a866294fd9d88a43b76112d234ff069c9e7babc9d2917.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 303065,
+    "created_at": "2026-07-05 09:43:49"
+  },
+  {
+    "id": "asset_bcac574e",
+    "content_hash": "21fe2e8b88a8935c97c021d3e9db39c84b23051681fea1da81eef8e244062b4d",
+    "original_filename": "Syllabus-DMGT-BE04000261.pdf",
+    "storage_key": "storage/blobs/Syllabus-DMGT-BE04000261_21fe2e8b88a8935c97c021d3e9db39c84b23051681fea1da81eef8e244062b4d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 453638,
+    "created_at": "2026-07-05 09:43:53"
+  },
+  {
+    "id": "asset_626f1f9b",
+    "content_hash": "20912d2e1494b7b72cc460441156a759e11293bbc3889a50fb75d1f609d8ffb3",
+    "original_filename": "Syllabus-OOP-BE04000231.pdf",
+    "storage_key": "storage/blobs/Syllabus-OOP-BE04000231_20912d2e1494b7b72cc460441156a759e11293bbc3889a50fb75d1f609d8ffb3.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 452779,
+    "created_at": "2026-07-05 09:44:06"
+  },
+  {
+    "id": "asset_a0b46308",
+    "content_hash": "c0c18be424d225148e9b2dc19610595aeec240ce51a1d32bcfd2c22d3a5b9911",
+    "original_filename": "Syllabus-OS-BE04000221.pdf",
+    "storage_key": "storage/blobs/Syllabus-OS-BE04000221_c0c18be424d225148e9b2dc19610595aeec240ce51a1d32bcfd2c22d3a5b9911.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 510137,
+    "created_at": "2026-07-05 09:44:10"
+  },
+  {
+    "id": "asset_d5b7351e",
+    "content_hash": "05457cc16a97ca0ae57f395530133221fb793d84ea5a36686522c3ba65a38673",
+    "original_filename": "Syllabus-ELE-BE04000301.pdf",
+    "storage_key": "storage/blobs/Syllabus-ELE-BE04000301_05457cc16a97ca0ae57f395530133221fb793d84ea5a36686522c3ba65a38673.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 492744,
+    "created_at": "2026-07-05 09:44:44"
+  },
+  {
+    "id": "asset_716f2e93",
+    "content_hash": "e340659edb52d78d5b7f276f151e3023248486db71198a2209b2e5e64e20ef87",
+    "original_filename": "Syllabus-LIC-BE04000051.pdf",
+    "storage_key": "storage/blobs/Syllabus-LIC-BE04000051_e340659edb52d78d5b7f276f151e3023248486db71198a2209b2e5e64e20ef87.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 232368,
+    "created_at": "2026-07-05 09:44:46"
+  },
+  {
+    "id": "asset_fe57cd22",
+    "content_hash": "4b2d91f25a92b95322ff2058daf715cdb6459238d4b7aa0e2008158a5017908b",
+    "original_filename": "Syllabus-MIC-BE04000061.pdf",
+    "storage_key": "storage/blobs/Syllabus-MIC-BE04000061_4b2d91f25a92b95322ff2058daf715cdb6459238d4b7aa0e2008158a5017908b.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 253094,
+    "created_at": "2026-07-05 09:44:47"
+  },
+  {
+    "id": "asset_cbc67e55",
+    "content_hash": "20cc69dc54074658f235130e78addbaef13e213ab0061b0910de5c58cdf9f599",
+    "original_filename": "Syllabus-PC-BE04000031.pdf",
+    "storage_key": "storage/blobs/Syllabus-PC-BE04000031_20cc69dc54074658f235130e78addbaef13e213ab0061b0910de5c58cdf9f599.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 403163,
+    "created_at": "2026-07-05 09:44:49"
+  },
+  {
+    "id": "asset_1e3f43c6",
+    "content_hash": "e9adae449ce07ea19b7fc0f05b7022eefee04f27f2d4b7b86fd83332f2b0098e",
+    "original_filename": "Syllabus-CS-BE04000041.pdf",
+    "storage_key": "storage/blobs/Syllabus-CS-BE04000041_e9adae449ce07ea19b7fc0f05b7022eefee04f27f2d4b7b86fd83332f2b0098e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 146791,
+    "created_at": "2026-07-05 09:44:50"
+  },
+  {
+    "id": "asset_28bbe2d4",
+    "content_hash": "f4b72da51fca1cf56a6b49e7fd0a51258e09c0d6dcc4c693e93c075da28b833a",
+    "original_filename": "Syllabus-EE-BE04009021.pdf",
+    "storage_key": "storage/blobs/Syllabus-EE-BE04009021_f4b72da51fca1cf56a6b49e7fd0a51258e09c0d6dcc4c693e93c075da28b833a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 356068,
+    "created_at": "2026-07-05 09:45:19"
+  },
+  {
+    "id": "asset_f76844ec",
+    "content_hash": "2f8554ccf8d4949d0ebb770ecbb1a7ec369a90b00e54ddd0a6990aa5bd3e2c43",
+    "original_filename": "Syllabus-EMI-BE04009011.pdf",
+    "storage_key": "storage/blobs/Syllabus-EMI-BE04009011_2f8554ccf8d4949d0ebb770ecbb1a7ec369a90b00e54ddd0a6990aa5bd3e2c43.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 325211,
+    "created_at": "2026-07-05 09:45:22"
+  },
+  {
+    "id": "asset_79df8b3f",
+    "content_hash": "3fa33eb0f58ac284be9846b80d8166a069279a2e31661fb0e5acb8f7cbff4ac2",
+    "original_filename": "Syllabus-PE-BE04009031.pdf",
+    "storage_key": "storage/blobs/Syllabus-PE-BE04009031_3fa33eb0f58ac284be9846b80d8166a069279a2e31661fb0e5acb8f7cbff4ac2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 306779,
+    "created_at": "2026-07-05 09:45:25"
+  },
+  {
+    "id": "asset_3fde5611",
+    "content_hash": "98810827912cffbd0b82169df5002fcbcebc1bab1203d78268e264217f285677",
+    "original_filename": "Syllabus-PSL-BE04009041.pdf",
+    "storage_key": "storage/blobs/Syllabus-PSL-BE04009041_98810827912cffbd0b82169df5002fcbcebc1bab1203d78268e264217f285677.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 245903,
+    "created_at": "2026-07-05 09:45:26"
+  },
+  {
+    "id": "asset_e2ff3f94",
+    "content_hash": "22ca87905fd559ebef9faf35076e56c4a7f75b499180b860854bcfa4ca8cf18d",
+    "original_filename": "Syllabus-SS-BE04009051.pdf",
+    "storage_key": "storage/blobs/Syllabus-SS-BE04009051_22ca87905fd559ebef9faf35076e56c4a7f75b499180b860854bcfa4ca8cf18d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 783739,
+    "created_at": "2026-07-05 09:45:31"
+  },
+  {
+    "id": "asset_3bfd882d",
+    "content_hash": "b276d95213cb993b237adb581fffeb6a18fca1f79ab8fe2a7aa3f05b67ab646d",
+    "original_filename": "Syllabus-ADA-BE04000241.pdf",
+    "storage_key": "storage/blobs/Syllabus-ADA-BE04000241_b276d95213cb993b237adb581fffeb6a18fca1f79ab8fe2a7aa3f05b67ab646d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 299823,
+    "created_at": "2026-07-05 09:46:04"
+  },
+  {
+    "id": "asset_b5aa224d",
+    "content_hash": "880f05d150a15bb9e1855771ea4011133c147033d0a210e386168e0fce93d7ef",
+    "original_filename": "Syllabus-FM-BE04006051.pdf",
+    "storage_key": "storage/blobs/Syllabus-FM-BE04006051_880f05d150a15bb9e1855771ea4011133c147033d0a210e386168e0fce93d7ef.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 328127,
+    "created_at": "2026-07-05 09:46:35"
+  },
+  {
+    "id": "asset_e8d8e9eb",
+    "content_hash": "3bebc85a229fcd2b9380a3d024eb075208733e955266086a4c8f99aa055ea004",
+    "original_filename": "Syllabus-GE-BE04006021.pdf",
+    "storage_key": "storage/blobs/Syllabus-GE-BE04006021_3bebc85a229fcd2b9380a3d024eb075208733e955266086a4c8f99aa055ea004.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 321940,
+    "created_at": "2026-07-05 09:46:37"
+  },
+  {
+    "id": "asset_8d0ed695",
+    "content_hash": "3eaf46b927f8243e5d51a285bf23e0f4c6da1ecb8ee531e1fade03ee4d2aa341",
+    "original_filename": "Syllabus-SUR-BE04006011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SUR-BE04006011_3eaf46b927f8243e5d51a285bf23e0f4c6da1ecb8ee531e1fade03ee4d2aa341.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 479434,
+    "created_at": "2026-07-05 09:46:38"
+  },
+  {
+    "id": "asset_9c22944f",
+    "content_hash": "3e369321361f0fca28bb28f8619a37192ca5ed5ea1a9eb8dd3ba0111b614ef76",
+    "original_filename": "Syllabus-BSA-BE04006041.pdf",
+    "storage_key": "storage/blobs/Syllabus-BSA-BE04006041_3e369321361f0fca28bb28f8619a37192ca5ed5ea1a9eb8dd3ba0111b614ef76.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 290470,
+    "created_at": "2026-07-05 09:46:40"
+  },
+  {
+    "id": "asset_e12d5c20",
+    "content_hash": "c2da766300673c564bd6a00229647dfcf36c15714f6d3ed39f9a9790c69d2ba5",
+    "original_filename": "Syllabus-BTP-BE04006031.pdf",
+    "storage_key": "storage/blobs/Syllabus-BTP-BE04006031_c2da766300673c564bd6a00229647dfcf36c15714f6d3ed39f9a9790c69d2ba5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 296164,
+    "created_at": "2026-07-05 09:46:42"
+  },
+  {
+    "id": "asset_4bf839fd",
+    "content_hash": "fcc8aab65d8367d57e157b153015fb84b593733fbeb62a374f0b204c4d7723f2",
+    "original_filename": "Syllabus-ANP-BE05006071.pdf",
+    "storage_key": "storage/blobs/Syllabus-ANP-BE05006071_fcc8aab65d8367d57e157b153015fb84b593733fbeb62a374f0b204c4d7723f2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 141384,
+    "created_at": "2026-07-05 12:01:58"
+  },
+  {
+    "id": "asset_1de76a21",
+    "content_hash": "5b67b4f0c287d8b60bd324eabdfb125fd4acf2b27d0854c347db646e4a376d8b",
+    "original_filename": "Syllabus-ASA-BE05006051.pdf",
+    "storage_key": "storage/blobs/Syllabus-ASA-BE05006051_5b67b4f0c287d8b60bd324eabdfb125fd4acf2b27d0854c347db646e4a376d8b.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 182344,
+    "created_at": "2026-07-05 12:01:59"
+  },
+  {
+    "id": "asset_694ed997",
+    "content_hash": "51a6bb5fd8ba4c14acb638c14168d3b30ff4b701a295dd0ec7d0ded30c23d1e2",
+    "original_filename": "Syllabus-COA-BE05000511.pdf",
+    "storage_key": "storage/blobs/Syllabus-COA-BE05000511_51a6bb5fd8ba4c14acb638c14168d3b30ff4b701a295dd0ec7d0ded30c23d1e2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 128645,
+    "created_at": "2026-07-05 12:02:01"
+  },
+  {
+    "id": "asset_2e2cc1e5",
+    "content_hash": "114144deedb1420306888831ee4efda371d47813da11bf25c48714b8016213f6",
+    "original_filename": "Syllabus-DRCS-BE05006011.pdf",
+    "storage_key": "storage/blobs/Syllabus-DRCS-BE05006011_114144deedb1420306888831ee4efda371d47813da11bf25c48714b8016213f6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 148726,
+    "created_at": "2026-07-05 12:02:02"
+  },
+  {
+    "id": "asset_81fae112",
+    "content_hash": "b10154b5a298bfb97d6a4bab0daf64143b139e57caf3dfcb406e6f03e2f181af",
+    "original_filename": "Syllabus-EAM-BE05000431.pdf",
+    "storage_key": "storage/blobs/Syllabus-EAM-BE05000431_b10154b5a298bfb97d6a4bab0daf64143b139e57caf3dfcb406e6f03e2f181af.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139494,
+    "created_at": "2026-07-05 12:02:03"
+  },
+  {
+    "id": "asset_000e9a6b",
+    "content_hash": "5725e11d3e32995c0ec9a06df4ce1238430c5e0fe6728a44ad213840b59c05a5",
+    "original_filename": "Syllabus-EH-BE05006021.pdf",
+    "storage_key": "storage/blobs/Syllabus-EH-BE05006021_5725e11d3e32995c0ec9a06df4ce1238430c5e0fe6728a44ad213840b59c05a5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 109752,
+    "created_at": "2026-07-05 12:02:04"
+  },
+  {
+    "id": "asset_37f0b9b1",
+    "content_hash": "5b2eb6128137ff2659d2c20e2c79b7aabfc63d756ab18473662cf15933f5fe0a",
+    "original_filename": "Syllabus-FLGP-BE05000461.pdf",
+    "storage_key": "storage/blobs/Syllabus-FLGP-BE05000461_5b2eb6128137ff2659d2c20e2c79b7aabfc63d756ab18473662cf15933f5fe0a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 129921,
+    "created_at": "2026-07-05 12:02:05"
+  },
+  {
+    "id": "asset_5298848e",
+    "content_hash": "9c83bc4ba4d2460da0387bb6acc759fbe96117dce9534b1d393f31501c312140",
+    "original_filename": "Syllabus-FPE-BE05000541.pdf",
+    "storage_key": "storage/blobs/Syllabus-FPE-BE05000541_9c83bc4ba4d2460da0387bb6acc759fbe96117dce9534b1d393f31501c312140.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 133965,
+    "created_at": "2026-07-05 12:02:06"
+  },
+  {
+    "id": "asset_3ae73f2b",
+    "content_hash": "82618e18ca8db2b1e766f4f5502fee63bb2791ce5efba28af57ce1c6359260c3",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_82618e18ca8db2b1e766f4f5502fee63bb2791ce5efba28af57ce1c6359260c3.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:02:07"
+  },
+  {
+    "id": "asset_753411df",
+    "content_hash": "fd10f64eb01344c629f3831cccc049595fb01092bd83eb5a1deb3758aa25c225",
+    "original_filename": "Syllabus-IMT-BE05000501.pdf",
+    "storage_key": "storage/blobs/Syllabus-IMT-BE05000501_fd10f64eb01344c629f3831cccc049595fb01092bd83eb5a1deb3758aa25c225.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 205127,
+    "created_at": "2026-07-05 12:02:08"
+  },
+  {
+    "id": "asset_73c16442",
+    "content_hash": "c4dc8a5bbbde8bacf8d38d0b162cc030ba2fcec95685267ab16403cca0d56832",
+    "original_filename": "Syllabus-OHP-BE05000471.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHP-BE05000471_c4dc8a5bbbde8bacf8d38d0b162cc030ba2fcec95685267ab16403cca0d56832.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 140591,
+    "created_at": "2026-07-05 12:02:09"
+  },
+  {
+    "id": "asset_da9c0536",
+    "content_hash": "55a0fea310e92132ea29d99b556236ec3f331c573b7de9ab1e08ac27e373564e",
+    "original_filename": "Syllabus-PDC-BE05006061.pdf",
+    "storage_key": "storage/blobs/Syllabus-PDC-BE05006061_55a0fea310e92132ea29d99b556236ec3f331c573b7de9ab1e08ac27e373564e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 144924,
+    "created_at": "2026-07-05 12:02:10"
+  },
+  {
+    "id": "asset_79287092",
+    "content_hash": "62b6d2e80682206d417f28706901750007bf22a393b4eebbfb218e321bc8577f",
+    "original_filename": "Syllabus-PM-BE05000481.pdf",
+    "storage_key": "storage/blobs/Syllabus-PM-BE05000481_62b6d2e80682206d417f28706901750007bf22a393b4eebbfb218e321bc8577f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 168590,
+    "created_at": "2026-07-05 12:02:11"
+  },
+  {
+    "id": "asset_4f438b90",
+    "content_hash": "9fb2738164c0caa53c5e5993ba9690e6c87f6b0546a789b152ddff94e3c5235c",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_9fb2738164c0caa53c5e5993ba9690e6c87f6b0546a789b152ddff94e3c5235c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:02:12"
+  },
+  {
+    "id": "asset_e49fe813",
+    "content_hash": "f8008416c6d65a682f968228031450c55fe31454d90b1386ff260bbf3ddfb9d0",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_f8008416c6d65a682f968228031450c55fe31454d90b1386ff260bbf3ddfb9d0.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:02:13"
+  },
+  {
+    "id": "asset_57c6ce66",
+    "content_hash": "a9a25f0885046cfa0a40f02137d120e23c6463ab5604f136bf7119dc87f5e4a3",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_a9a25f0885046cfa0a40f02137d120e23c6463ab5604f136bf7119dc87f5e4a3.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234841,
+    "created_at": "2026-07-05 12:02:14"
+  },
+  {
+    "id": "asset_71697bdf",
+    "content_hash": "be406b1b4e186fec5f656fcfbacdab20340ee901ab612146c99ef6f9d8a589f8",
+    "original_filename": "Syllabus-SM-BE05006041.pdf",
+    "storage_key": "storage/blobs/Syllabus-SM-BE05006041_be406b1b4e186fec5f656fcfbacdab20340ee901ab612146c99ef6f9d8a589f8.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 142843,
+    "created_at": "2026-07-05 12:02:15"
+  },
+  {
+    "id": "asset_9119e7b8",
+    "content_hash": "9cf6925fae432a16a9ce6ca669c1878ea0ae31b5e6bdf75f13b4bb089034970e",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_9cf6925fae432a16a9ce6ca669c1878ea0ae31b5e6bdf75f13b4bb089034970e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:02:16"
+  },
+  {
+    "id": "asset_f0d79503",
+    "content_hash": "6243e8490bcb15e7de023412cfbca00f22dc41c899413f90af222fc9af5ab431",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_6243e8490bcb15e7de023412cfbca00f22dc41c899413f90af222fc9af5ab431.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:02:17"
+  },
+  {
+    "id": "asset_0adc40f2",
+    "content_hash": "d570464a4bdd2c6c2becbb73d83204b763741bc4182a74cd9c363392645c1952",
+    "original_filename": "Syllabus-TE-BE05006031.pdf",
+    "storage_key": "storage/blobs/Syllabus-TE-BE05006031_d570464a4bdd2c6c2becbb73d83204b763741bc4182a74cd9c363392645c1952.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 143257,
+    "created_at": "2026-07-05 12:02:18"
+  },
+  {
+    "id": "asset_4745a5ae",
+    "content_hash": "17c6dc981005cb89b86eb4bea91e26b96a2f767b06f6db8e1f7ee4e8eb9fdfdc",
+    "original_filename": "Syllabus-AJP-BE05000131.pdf",
+    "storage_key": "storage/blobs/Syllabus-AJP-BE05000131_17c6dc981005cb89b86eb4bea91e26b96a2f767b06f6db8e1f7ee4e8eb9fdfdc.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 108272,
+    "created_at": "2026-07-05 12:03:55"
+  },
+  {
+    "id": "asset_253d55fb",
+    "content_hash": "9a23b07bc4a49a7baf7f13612e87577c1548924e190c8b0daa1d46104e36217d",
+    "original_filename": "Syllabus-ARSGE-BE05000441.pdf",
+    "storage_key": "storage/blobs/Syllabus-ARSGE-BE05000441_9a23b07bc4a49a7baf7f13612e87577c1548924e190c8b0daa1d46104e36217d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 237236,
+    "created_at": "2026-07-05 12:03:58"
+  },
+  {
+    "id": "asset_f4cc0418",
+    "content_hash": "9bc410f4448b2d66460c0acca2504ab43ae96b2971304393defd3aee5192a9c4",
+    "original_filename": "Syllabus-DMT-BE05000181.pdf",
+    "storage_key": "storage/blobs/Syllabus-DMT-BE05000181_9bc410f4448b2d66460c0acca2504ab43ae96b2971304393defd3aee5192a9c4.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 161005,
+    "created_at": "2026-07-05 12:04:05"
+  },
+  {
+    "id": "asset_4418f283",
+    "content_hash": "bc5615475dc6b50a761713f2bc77a1c62034645e8f7e875113e8a994d346ee55",
+    "original_filename": "Syllabus-EAM-BE05000431.pdf",
+    "storage_key": "storage/blobs/Syllabus-EAM-BE05000431_bc5615475dc6b50a761713f2bc77a1c62034645e8f7e875113e8a994d346ee55.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139494,
+    "created_at": "2026-07-05 12:04:06"
+  },
+  {
+    "id": "asset_e09e3c4f",
+    "content_hash": "8408695996bd2801863ac0c54d358fff362ecc7eedb65c09964768fa3b603ca7",
+    "original_filename": "Syllabus-FPE-BE05000541.pdf",
+    "storage_key": "storage/blobs/Syllabus-FPE-BE05000541_8408695996bd2801863ac0c54d358fff362ecc7eedb65c09964768fa3b603ca7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 133965,
+    "created_at": "2026-07-05 12:04:07"
+  },
+  {
+    "id": "asset_ce09aa46",
+    "content_hash": "9cee1397ed7dd88546c7623e958ed82aacc4d52fbb955f84cb8bb7807e492788",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_9cee1397ed7dd88546c7623e958ed82aacc4d52fbb955f84cb8bb7807e492788.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:04:08"
+  },
+  {
+    "id": "asset_8d5e7fbc",
+    "content_hash": "f634c68a06dd08e290162e600686a4df45893cffffd8075dc41ccedcc3d48f33",
+    "original_filename": "Syllabus-IMT-BE05000501.pdf",
+    "storage_key": "storage/blobs/Syllabus-IMT-BE05000501_f634c68a06dd08e290162e600686a4df45893cffffd8075dc41ccedcc3d48f33.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 205127,
+    "created_at": "2026-07-05 12:04:10"
+  },
+  {
+    "id": "asset_6170d9ae",
+    "content_hash": "e843482dcd4e4e7a2f5abe11f50cd161471e3f73075ec6dd03bb8afec00d3000",
+    "original_filename": "Syllabus-MI-BE05000551.pdf",
+    "storage_key": "storage/blobs/Syllabus-MI-BE05000551_e843482dcd4e4e7a2f5abe11f50cd161471e3f73075ec6dd03bb8afec00d3000.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111424,
+    "created_at": "2026-07-05 12:04:11"
+  },
+  {
+    "id": "asset_6d4684f3",
+    "content_hash": "606df58a34fbd6fcef0f9881bf819182c2172f656162f18facfd4555183635c2",
+    "original_filename": "Syllabus-OHP-BE05000471.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHP-BE05000471_606df58a34fbd6fcef0f9881bf819182c2172f656162f18facfd4555183635c2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 140591,
+    "created_at": "2026-07-05 12:04:12"
+  },
+  {
+    "id": "asset_6afa374e",
+    "content_hash": "76bf7a3361171266839924e5676f78904ab938740b0f6641f3bc37295ea1c747",
+    "original_filename": "Syllabus-OHSM-BE05000451.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHSM-BE05000451_76bf7a3361171266839924e5676f78904ab938740b0f6641f3bc37295ea1c747.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 104493,
+    "created_at": "2026-07-05 12:04:13"
+  },
+  {
+    "id": "asset_2950409d",
+    "content_hash": "d64dbc3e0433509e6a44f3591e39c9081f6b1e70e145cafd69c5b0521c780734",
+    "original_filename": "Syllabus-PDS-BE05000231.pdf",
+    "storage_key": "storage/blobs/Syllabus-PDS-BE05000231_d64dbc3e0433509e6a44f3591e39c9081f6b1e70e145cafd69c5b0521c780734.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 110543,
+    "created_at": "2026-07-05 12:04:14"
+  },
+  {
+    "id": "asset_82d74f9a",
+    "content_hash": "49e0eb114a47ef8a6991c8b81a5f4bd700ca478376da792230fc722699ac21fe",
+    "original_filename": "Syllabus-PM-BE05000481.pdf",
+    "storage_key": "storage/blobs/Syllabus-PM-BE05000481_49e0eb114a47ef8a6991c8b81a5f4bd700ca478376da792230fc722699ac21fe.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 168590,
+    "created_at": "2026-07-05 12:04:16"
+  },
+  {
+    "id": "asset_eddc7af0",
+    "content_hash": "d98a15bff66e0c206de5e5f622b537856d7e87dd61ae03f54f4edd517bb4ee1f",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_d98a15bff66e0c206de5e5f622b537856d7e87dd61ae03f54f4edd517bb4ee1f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:04:17"
+  },
+  {
+    "id": "asset_9998be93",
+    "content_hash": "b76b2eab03f85cc2eb358d2b3bcfdd4722bc6ea484d2faf4be1ba9a50f56ec7e",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_b76b2eab03f85cc2eb358d2b3bcfdd4722bc6ea484d2faf4be1ba9a50f56ec7e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:04:18"
+  },
+  {
+    "id": "asset_556db3e7",
+    "content_hash": "d0e379769ca75ca6f85354a30a69a8d9242fdab77b17fe12e96bb3177ee68487",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_d0e379769ca75ca6f85354a30a69a8d9242fdab77b17fe12e96bb3177ee68487.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234841,
+    "created_at": "2026-07-05 12:04:19"
+  },
+  {
+    "id": "asset_33cd2877",
+    "content_hash": "0be28de9e7eac603688b6f8b3dd160db204266a7a495986167e66a3132878a49",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_0be28de9e7eac603688b6f8b3dd160db204266a7a495986167e66a3132878a49.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:04:20"
+  },
+  {
+    "id": "asset_9d75e1d1",
+    "content_hash": "536944d946ab9631edfc81d2189b77fb9ab136d8592bd58fd2e174c83e45c4e5",
+    "original_filename": "Syllabus-SS-BE05000261.pdf",
+    "storage_key": "storage/blobs/Syllabus-SS-BE05000261_536944d946ab9631edfc81d2189b77fb9ab136d8592bd58fd2e174c83e45c4e5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 134332,
+    "created_at": "2026-07-05 12:04:21"
+  },
+  {
+    "id": "asset_b302b649",
+    "content_hash": "d1751d4ac5c1e9b4ef81c8960961f737184ccb05cc154d3598e71b39eb37b16c",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_d1751d4ac5c1e9b4ef81c8960961f737184ccb05cc154d3598e71b39eb37b16c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:04:22"
+  },
+  {
+    "id": "asset_0695fd4d",
+    "content_hash": "afa8dcd67de72fd030d971a6bf2ffe19d835a3f613c7ee6e562ed41502ae5ad9",
+    "original_filename": "Syllabus-WAD-BE05000281.pdf",
+    "storage_key": "storage/blobs/Syllabus-WAD-BE05000281_afa8dcd67de72fd030d971a6bf2ffe19d835a3f613c7ee6e562ed41502ae5ad9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 116320,
+    "created_at": "2026-07-05 12:04:23"
+  },
+  {
+    "id": "asset_fc7909fc",
+    "content_hash": "e1ab0faea3e58a835d53c8e4049838c69b2940efc9d5825d2e7c229a0024dd07",
+    "original_filename": "Syllabus-APE-BE05009061.pdf",
+    "storage_key": "storage/blobs/Syllabus-APE-BE05009061_e1ab0faea3e58a835d53c8e4049838c69b2940efc9d5825d2e7c229a0024dd07.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 132567,
+    "created_at": "2026-07-05 12:04:40"
+  },
+  {
+    "id": "asset_7e90d9d8",
+    "content_hash": "02434cf950c3756b75813208f224296b49c71e468068ac6ec4986a584c1f5f85",
+    "original_filename": "Syllabus-ARSGE-BE05000441.pdf",
+    "storage_key": "storage/blobs/Syllabus-ARSGE-BE05000441_02434cf950c3756b75813208f224296b49c71e468068ac6ec4986a584c1f5f85.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 237236,
+    "created_at": "2026-07-05 12:04:42"
+  },
+  {
+    "id": "asset_056672f8",
+    "content_hash": "bd0f0f85cfe98025f5e848f157f4dec0c82788567262a4f94cb72780208f261a",
+    "original_filename": "Syllabus-COA-BE05000511.pdf",
+    "storage_key": "storage/blobs/Syllabus-COA-BE05000511_bd0f0f85cfe98025f5e848f157f4dec0c82788567262a4f94cb72780208f261a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 128645,
+    "created_at": "2026-07-05 12:04:43"
+  },
+  {
+    "id": "asset_23278834",
+    "content_hash": "a6d22e90cda1c7849adc77714ffd66e58ff3e7f46d96f31d8a923df08779905d",
+    "original_filename": "Syllabus-CS-BE05009011.pdf",
+    "storage_key": "storage/blobs/Syllabus-CS-BE05009011_a6d22e90cda1c7849adc77714ffd66e58ff3e7f46d96f31d8a923df08779905d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 284483,
+    "created_at": "2026-07-05 12:04:44"
+  },
+  {
+    "id": "asset_c67785ac",
+    "content_hash": "25bb56776df005f6234bb2871817524190a64e714bbcd631bca5c35a3d418879",
+    "original_filename": "Syllabus-EDS-BE05009091.pdf",
+    "storage_key": "storage/blobs/Syllabus-EDS-BE05009091_25bb56776df005f6234bb2871817524190a64e714bbcd631bca5c35a3d418879.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 341750,
+    "created_at": "2026-07-05 12:04:46"
+  },
+  {
+    "id": "asset_cc409249",
+    "content_hash": "21a25229fd08c43879a989f1118cc73f7133b743df903225521bd84edf1394a9",
+    "original_filename": "Syllabus-EED-BE05009041.pdf",
+    "storage_key": "storage/blobs/Syllabus-EED-BE05009041_21a25229fd08c43879a989f1118cc73f7133b743df903225521bd84edf1394a9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 146988,
+    "created_at": "2026-07-05 12:04:56"
+  },
+  {
+    "id": "asset_781ce079",
+    "content_hash": "682965b561428dd563215356da1dba520be25ba7cd61fb7ab364e8e1edf96ceb",
+    "original_filename": "Syllabus-EMA-BE05009081.pdf",
+    "storage_key": "storage/blobs/Syllabus-EMA-BE05009081_682965b561428dd563215356da1dba520be25ba7cd61fb7ab364e8e1edf96ceb.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 172517,
+    "created_at": "2026-07-05 12:04:57"
+  },
+  {
+    "id": "asset_346c4249",
+    "content_hash": "c5d994285e931a74468b6337af6c010483685975d2bfe17014bb3fa1b18dd4de",
+    "original_filename": "Syllabus-FLGP-BE05000461.pdf",
+    "storage_key": "storage/blobs/Syllabus-FLGP-BE05000461_c5d994285e931a74468b6337af6c010483685975d2bfe17014bb3fa1b18dd4de.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 129921,
+    "created_at": "2026-07-05 12:04:59"
+  },
+  {
+    "id": "asset_65aea23b",
+    "content_hash": "e0419c9f99ce27d41b94bb8d2503faee1728c72fa59fae06fab136be6aa921a2",
+    "original_filename": "Syllabus-HVE-BE05009071.pdf",
+    "storage_key": "storage/blobs/Syllabus-HVE-BE05009071_e0419c9f99ce27d41b94bb8d2503faee1728c72fa59fae06fab136be6aa921a2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 153768,
+    "created_at": "2026-07-05 12:05:00"
+  },
+  {
+    "id": "asset_8ef02ebc",
+    "content_hash": "94bcd0b90c5d68faab7a3ade7250fb6f87c432be44d4f219781e368f9fc8102c",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_94bcd0b90c5d68faab7a3ade7250fb6f87c432be44d4f219781e368f9fc8102c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:05:01"
+  },
+  {
+    "id": "asset_bb63c4cf",
+    "content_hash": "5f5e1c926db0b6eb917c363f21b72f5392064d47c543dd171bff1068292c973a",
+    "original_filename": "Syllabus-MI-BE05009031.pdf",
+    "storage_key": "storage/blobs/Syllabus-MI-BE05009031_5f5e1c926db0b6eb917c363f21b72f5392064d47c543dd171bff1068292c973a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 301766,
+    "created_at": "2026-07-05 12:05:02"
+  },
+  {
+    "id": "asset_6f1fc2e6",
+    "content_hash": "d5d7250d1f84a7a1acd28f79e60933a75c3f8a80e3c0fcdc3a117a9ab9ef302f",
+    "original_filename": "Syllabus-OHP-BE05000471.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHP-BE05000471_d5d7250d1f84a7a1acd28f79e60933a75c3f8a80e3c0fcdc3a117a9ab9ef302f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 140591,
+    "created_at": "2026-07-05 12:05:04"
+  },
+  {
+    "id": "asset_3ed488d4",
+    "content_hash": "aae8338443b629ddfaac0f4a74d80b50c4bc4a42dd774050549fea029a746628",
+    "original_filename": "Syllabus-OHSM-BE05000451.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHSM-BE05000451_aae8338443b629ddfaac0f4a74d80b50c4bc4a42dd774050549fea029a746628.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 104493,
+    "created_at": "2026-07-05 12:05:05"
+  },
+  {
+    "id": "asset_5568aef1",
+    "content_hash": "08a6a33bfe086838c91b87e1a2a7b4b501777bca9df622da3e375cf58a8224ac",
+    "original_filename": "Syllabus-PM-BE05000481.pdf",
+    "storage_key": "storage/blobs/Syllabus-PM-BE05000481_08a6a33bfe086838c91b87e1a2a7b4b501777bca9df622da3e375cf58a8224ac.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 168590,
+    "created_at": "2026-07-05 12:05:06"
+  },
+  {
+    "id": "asset_6c25c11c",
+    "content_hash": "43b59db1e55e6926a3306acafbf4551f854a34d6ae24565be7cd90b25e14300a",
+    "original_filename": "Syllabus-PSI-BE05009021.pdf",
+    "storage_key": "storage/blobs/Syllabus-PSI-BE05009021_43b59db1e55e6926a3306acafbf4551f854a34d6ae24565be7cd90b25e14300a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 451225,
+    "created_at": "2026-07-05 12:05:18"
+  },
+  {
+    "id": "asset_6df35543",
+    "content_hash": "3dc34ad1ea3b01ecb3a4ea5749e3c1c84467227b40048f4ed515be525cdaca64",
+    "original_filename": "Syllabus-RET-BE05009051.pdf",
+    "storage_key": "storage/blobs/Syllabus-RET-BE05009051_3dc34ad1ea3b01ecb3a4ea5749e3c1c84467227b40048f4ed515be525cdaca64.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 303813,
+    "created_at": "2026-07-05 12:05:20"
+  },
+  {
+    "id": "asset_a418f296",
+    "content_hash": "3fc9dddd1dd5df4eea4d7b000a6fddd3cd1ae8090cc644a09ccd9e706cd0173d",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_3fc9dddd1dd5df4eea4d7b000a6fddd3cd1ae8090cc644a09ccd9e706cd0173d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:05:21"
+  },
+  {
+    "id": "asset_62abadfd",
+    "content_hash": "c9963011690c87e7f8ff855e8ec1519b5db4d950a05d8867a873e54f667e0603",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_c9963011690c87e7f8ff855e8ec1519b5db4d950a05d8867a873e54f667e0603.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:05:22"
+  },
+  {
+    "id": "asset_a68a527a",
+    "content_hash": "3ed62e44cf0bcd4f1afe4eca816a2e4507ff75a5adf8a6ba1735ec4624b313f0",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_3ed62e44cf0bcd4f1afe4eca816a2e4507ff75a5adf8a6ba1735ec4624b313f0.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234841,
+    "created_at": "2026-07-05 12:05:23"
+  },
+  {
+    "id": "asset_4dda910a",
+    "content_hash": "133f713f03069d334ef1faa01919700f53367885388d72af9e1e5517ae683d12",
+    "original_filename": "Syllabus-AWP-BE05000381.pdf",
+    "storage_key": "storage/blobs/Syllabus-AWP-BE05000381_133f713f03069d334ef1faa01919700f53367885388d72af9e1e5517ae683d12.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 143021,
+    "created_at": "2026-07-05 12:05:24"
+  },
+  {
+    "id": "asset_910e17c2",
+    "content_hash": "6b23d523576aa2fbaac320d985399b68e6583ddbfc544e2442fe1e794d56f35e",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_6b23d523576aa2fbaac320d985399b68e6583ddbfc544e2442fe1e794d56f35e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:05:24"
+  },
+  {
+    "id": "asset_f719c9f5",
+    "content_hash": "b45781edcdbc8754e4dd6ed76aa31ab7dcf62c6b70ad005ea39607f5a8ff14b7",
+    "original_filename": "Syllabus-DC-BE05000361.pdf",
+    "storage_key": "storage/blobs/Syllabus-DC-BE05000361_b45781edcdbc8754e4dd6ed76aa31ab7dcf62c6b70ad005ea39607f5a8ff14b7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 129219,
+    "created_at": "2026-07-05 12:05:25"
+  },
+  {
+    "id": "asset_e6349d99",
+    "content_hash": "f9c9c46107a6bdb9ba7d214c6165a594095af718ed014c0f9b50bbe3fd5db569",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_f9c9c46107a6bdb9ba7d214c6165a594095af718ed014c0f9b50bbe3fd5db569.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:05:25"
+  },
+  {
+    "id": "asset_0e34814d",
+    "content_hash": "aaa6e9acfe01e6acd8363e20282128cd9ab1c35fef9bcb9f69162d24b8d6d005",
+    "original_filename": "Syllabus-EAM-BE05000431.pdf",
+    "storage_key": "storage/blobs/Syllabus-EAM-BE05000431_aaa6e9acfe01e6acd8363e20282128cd9ab1c35fef9bcb9f69162d24b8d6d005.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139494,
+    "created_at": "2026-07-05 12:05:26"
+  },
+  {
+    "id": "asset_cdfaa7a3",
+    "content_hash": "0770c63bd6577486ff9d53a59317c30116ff20aa1383cf2eccda884ec3620ed4",
+    "original_filename": "Syllabus-FLGP-BE05000461.pdf",
+    "storage_key": "storage/blobs/Syllabus-FLGP-BE05000461_0770c63bd6577486ff9d53a59317c30116ff20aa1383cf2eccda884ec3620ed4.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 129921,
+    "created_at": "2026-07-05 12:05:27"
+  },
+  {
+    "id": "asset_ced345ee",
+    "content_hash": "86dba5441267fa6492e378fea34d7a5e2552bc8391c4c6ad72bb3fa6619842c5",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_86dba5441267fa6492e378fea34d7a5e2552bc8391c4c6ad72bb3fa6619842c5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:05:28"
+  },
+  {
+    "id": "asset_af96cb87",
+    "content_hash": "6c98390b398d2349da47cabfe80c88869a59e7e6ee1405f127b93147248d15d2",
+    "original_filename": "Syllabus-IMT-BE05000501.pdf",
+    "storage_key": "storage/blobs/Syllabus-IMT-BE05000501_6c98390b398d2349da47cabfe80c88869a59e7e6ee1405f127b93147248d15d2.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 205127,
+    "created_at": "2026-07-05 12:05:30"
+  },
+  {
+    "id": "asset_da0700c1",
+    "content_hash": "e0d752c9267e87751da70209b83321a141f5a73a55cab9c5156f19b7557f3cd9",
+    "original_filename": "Syllabus-OHP-BE05000471.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHP-BE05000471_e0d752c9267e87751da70209b83321a141f5a73a55cab9c5156f19b7557f3cd9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 140591,
+    "created_at": "2026-07-05 12:05:31"
+  },
+  {
+    "id": "asset_60cf4a97",
+    "content_hash": "97380fed26d71896360814c694d588fb51ac4b41df0652597f2effd6d154325c",
+    "original_filename": "Syllabus-OHSM-BE05000451.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHSM-BE05000451_97380fed26d71896360814c694d588fb51ac4b41df0652597f2effd6d154325c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 104493,
+    "created_at": "2026-07-05 12:05:32"
+  },
+  {
+    "id": "asset_a0009d73",
+    "content_hash": "8ef1dc2926a16c434d588248a4ad9d66dad7fe93878e4b5a43f4eef984a67e1e",
+    "original_filename": "Syllabus-PDF-BE05000421.pdf",
+    "storage_key": "storage/blobs/Syllabus-PDF-BE05000421_8ef1dc2926a16c434d588248a4ad9d66dad7fe93878e4b5a43f4eef984a67e1e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 127584,
+    "created_at": "2026-07-05 12:05:33"
+  },
+  {
+    "id": "asset_fb4decb7",
+    "content_hash": "08ae5741ef9c4f3a846b880836a5d3308b67dac7fb1109b71446e8e2f88d1e10",
+    "original_filename": "Syllabus-PE-BE05000391.pdf",
+    "storage_key": "storage/blobs/Syllabus-PE-BE05000391_08ae5741ef9c4f3a846b880836a5d3308b67dac7fb1109b71446e8e2f88d1e10.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 162107,
+    "created_at": "2026-07-05 12:05:34"
+  },
+  {
+    "id": "asset_0fdd676a",
+    "content_hash": "a4379603a7ec97ba23d2192b3cdd94015ce34a2e67192b2cc68185f0378a8928",
+    "original_filename": "Syllabus-PM-BE05000481.pdf",
+    "storage_key": "storage/blobs/Syllabus-PM-BE05000481_a4379603a7ec97ba23d2192b3cdd94015ce34a2e67192b2cc68185f0378a8928.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 168590,
+    "created_at": "2026-07-05 12:05:35"
+  },
+  {
+    "id": "asset_70384e6a",
+    "content_hash": "f8c44b4311be664cd6627ccb2c62afec148417c5164b0c84dd4b59c69f32b60a",
+    "original_filename": "Syllabus-PP-BE05000411.pdf",
+    "storage_key": "storage/blobs/Syllabus-PP-BE05000411_f8c44b4311be664cd6627ccb2c62afec148417c5164b0c84dd4b59c69f32b60a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 151345,
+    "created_at": "2026-07-05 12:05:36"
+  },
+  {
+    "id": "asset_482cd0bf",
+    "content_hash": "fa3d394b6c8c91b225ea2a446a8b398bff8a1a981a772e4c7a247196b80818f8",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_fa3d394b6c8c91b225ea2a446a8b398bff8a1a981a772e4c7a247196b80818f8.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:05:37"
+  },
+  {
+    "id": "asset_0fc9a4ee",
+    "content_hash": "9b7550d25c34e7629b231b5888ff04cac8ef57a83ff0017d4f2654110576a9d4",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_9b7550d25c34e7629b231b5888ff04cac8ef57a83ff0017d4f2654110576a9d4.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:05:38"
+  },
+  {
+    "id": "asset_3ba80066",
+    "content_hash": "8f28aa5549354922df360e1328d4194fb53bdae68c3eefc1b28ce70506b1462f",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_8f28aa5549354922df360e1328d4194fb53bdae68c3eefc1b28ce70506b1462f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234837,
+    "created_at": "2026-07-05 12:05:39"
+  },
+  {
+    "id": "asset_3e6acf85",
+    "content_hash": "d3e22c395209605172e9cf99b3a4934253d99ee65b34edf384d6739a1981ad49",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_d3e22c395209605172e9cf99b3a4934253d99ee65b34edf384d6739a1981ad49.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:05:40"
+  },
+  {
+    "id": "asset_2eab07d4",
+    "content_hash": "032adb547bfff9e2ce1612bf10fdf9e7accab703837a9c80e4bcdf8b7a2ff2e5",
+    "original_filename": "Syllabus-ST-BE05000401.pdf",
+    "storage_key": "storage/blobs/Syllabus-ST-BE05000401_032adb547bfff9e2ce1612bf10fdf9e7accab703837a9c80e4bcdf8b7a2ff2e5.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 147990,
+    "created_at": "2026-07-05 12:05:42"
+  },
+  {
+    "id": "asset_2aa516f6",
+    "content_hash": "b0274e43c8d397e6eb77477119832c862b149a92590b0e07bdee047a17bbd45a",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_b0274e43c8d397e6eb77477119832c862b149a92590b0e07bdee047a17bbd45a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:05:43"
+  },
+  {
+    "id": "asset_71edfbbe",
+    "content_hash": "6267e2d332b10eb0c347505832002a3d371e10eba46e35d20fa20033eb43a302",
+    "original_filename": "Syllabus-VD-BE05000371.pdf",
+    "storage_key": "storage/blobs/Syllabus-VD-BE05000371_6267e2d332b10eb0c347505832002a3d371e10eba46e35d20fa20033eb43a302.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 122931,
+    "created_at": "2026-07-05 12:05:44"
+  },
+  {
+    "id": "asset_3a55c867",
+    "content_hash": "04b80d32b86977d436b093f0db34ae0d5ebf6f8cf83d41b367e3317eac79a29e",
+    "original_filename": "Syllabus-AM-BE05000351.pdf",
+    "storage_key": "storage/blobs/Syllabus-AM-BE05000351_04b80d32b86977d436b093f0db34ae0d5ebf6f8cf83d41b367e3317eac79a29e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 145902,
+    "created_at": "2026-07-05 12:05:45"
+  },
+  {
+    "id": "asset_6d6dbc1c",
+    "content_hash": "676b44ae20a1305aea5c917290b4eb19897b9d00b1cf9e129ed5434a72be6feb",
+    "original_filename": "Syllabus-ARSGE-BE05000441.pdf",
+    "storage_key": "storage/blobs/Syllabus-ARSGE-BE05000441_676b44ae20a1305aea5c917290b4eb19897b9d00b1cf9e129ed5434a72be6feb.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 237236,
+    "created_at": "2026-07-05 12:05:48"
+  },
+  {
+    "id": "asset_121c44f8",
+    "content_hash": "fcc83f3886bcb897d3fd9a25b81fe1a576f17c65f2e3e091bd2a84c744079798",
+    "original_filename": "Syllabus-ARSGE-BE05000441.pdf",
+    "storage_key": "storage/blobs/Syllabus-ARSGE-BE05000441_fcc83f3886bcb897d3fd9a25b81fe1a576f17c65f2e3e091bd2a84c744079798.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 237236,
+    "created_at": "2026-07-05 12:06:13"
+  },
+  {
+    "id": "asset_37f5b780",
+    "content_hash": "92bad3b4137b60821b615104a4e8091ec2dc9bce03de7b8cf514056470db0cac",
+    "original_filename": "Syllabus-CGV-BE05000161.pdf",
+    "storage_key": "storage/blobs/Syllabus-CGV-BE05000161_92bad3b4137b60821b615104a4e8091ec2dc9bce03de7b8cf514056470db0cac.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 146900,
+    "created_at": "2026-07-05 12:06:14"
+  },
+  {
+    "id": "asset_99829579",
+    "content_hash": "7fef07928a222218fa5d7b5d1fe7c66e697d0ca06b3130fd4b7a51c524ea4e79",
+    "original_filename": "Syllabus-CS-BE05016041.pdf",
+    "storage_key": "storage/blobs/Syllabus-CS-BE05016041_7fef07928a222218fa5d7b5d1fe7c66e697d0ca06b3130fd4b7a51c524ea4e79.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 109640,
+    "created_at": "2026-07-05 12:06:15"
+  },
+  {
+    "id": "asset_cae0477e",
+    "content_hash": "4e7911d80a4d4d91cb209db1aa43c16928e0b5728e5128d8d7796080ef64827f",
+    "original_filename": "Syllabus-DS-BE05016021.pdf",
+    "storage_key": "storage/blobs/Syllabus-DS-BE05016021_4e7911d80a4d4d91cb209db1aa43c16928e0b5728e5128d8d7796080ef64827f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 117345,
+    "created_at": "2026-07-05 12:06:16"
+  },
+  {
+    "id": "asset_81d967ce",
+    "content_hash": "7949bdb33f0738054939483749584aa7a2387aaba25a16615be2e374f00c43f8",
+    "original_filename": "Syllabus-EAM-BE05000431.pdf",
+    "storage_key": "storage/blobs/Syllabus-EAM-BE05000431_7949bdb33f0738054939483749584aa7a2387aaba25a16615be2e374f00c43f8.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139494,
+    "created_at": "2026-07-05 12:06:17"
+  },
+  {
+    "id": "asset_a995a32c",
+    "content_hash": "ae4d8d2b5a3f33bd09910dc9f9dc5441363a362f0051bfb749e6391e323524ee",
+    "original_filename": "Syllabus-FPE-BE05000541.pdf",
+    "storage_key": "storage/blobs/Syllabus-FPE-BE05000541_ae4d8d2b5a3f33bd09910dc9f9dc5441363a362f0051bfb749e6391e323524ee.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 133965,
+    "created_at": "2026-07-05 12:06:18"
+  },
+  {
+    "id": "asset_61a4e329",
+    "content_hash": "ef1387e3b5c225d994feed0de7a35c3fb7463c71b550eb423f418a36e50b75ca",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_ef1387e3b5c225d994feed0de7a35c3fb7463c71b550eb423f418a36e50b75ca.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:06:19"
+  },
+  {
+    "id": "asset_9ba900e6",
+    "content_hash": "1e011078890ce98890a4e1d2386048d59c3f73f1474a3c0022cbcf7ae0f40273",
+    "original_filename": "Syllabus-IMT-BE05000501.pdf",
+    "storage_key": "storage/blobs/Syllabus-IMT-BE05000501_1e011078890ce98890a4e1d2386048d59c3f73f1474a3c0022cbcf7ae0f40273.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 205127,
+    "created_at": "2026-07-05 12:06:20"
+  },
+  {
+    "id": "asset_6e4e6e43",
+    "content_hash": "13c41e3a47c03b6547b332c9bb1d9ef21f6f32d779d641bfbb0ac01aa4de8e89",
+    "original_filename": "Syllabus-OHP-BE05000471.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHP-BE05000471_13c41e3a47c03b6547b332c9bb1d9ef21f6f32d779d641bfbb0ac01aa4de8e89.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 140591,
+    "created_at": "2026-07-05 12:06:21"
+  },
+  {
+    "id": "asset_4fe521cb",
+    "content_hash": "6a6bf6a0cc0d7cfb5decbc44ec8bb5240d8fbaf9e547bc0676bf7ecfaa4767c8",
+    "original_filename": "Syllabus-OHSM-BE05000451.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHSM-BE05000451_6a6bf6a0cc0d7cfb5decbc44ec8bb5240d8fbaf9e547bc0676bf7ecfaa4767c8.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 104493,
+    "created_at": "2026-07-05 12:06:22"
+  },
+  {
+    "id": "asset_9577694d",
+    "content_hash": "593157855732fcd13f4fb8528087797c591fe3204acfc54bbf1b7d442843241c",
+    "original_filename": "Syllabus-PM-BE05000481.pdf",
+    "storage_key": "storage/blobs/Syllabus-PM-BE05000481_593157855732fcd13f4fb8528087797c591fe3204acfc54bbf1b7d442843241c.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 168590,
+    "created_at": "2026-07-05 12:06:24"
+  },
+  {
+    "id": "asset_a1adca52",
+    "content_hash": "5ac9b0a359babfdd252c5e8ff2e449184e6f92ea572dab7866b66d01754f90fa",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_5ac9b0a359babfdd252c5e8ff2e449184e6f92ea572dab7866b66d01754f90fa.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:06:25"
+  },
+  {
+    "id": "asset_f76bb576",
+    "content_hash": "a5949981c7b960a478a1dc528958727a33ae9a3ade8e4bd2db0c70718473836f",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_a5949981c7b960a478a1dc528958727a33ae9a3ade8e4bd2db0c70718473836f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:06:26"
+  },
+  {
+    "id": "asset_295dfdee",
+    "content_hash": "3a5e5a2078c63c8d09b9ab76f3f4d14322686ce2dd4815e65d67328e42ca7442",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_3a5e5a2078c63c8d09b9ab76f3f4d14322686ce2dd4815e65d67328e42ca7442.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234841,
+    "created_at": "2026-07-05 12:06:28"
+  },
+  {
+    "id": "asset_b568c18f",
+    "content_hash": "e0160e3f4dfb3df69c7829a889747aa19effecba2c23586dd9c67d7adb92268f",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_e0160e3f4dfb3df69c7829a889747aa19effecba2c23586dd9c67d7adb92268f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:06:29"
+  },
+  {
+    "id": "asset_d3856b96",
+    "content_hash": "3c9f7757e81ba5b160623679cc4dc56c6d012aff78c7342094ffef75cdfdd1e3",
+    "original_filename": "Syllabus-SS-BE05000261.pdf",
+    "storage_key": "storage/blobs/Syllabus-SS-BE05000261_3c9f7757e81ba5b160623679cc4dc56c6d012aff78c7342094ffef75cdfdd1e3.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 134332,
+    "created_at": "2026-07-05 12:06:30"
+  },
+  {
+    "id": "asset_77bccb51",
+    "content_hash": "0dea22639d2559b5fb23144a1182ece6d348743babf362715c317955c3ea4b7e",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_0dea22639d2559b5fb23144a1182ece6d348743babf362715c317955c3ea4b7e.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:06:31"
+  },
+  {
+    "id": "asset_2ba72987",
+    "content_hash": "3def774fd427b0bdcbe99366758a9522e3bbe9eab8b91d6d500ad3cfd5da14d1",
+    "original_filename": "Syllabus-WAD-BE05000281.pdf",
+    "storage_key": "storage/blobs/Syllabus-WAD-BE05000281_3def774fd427b0bdcbe99366758a9522e3bbe9eab8b91d6d500ad3cfd5da14d1.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 116320,
+    "created_at": "2026-07-05 12:06:32"
+  },
+  {
+    "id": "asset_c067f7d4",
+    "content_hash": "8fa256e1802f990f709d6975c459968c5413bdc4ef70717879e15d65199e4e25",
+    "original_filename": "Syllabus-AAD-BE05016011.pdf",
+    "storage_key": "storage/blobs/Syllabus-AAD-BE05016011_8fa256e1802f990f709d6975c459968c5413bdc4ef70717879e15d65199e4e25.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 144697,
+    "created_at": "2026-07-05 12:06:33"
+  },
+  {
+    "id": "asset_2a200bd4",
+    "content_hash": "654ee1d222ab4913ac6d27251e81f4f40c6ddaeecca0918ea807b557f2e0d98f",
+    "original_filename": "Syllabus-ADMS-BE05016031.pdf",
+    "storage_key": "storage/blobs/Syllabus-ADMS-BE05016031_654ee1d222ab4913ac6d27251e81f4f40c6ddaeecca0918ea807b557f2e0d98f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 128058,
+    "created_at": "2026-07-05 12:06:34"
+  },
+  {
+    "id": "asset_416a11ca",
+    "content_hash": "70e3d177f2f0c73176569ff002160ee64eee70943a8cd1b5ef9881c9a3c1a379",
+    "original_filename": "Syllabus-ARSGE-BE05000441.pdf",
+    "storage_key": "storage/blobs/Syllabus-ARSGE-BE05000441_70e3d177f2f0c73176569ff002160ee64eee70943a8cd1b5ef9881c9a3c1a379.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 237236,
+    "created_at": "2026-07-05 12:06:54"
+  },
+  {
+    "id": "asset_f8329561",
+    "content_hash": "7e2efa95d39831f5125ace549cb7fc9e79727fe64291b17f56ec22127487b5b0",
+    "original_filename": "Syllabus-BIE-BE05000321.pdf",
+    "storage_key": "storage/blobs/Syllabus-BIE-BE05000321_7e2efa95d39831f5125ace549cb7fc9e79727fe64291b17f56ec22127487b5b0.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 153880,
+    "created_at": "2026-07-05 12:06:56"
+  },
+  {
+    "id": "asset_6f157e5d",
+    "content_hash": "ebc44b8d1cc004bbaf7c70dcdcf22d7265d50fbe5d8c6bd5c1d94ecc9ae35844",
+    "original_filename": "Syllabus-COA-BE05000511.pdf",
+    "storage_key": "storage/blobs/Syllabus-COA-BE05000511_ebc44b8d1cc004bbaf7c70dcdcf22d7265d50fbe5d8c6bd5c1d94ecc9ae35844.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 128645,
+    "created_at": "2026-07-05 12:06:57"
+  },
+  {
+    "id": "asset_3e373dcd",
+    "content_hash": "22ae779adbf912ea9e544927c7e50bbddc8d8e766f4795bd5709c95fe1e29abd",
+    "original_filename": "Syllabus-DM-BE05000301.pdf",
+    "storage_key": "storage/blobs/Syllabus-DM-BE05000301_22ae779adbf912ea9e544927c7e50bbddc8d8e766f4795bd5709c95fe1e29abd.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 172999,
+    "created_at": "2026-07-05 12:06:58"
+  },
+  {
+    "id": "asset_e079716c",
+    "content_hash": "2408c4b92c6f30f1d94f2d569290d414558a8e75d9fef175eccef3d8a62e703d",
+    "original_filename": "Syllabus-EAM-BE05000431.pdf",
+    "storage_key": "storage/blobs/Syllabus-EAM-BE05000431_2408c4b92c6f30f1d94f2d569290d414558a8e75d9fef175eccef3d8a62e703d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139494,
+    "created_at": "2026-07-05 12:06:59"
+  },
+  {
+    "id": "asset_19912412",
+    "content_hash": "9148a54ddf9147a9ea56ba1d5b78b54927da3cf0738d98a057f02b292658100d",
+    "original_filename": "Syllabus-ECM-BE05019021.pdf",
+    "storage_key": "storage/blobs/Syllabus-ECM-BE05019021_9148a54ddf9147a9ea56ba1d5b78b54927da3cf0738d98a057f02b292658100d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 142663,
+    "created_at": "2026-07-05 12:07:00"
+  },
+  {
+    "id": "asset_76ebe6c9",
+    "content_hash": "e9d8feab8d3c071657b57acc22a3815460464ee7c957b7f4ac25d0e1d643abc6",
+    "original_filename": "Syllabus-FLGP-BE05000461.pdf",
+    "storage_key": "storage/blobs/Syllabus-FLGP-BE05000461_e9d8feab8d3c071657b57acc22a3815460464ee7c957b7f4ac25d0e1d643abc6.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 129921,
+    "created_at": "2026-07-05 12:07:01"
+  },
+  {
+    "id": "asset_27efcc60",
+    "content_hash": "0207fa11cf34fce8f8ab66535a337b55d4ba1b28bd75737006c989dcbf58884f",
+    "original_filename": "Syllabus-FPE-BE05000541.pdf",
+    "storage_key": "storage/blobs/Syllabus-FPE-BE05000541_0207fa11cf34fce8f8ab66535a337b55d4ba1b28bd75737006c989dcbf58884f.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 133965,
+    "created_at": "2026-07-05 12:07:03"
+  },
+  {
+    "id": "asset_7ded3598",
+    "content_hash": "6f2d2dfaae26ac3b5de1119e6fe7d29553399000315b2581eeae23b98c27e4d9",
+    "original_filename": "Syllabus-HT-BE05000291.pdf",
+    "storage_key": "storage/blobs/Syllabus-HT-BE05000291_6f2d2dfaae26ac3b5de1119e6fe7d29553399000315b2581eeae23b98c27e4d9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 146887,
+    "created_at": "2026-07-05 12:07:04"
+  },
+  {
+    "id": "asset_53150a88",
+    "content_hash": "65801b06c5d224402b647f611273eacd396231817fa07c5097dc3da3ba2be34b",
+    "original_filename": "Syllabus-IBT-BE05000491.pdf",
+    "storage_key": "storage/blobs/Syllabus-IBT-BE05000491_65801b06c5d224402b647f611273eacd396231817fa07c5097dc3da3ba2be34b.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 124219,
+    "created_at": "2026-07-05 12:07:05"
+  },
+  {
+    "id": "asset_e71da51f",
+    "content_hash": "3d6c7316579973366002b761e4ffce90f9fd7a679843e3876a9bf8387b2f75d7",
+    "original_filename": "Syllabus-IMT-BE05000501.pdf",
+    "storage_key": "storage/blobs/Syllabus-IMT-BE05000501_3d6c7316579973366002b761e4ffce90f9fd7a679843e3876a9bf8387b2f75d7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 205127,
+    "created_at": "2026-07-05 12:07:06"
+  },
+  {
+    "id": "asset_28d5f354",
+    "content_hash": "e3d5a1807d1cb9e98700c4d5507bcdc251a0401a59f6d1671368365f18f70371",
+    "original_filename": "Syllabus-MT-BE05000311.pdf",
+    "storage_key": "storage/blobs/Syllabus-MT-BE05000311_e3d5a1807d1cb9e98700c4d5507bcdc251a0401a59f6d1671368365f18f70371.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 164265,
+    "created_at": "2026-07-05 12:07:08"
+  },
+  {
+    "id": "asset_23351c0c",
+    "content_hash": "46c1d8f0b5a4ffdb1c75a5b29f5fa922ddbfcd53e555d14a0002e501a37e6c73",
+    "original_filename": "Syllabus-OHSM-BE05000451.pdf",
+    "storage_key": "storage/blobs/Syllabus-OHSM-BE05000451_46c1d8f0b5a4ffdb1c75a5b29f5fa922ddbfcd53e555d14a0002e501a37e6c73.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 104493,
+    "created_at": "2026-07-05 12:07:09"
+  },
+  {
+    "id": "asset_a72f4747",
+    "content_hash": "092baaf29e8a42da8d57269b8d2317e7681f663cbeb744e2351b175ec2d6ecdd",
+    "original_filename": "Syllabus-PDVE-BE05000581.pdf",
+    "storage_key": "storage/blobs/Syllabus-PDVE-BE05000581_092baaf29e8a42da8d57269b8d2317e7681f663cbeb744e2351b175ec2d6ecdd.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 150286,
+    "created_at": "2026-07-05 12:07:10"
+  },
+  {
+    "id": "asset_db2785a6",
+    "content_hash": "44765658163ed4eb5f28ce025c136b98ce95f41dc63f12cad4b798d861a53aaf",
+    "original_filename": "Syllabus-QRE-BE05000331.pdf",
+    "storage_key": "storage/blobs/Syllabus-QRE-BE05000331_44765658163ed4eb5f28ce025c136b98ce95f41dc63f12cad4b798d861a53aaf.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 161802,
+    "created_at": "2026-07-05 12:07:12"
+  },
+  {
+    "id": "asset_67b2751d",
+    "content_hash": "46bdd3a9f95aa7c7cb4c54a103c74a9a0e77ec7cd665b2216edbebc44382c1c7",
+    "original_filename": "Syllabus-SCTI-BE05000521.pdf",
+    "storage_key": "storage/blobs/Syllabus-SCTI-BE05000521_46bdd3a9f95aa7c7cb4c54a103c74a9a0e77ec7cd665b2216edbebc44382c1c7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 111060,
+    "created_at": "2026-07-05 12:07:13"
+  },
+  {
+    "id": "asset_3097d849",
+    "content_hash": "da7fa03a1547d3606022851169b8be87e5aa27821d6230e53cf285ac1c5111a7",
+    "original_filename": "Syllabus-SET-BE05000561.pdf",
+    "storage_key": "storage/blobs/Syllabus-SET-BE05000561_da7fa03a1547d3606022851169b8be87e5aa27821d6230e53cf285ac1c5111a7.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 101492,
+    "created_at": "2026-07-05 12:07:14"
+  },
+  {
+    "id": "asset_cad79bfd",
+    "content_hash": "b0e8980a707d56b30ff3ca7c0050aff7ff1d5277f3159559f30305de63e89266",
+    "original_filename": "Syllabus-SI-BE05000011.pdf",
+    "storage_key": "storage/blobs/Syllabus-SI-BE05000011_b0e8980a707d56b30ff3ca7c0050aff7ff1d5277f3159559f30305de63e89266.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 234841,
+    "created_at": "2026-07-05 12:07:15"
+  },
+  {
+    "id": "asset_efa4cb13",
+    "content_hash": "0521df02316daa8e64f155329b33ba752573bb2285b8aa3cdc0d5e719f97c5cd",
+    "original_filename": "Syllabus-SPMSCE-BE05000571.pdf",
+    "storage_key": "storage/blobs/Syllabus-SPMSCE-BE05000571_0521df02316daa8e64f155329b33ba752573bb2285b8aa3cdc0d5e719f97c5cd.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 118059,
+    "created_at": "2026-07-05 12:07:16"
+  },
+  {
+    "id": "asset_5c5c840d",
+    "content_hash": "805e72daedf475381901e96247c2d3170a2531cc012ca5bf435d495ee636644b",
+    "original_filename": "Syllabus-TEA-BE05000531.pdf",
+    "storage_key": "storage/blobs/Syllabus-TEA-BE05000531_805e72daedf475381901e96247c2d3170a2531cc012ca5bf435d495ee636644b.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 139057,
+    "created_at": "2026-07-05 12:07:17"
+  },
+  {
+    "id": "asset_798b7c9b",
+    "content_hash": "3cf70a1a87b157cf021b95a8cc1a4b700caba55810592cba17a593af6cb23416",
+    "original_filename": "Syllabus-INT-3181901.pdf",
+    "storage_key": "storage/blobs/Syllabus-INT-3181901_3cf70a1a87b157cf021b95a8cc1a4b700caba55810592cba17a593af6cb23416.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 51049,
+    "created_at": "2026-07-05 12:12:33"
+  },
+  {
+    "id": "asset_b6c502c9",
+    "content_hash": "c1d710713e65c3b044fe780c6d657c491fe1654cb1a37b909bad08e31517af29",
+    "original_filename": "Basic_Graph_Concepts.pdf",
+    "storage_key": "storage/blobs/Basic_Graph_Concepts_c1d710713e65c3b044fe780c6d657c491fe1654cb1a37b909bad08e31517af29.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 943176,
+    "created_at": "2026-08-05 06:10:44"
+  },
+  {
+    "id": "asset_5e9802bc",
+    "content_hash": "1cf9dc60f4e77556b33d54e7c427aec3dae97ab57f1d2e2668e396487c1fc35a",
+    "original_filename": "Articulation_Point.pdf",
+    "storage_key": "storage/blobs/Articulation_Point_1cf9dc60f4e77556b33d54e7c427aec3dae97ab57f1d2e2668e396487c1fc35a.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 1062654,
+    "created_at": "2026-08-05 13:21:57"
+  },
+  {
+    "id": "asset_51797cbb",
+    "content_hash": "dda7c6cd688f79afa8c9ee8f8e09b98505a89767945da2f3aead30ba694eefe9",
+    "original_filename": "Dijkstras_Algorithm_for_Single_Source_Shortest_Path.pdf",
+    "storage_key": "storage/blobs/Dijkstras_Algorithm_for_Single_Source_Shortest_Path_dda7c6cd688f79afa8c9ee8f8e09b98505a89767945da2f3aead30ba694eefe9.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 219776,
+    "created_at": "2026-08-05 13:58:51"
+  },
+  {
+    "id": "asset_c8c1fa9b",
+    "content_hash": "9a8b25827b81d5ecca05a4c797dbad8d19a09f1d1d4a2f3a293fe7f884270b44",
+    "original_filename": "Floyd-Warshall_Algorithm_for_All_pair_Shortest_Path.pdf",
+    "storage_key": "storage/blobs/Floyd-Warshall_Algorithm_for_All_pair_Shortest_Path_9a8b25827b81d5ecca05a4c797dbad8d19a09f1d1d4a2f3a293fe7f884270b44.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 248662,
+    "created_at": "2026-08-05 14:01:12"
+  },
+  {
+    "id": "asset_690605b1",
+    "content_hash": "75975be7d562e8548aaeb6186c31452026b62cd79e4bf1be180864d3fd505b23",
+    "original_filename": "Graph_Traversal_BFS_and_DFS.pdf",
+    "storage_key": "storage/blobs/Graph_Traversal_BFS_and_DFS_75975be7d562e8548aaeb6186c31452026b62cd79e4bf1be180864d3fd505b23.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 1348346,
+    "created_at": "2026-08-05 14:02:09"
+  },
+  {
+    "id": "asset_787e4a82",
+    "content_hash": "56435832d44d3808766e8c816be258979652393150d68a94a97e34ff346e862d",
+    "original_filename": "Minimum_Spanning_Tree_-_Krushkal_And_Prims.pdf",
+    "storage_key": "storage/blobs/Minimum_Spanning_Tree_-_Krushkal_And_Prims_56435832d44d3808766e8c816be258979652393150d68a94a97e34ff346e862d.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 2349180,
+    "created_at": "2026-08-05 14:03:14"
+  },
+  {
+    "id": "asset_c2487644",
+    "content_hash": "e520cdb278bf50491d25626956491cd3e8c45127b044987e9ecef898928d5f34",
+    "original_filename": "Topological_Sorting.pdf",
+    "storage_key": "storage/blobs/Topological_Sorting_e520cdb278bf50491d25626956491cd3e8c45127b044987e9ecef898928d5f34.pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 726189,
+    "created_at": "2026-08-05 14:04:00"
+  }
+]

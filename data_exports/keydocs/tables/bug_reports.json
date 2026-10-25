@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bug_9d388157",
+    "user_email": "kishantakodajjra4@gmail.com",
+    "description": "[Category: UI] Test from phine",
+    "screenshot_url": "https://dev.padhakuportal.pages.dev/api/storage/bug-reports/bug_9d388157/screenshot_bug_9d388157.png",
+    "screenshot_storage_key": "bug-reports/bug_9d388157/screenshot_bug_9d388157.png",
+    "error_stack": null,
+    "browser_info": "Screen: 562x1074 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+    "status": "pending",
+    "created_at": "2026-08-07 11:24:55",
+    "updated_at": "2026-08-07 11:24:55"
+  },
+  {
+    "id": "bug_962932de",
+    "user_email": "contact@shikshasahayak.org",
+    "description": "[Category: BROKEN] tesi from ddesktop",
+    "screenshot_url": "https://dev.padhakuportal.pages.dev/api/storage/bug-reports/bug_962932de/screenshot_bug_962932de.png",
+    "screenshot_storage_key": "bug-reports/bug_962932de/screenshot_bug_962932de.png",
+    "error_stack": null,
+    "browser_info": "Screen: 1536x695 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "status": "pending",
+    "created_at": "2026-08-07 11:24:59",
+    "updated_at": "2026-08-07 11:24:59"
+  },
+  {
+    "id": "bug_f70b6d45",
+    "user_email": "tech@shikshasahayak.org",
+    "description": "[Category: UI] rr",
+    "screenshot_url": null,
+    "screenshot_storage_key": null,
+    "error_stack": null,
+    "browser_info": "Screen: 1536x695 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "status": "pending",
+    "created_at": "2026-08-10 04:37:11",
+    "updated_at": "2026-08-10 04:37:11"
+  },
+  {
+    "id": "bug_fc1803b0",
+    "user_email": "tech@shikshasahayak.org",
+    "description": "[Category: UI] Login not working ",
+    "screenshot_url": "https://beta.shikshasahayak.org/api/storage/bug-reports/bug_fc1803b0/screenshot_bug_fc1803b0.png",
+    "screenshot_storage_key": "bug-reports/bug_fc1803b0/screenshot_bug_fc1803b0.png",
+    "error_stack": null,
+    "browser_info": "Screen: 392x766 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+    "status": "pending",
+    "created_at": "2026-08-13 08:37:31",
+    "updated_at": "2026-08-13 08:37:31"
+  },
+  {
+    "id": "bug_206c6d7b",
+    "user_email": "tech@shikshasahayak.org",
+    "description": "[Category: UI] there is no back button and page is also not going back to student portal. lots of dummy data is showing",
+    "screenshot_url": "https://beta.shikshasahayak.org/api/storage/bug-reports/bug_206c6d7b/screenshot_bug_206c6d7b.png",
+    "screenshot_storage_key": "bug-reports/bug_206c6d7b/screenshot_bug_206c6d7b.png",
+    "error_stack": null,
+    "browser_info": "Screen: 1536x695 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "status": "pending",
+    "created_at": "2026-08-17 20:44:54",
+    "updated_at": "2026-08-17 20:44:54"
+  }
+]

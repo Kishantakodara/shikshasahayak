@@ -1,0 +1,32 @@
+[
+  {
+    "document_id": "doc_data_structures_summer_2026_5eeca103",
+    "paper_year": 2026,
+    "season": "S",
+    "exam_label": "GTU Summer 2026 Exam"
+  },
+  {
+    "document_id": "doc_pyq_math2_s25",
+    "paper_year": 2025,
+    "season": "S",
+    "exam_label": "GTU Summer 2025 Exam"
+  },
+  {
+    "document_id": "doc_pyq_fai_w25",
+    "paper_year": 2025,
+    "season": "W",
+    "exam_label": "GTU Winter 2025 Exam"
+  },
+  {
+    "document_id": "doc_pyq_cn_s25",
+    "paper_year": 2025,
+    "season": "S",
+    "exam_label": "GTU Summer 2025 Exam"
+  },
+  {
+    "document_id": "doc_pyq_math1_w25",
+    "paper_year": 2025,
+    "season": "W",
+    "exam_label": "GTU Winter 2025 Exam"
+  }
+]

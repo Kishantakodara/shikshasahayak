@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ay_2026_27",
+    "year": "2026-27",
+    "start_date": "2026-06-01",
+    "end_date": "2027-05-31",
+    "status": "Active",
+    "description": "Current Academic Calendar Year 2026-2027",
+    "created_at": "2026-08-18 16:35:22",
+    "updated_at": "2026-08-18 16:35:22"
+  },
+  {
+    "id": "ay_2025_26",
+    "year": "2025-26",
+    "start_date": "2025-06-01",
+    "end_date": "2026-05-31",
+    "status": "Upcoming",
+    "description": "Academic Calendar Year 2025-2026",
+    "created_at": "2026-08-18 16:35:22",
+    "updated_at": "2026-08-18 16:35:22"
+  }
+]

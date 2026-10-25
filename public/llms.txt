@@ -1,0 +1,18 @@
+# PadhakuPortal - GTU Engineering Study Hub
+
+> PadhakuPortal helps GTU (Gujarat Technological University) engineering students find previous year question papers (PYQs), study notes, syllabus guidelines, and practical exam preparation strategies.
+
+## Core Resources
+
+- [Syllabus](https://padhakuportal.in/resources/syllabus): Official and curated syllabus documents organized by department and semester.
+- [Previous Year Question Papers (PYQs)](https://padhakuportal.in/resources/pyq): Browse and download engineering past university exam papers by branch, semester, subject, and exam season.
+- [Study Material](https://padhakuportal.in/resources/study-material): Comprehensive peer-contributed and faculty-verified engineering study materials, unit notes, and formula sheets.
+- [Engineering Study Guides](https://padhakuportal.in/guides): Practical guides covering DSA, mathematics, lab preparation, and exam planning.
+- [Exam Tips](https://padhakuportal.in/exam-tips): Evidence-aware exam preparation tips covering active recall, spaced repetition, and answer writing.
+
+## Dynamic Portals
+
+- [AI Tutor](https://padhakuportal.in/ai-tutor): Ask academic questions, revise concepts, and get homework/study support with our engineering-tuned AI assistant.
+- [Contribute](https://padhakuportal.in/contribute): Share notes, syllabus, or previous year question papers to help the community.
+- [Notice Board / Announcements](https://padhakuportal.in/announcements): Academic announcements, notice boards, exam schedules, and portal updates.
+- [HTML Sitemap](https://padhakuportal.in/sitemap): Direct index of all key pages, resource branches, and legal documents.

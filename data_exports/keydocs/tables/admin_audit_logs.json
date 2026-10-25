@@ -1,0 +1,24 @@
+[
+  {
+    "id": "log_1787801292692_eaoyr",
+    "admin_id": "0tpV07mBfhMdbaqoPSIVKVEZNNt2",
+    "action": "USER_BETA_UPDATE",
+    "resource_type": "user_beta_access",
+    "resource_id": "aditya2005anand@gmail.com",
+    "details": null,
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-08-27 03:28:12",
+    "details_json": "{\"userId\":\"aditya2005anand@gmail.com\",\"isBetaTester\":true,\"customFlags\":{\"ai_copilot\":true,\"quiz_2_0\":true,\"code_playground\":true,\"career_ats\":true},\"notes\":\"\"}"
+  },
+  {
+    "id": "log_1787824813352_ivj8w",
+    "admin_id": "0tpV07mBfhMdbaqoPSIVKVEZNNt2",
+    "action": "TEACHER_WHITELIST_ADD",
+    "resource_type": "teacher_whitelist",
+    "resource_id": "mkbhatt@elec.ssgec.ac.in",
+    "details": null,
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-08-27 10:00:13",
+    "details_json": "{\"email\":\"mkbhatt@elec.ssgec.ac.in\",\"name\":\"Prof. M. K. Bhatt\",\"department\":\"Electrical Engineering\",\"college\":\"Shantilal Shah Engineering College, Bhavnagar\",\"status\":\"approved\",\"actorEmail\":\"tech@shikshasahayak.org\"}"
+  }
+]

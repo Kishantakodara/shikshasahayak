@@ -1,0 +1,79 @@
+[
+  {
+    "id": "branch_computer",
+    "university_id": "univ_default",
+    "name": "Computer Engineering",
+    "slug": "computer",
+    "short_name": "CSE",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 7,
+    "is_active": 1
+  },
+  {
+    "id": "branch_it",
+    "university_id": "univ_default",
+    "name": "Information Technology",
+    "slug": "it",
+    "short_name": "IT",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 16,
+    "is_active": 1
+  },
+  {
+    "id": "branch_electrical",
+    "university_id": "univ_default",
+    "name": "Electrical Engineering",
+    "slug": "electrical",
+    "short_name": "EE",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 9,
+    "is_active": 1
+  },
+  {
+    "id": "branch_ece",
+    "university_id": "univ_default",
+    "name": "Electronics and Communication",
+    "slug": "ece",
+    "short_name": "ECE",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 11,
+    "is_active": 1
+  },
+  {
+    "id": "branch_mechanical",
+    "university_id": "univ_default",
+    "name": "Mechanical Engineering",
+    "slug": "mechanical",
+    "short_name": "ME",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 19,
+    "is_active": 1
+  },
+  {
+    "id": "branch_civil",
+    "university_id": "univ_default",
+    "name": "Civil Engineering",
+    "slug": "civil",
+    "short_name": "CE",
+    "created_at": "2026-06-07 17:41:59",
+    "updated_at": "2026-06-07 17:41:59",
+    "Code": 6,
+    "is_active": 1
+  },
+  {
+    "id": "branch_chemical",
+    "university_id": "univ_default",
+    "name": "Chemical Engineering",
+    "slug": "chemical",
+    "short_name": "CH",
+    "created_at": "2026-08-06 12:57:09",
+    "updated_at": "2026-08-06 12:57:09",
+    "Code": 5,
+    "is_active": 1
+  }
+]

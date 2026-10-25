@@ -1,0 +1,38 @@
+[
+  {
+    "id": "qpe_7e5a420e-f",
+    "job_id": "JOB_20260826201839_d048",
+    "item_id": null,
+    "stage_name": "DISCOVERY",
+    "error_category": "NETWORK",
+    "error_message": "checkpointJobItem is not defined",
+    "stack_trace": null,
+    "retry_count": 0,
+    "is_resolved": 0,
+    "created_at": "2026-08-26 20:18:39"
+  },
+  {
+    "id": "qpe_2847bb8f-b",
+    "job_id": "JOB_20260826201844_b1f0",
+    "item_id": null,
+    "stage_name": "DISCOVERY",
+    "error_category": "NETWORK",
+    "error_message": "checkpointJobItem is not defined",
+    "stack_trace": null,
+    "retry_count": 0,
+    "is_resolved": 0,
+    "created_at": "2026-08-26 20:18:45"
+  },
+  {
+    "id": "qpe_e97cf611-e",
+    "job_id": "JOB_20260826201845_c0cb",
+    "item_id": null,
+    "stage_name": "DISCOVERY",
+    "error_category": "NETWORK",
+    "error_message": "checkpointJobItem is not defined",
+    "stack_trace": null,
+    "retry_count": 0,
+    "is_resolved": 0,
+    "created_at": "2026-08-26 20:18:46"
+  }
+]

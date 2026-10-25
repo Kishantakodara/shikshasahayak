@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-09-11T03:41:42.806Z",
+  "generatorVersion": "universal-pyq-v2.0",
+  "summary": {
+    "totalSubjectsCovered": 307,
+    "totalCanonicalSubjects": 307,
+    "totalSubjectMappings": 577,
+    "totalGtuQuestionPapers": 2640,
+    "totalRegistryEntries": 2640,
+    "totalCatalogDocuments": 7028,
+    "totalDocumentFiles": 7028
+  },
+  "files": {
+    "schemaFile": "data/pyq_universal_push/01_pyq_schema.sql",
+    "masterDataFile": "data/pyq_universal_push/02_pyq_data.sql",
+    "chunks": [
+      "data/pyq_universal_push/chunks/part_01_canonical_metadata.sql",
+      "data/pyq_universal_push/chunks/part_02_gtu_question_papers.sql",
+      "data/pyq_universal_push/chunks/part_03_documents_first_year.sql",
+      "data/pyq_universal_push/chunks/part_04_documents_second_year.sql",
+      "data/pyq_universal_push/chunks/part_05_documents_upper_years.sql"
+    ]
+  },
+  "branchDistribution": {
+    "branch_electrical": 1138,
+    "branch_civil": 1130,
+    "branch_computer": 1216,
+    "branch_ece": 1151,
+    "branch_it": 1290,
+    "branch_mechanical": 1103
+  },
+  "sessionDistribution": {
+    "W2025": 519,
+    "S2025": 497,
+    "W2024": 462,
+    "S2024": 462,
+    "W2023": 462,
+    "S2023": 462,
+    "W2022": 462,
+    "S2022": 462,
+    "W2021": 462,
+    "S2021": 462,
+    "W2020": 462,
+    "S2020": 462,
+    "W2019": 465,
+    "S2019": 465,
+    "W2018": 462
+  },
+  "semesterDistribution": {
+    "0": 3336,
+    "1": 360,
+    "2": 912,
+    "3": 615,
+    "4": 523,
+    "5": 1267,
+    "8": 15
+  },
+  "sampleUniversalUrls": [
+    "https://gtu.ac.in/uploads/W2024/BE/3110014.pdf",
+    "https://gtu.ac.in/uploads/S2024/BE/3110014.pdf",
+    "https://gtu.ac.in/uploads/W2023/BE/3130702.pdf",
+    "https://gtu.ac.in/uploads/W2024/BE/3110003.pdf",
+    "https://gtu.ac.in/uploads/W2025/BE/BE01R00041.pdf"
+  ]
+}

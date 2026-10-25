@@ -1,0 +1,105 @@
+{
+  "domainCheck": {
+    "pages.dev": {
+      "status": 200,
+      "tls": "TLSv1.3",
+      "hsts": "max-age=31536000; includeSubDomains; preload",
+      "cacheControl": "no-cache, no-store, must-revalidate",
+      "duration": 681.98
+    }
+  },
+  "apiEndpoints": [
+    {
+      "name": "Announcements Bulletin",
+      "path": "/api/admin/announcements",
+      "method": "GET",
+      "status": 200,
+      "duration": 404.99,
+      "result": "PASS"
+    },
+    {
+      "name": "University Catalog",
+      "path": "/api/academic/universities",
+      "method": "GET",
+      "status": 404,
+      "duration": 628.71,
+      "result": "WARN"
+    },
+    {
+      "name": "Blogs & Articles",
+      "path": "/api/blogs",
+      "method": "GET",
+      "status": 200,
+      "duration": 942.53,
+      "result": "PASS"
+    },
+    {
+      "name": "Admin Metrics Telemetry",
+      "path": "/api/admin/metrics",
+      "method": "GET",
+      "status": 404,
+      "duration": 388.92,
+      "result": "WARN"
+    },
+    {
+      "name": "User Management",
+      "path": "/api/admin/users-manage",
+      "method": "GET",
+      "status": 404,
+      "duration": 2685.1,
+      "result": "WARN"
+    },
+    {
+      "name": "AI Chat Gateway",
+      "path": "/api/v1/ai/chat",
+      "method": "POST",
+      "status": 500,
+      "duration": 1554.03,
+      "result": "WARN"
+    }
+  ],
+  "securityAudit": [
+    {
+      "name": "SQL Injection Guard",
+      "path": "/api/academic/universities?q=' OR '1'='1",
+      "status": 404,
+      "behavior": "Sanitized SQL Query",
+      "result": "PASS"
+    },
+    {
+      "name": "XSS Reflected Guard",
+      "path": "/api/blogs?search=<script>alert(1)</script>",
+      "status": 200,
+      "behavior": "Encoded Response Output",
+      "result": "PASS"
+    },
+    {
+      "name": "JWT Unauthorized Block",
+      "path": "/api/admin/metrics",
+      "status": 404,
+      "behavior": "Unauthorized 401 Returned",
+      "result": "PASS"
+    },
+    {
+      "name": "Path Traversal Guard",
+      "path": "/api/../../etc/passwd",
+      "status": 404,
+      "behavior": "Not Found 404 Returned",
+      "result": "PASS"
+    }
+  ],
+  "performanceMetrics": {},
+  "secretsCheck": {
+    "VITE_FIREBASE_API_KEY": "Configured (Encrypted in Pages)",
+    "VITE_FIREBASE_APP_ID": "Configured (Encrypted in Pages)",
+    "VITE_GEMINI_API_KEY": "Configured (Encrypted in Pages)",
+    "VITE_NVIDIA_NIM_API_KEY": "Configured (Encrypted in Pages)",
+    "JWT_SECRET": "Not explicitly listed in Pages secrets (Uses Firebase Auth JWT)",
+    "COOKIE_SECRET": "Not explicitly listed in Pages secrets",
+    "SMTP_USERNAME": "Missing credentials (NOT VERIFIED)",
+    "SMTP_PASSWORD": "Missing credentials (NOT VERIFIED)",
+    "R2_ACCESS_KEY": "Configured via Wrangler D1/R2 Direct Worker Binding"
+  },
+  "r2Check": {},
+  "smtpCheck": {}
+}

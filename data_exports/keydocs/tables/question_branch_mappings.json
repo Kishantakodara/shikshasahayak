@@ -1,0 +1,5686 @@
+[
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_001_branch_00",
+    "question_id": "Q_GTU_3110014_2024_W_001",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_001_branch_06",
+    "question_id": "Q_GTU_3110014_2024_W_001",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_001_branch_07",
+    "question_id": "Q_GTU_3110014_2024_W_001",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_001_branch_09",
+    "question_id": "Q_GTU_3110014_2024_W_001",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_001_branch_11",
+    "question_id": "Q_GTU_3110014_2024_W_001",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_002_branch_00",
+    "question_id": "Q_GTU_3110014_2023_S_002",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_002_branch_06",
+    "question_id": "Q_GTU_3110014_2023_S_002",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_002_branch_07",
+    "question_id": "Q_GTU_3110014_2023_S_002",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_002_branch_09",
+    "question_id": "Q_GTU_3110014_2023_S_002",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_002_branch_11",
+    "question_id": "Q_GTU_3110014_2023_S_002",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_003_branch_00",
+    "question_id": "Q_GTU_3110014_2022_W_003",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_003_branch_06",
+    "question_id": "Q_GTU_3110014_2022_W_003",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_003_branch_07",
+    "question_id": "Q_GTU_3110014_2022_W_003",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_003_branch_09",
+    "question_id": "Q_GTU_3110014_2022_W_003",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_003_branch_11",
+    "question_id": "Q_GTU_3110014_2022_W_003",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_004_branch_00",
+    "question_id": "Q_GTU_3110014_2024_S_004",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_004_branch_06",
+    "question_id": "Q_GTU_3110014_2024_S_004",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_004_branch_07",
+    "question_id": "Q_GTU_3110014_2024_S_004",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_004_branch_09",
+    "question_id": "Q_GTU_3110014_2024_S_004",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_004_branch_11",
+    "question_id": "Q_GTU_3110014_2024_S_004",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_005_branch_00",
+    "question_id": "Q_GTU_3110014_2024_W_005",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_005_branch_06",
+    "question_id": "Q_GTU_3110014_2024_W_005",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_005_branch_07",
+    "question_id": "Q_GTU_3110014_2024_W_005",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_005_branch_09",
+    "question_id": "Q_GTU_3110014_2024_W_005",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_005_branch_11",
+    "question_id": "Q_GTU_3110014_2024_W_005",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_006_branch_00",
+    "question_id": "Q_GTU_3110014_2023_S_006",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_006_branch_06",
+    "question_id": "Q_GTU_3110014_2023_S_006",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_006_branch_07",
+    "question_id": "Q_GTU_3110014_2023_S_006",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_006_branch_09",
+    "question_id": "Q_GTU_3110014_2023_S_006",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_006_branch_11",
+    "question_id": "Q_GTU_3110014_2023_S_006",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_007_branch_00",
+    "question_id": "Q_GTU_3110014_2022_W_007",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_007_branch_06",
+    "question_id": "Q_GTU_3110014_2022_W_007",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_007_branch_07",
+    "question_id": "Q_GTU_3110014_2022_W_007",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_007_branch_09",
+    "question_id": "Q_GTU_3110014_2022_W_007",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_007_branch_11",
+    "question_id": "Q_GTU_3110014_2022_W_007",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_008_branch_00",
+    "question_id": "Q_GTU_3110014_2024_S_008",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_008_branch_06",
+    "question_id": "Q_GTU_3110014_2024_S_008",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_008_branch_07",
+    "question_id": "Q_GTU_3110014_2024_S_008",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_008_branch_09",
+    "question_id": "Q_GTU_3110014_2024_S_008",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_008_branch_11",
+    "question_id": "Q_GTU_3110014_2024_S_008",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_009_branch_00",
+    "question_id": "Q_GTU_3110014_2024_W_009",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_009_branch_06",
+    "question_id": "Q_GTU_3110014_2024_W_009",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_009_branch_07",
+    "question_id": "Q_GTU_3110014_2024_W_009",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_009_branch_09",
+    "question_id": "Q_GTU_3110014_2024_W_009",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_009_branch_11",
+    "question_id": "Q_GTU_3110014_2024_W_009",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_010_branch_00",
+    "question_id": "Q_GTU_3110014_2023_S_010",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_010_branch_06",
+    "question_id": "Q_GTU_3110014_2023_S_010",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_010_branch_07",
+    "question_id": "Q_GTU_3110014_2023_S_010",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_010_branch_09",
+    "question_id": "Q_GTU_3110014_2023_S_010",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_010_branch_11",
+    "question_id": "Q_GTU_3110014_2023_S_010",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_011_branch_00",
+    "question_id": "Q_GTU_3110014_2022_W_011",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_011_branch_06",
+    "question_id": "Q_GTU_3110014_2022_W_011",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_011_branch_07",
+    "question_id": "Q_GTU_3110014_2022_W_011",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_011_branch_09",
+    "question_id": "Q_GTU_3110014_2022_W_011",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_011_branch_11",
+    "question_id": "Q_GTU_3110014_2022_W_011",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_012_branch_00",
+    "question_id": "Q_GTU_3110014_2024_S_012",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_012_branch_06",
+    "question_id": "Q_GTU_3110014_2024_S_012",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_012_branch_07",
+    "question_id": "Q_GTU_3110014_2024_S_012",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_012_branch_09",
+    "question_id": "Q_GTU_3110014_2024_S_012",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_012_branch_11",
+    "question_id": "Q_GTU_3110014_2024_S_012",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_013_branch_00",
+    "question_id": "Q_GTU_3110014_2024_W_013",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_013_branch_06",
+    "question_id": "Q_GTU_3110014_2024_W_013",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_013_branch_07",
+    "question_id": "Q_GTU_3110014_2024_W_013",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_013_branch_09",
+    "question_id": "Q_GTU_3110014_2024_W_013",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_013_branch_11",
+    "question_id": "Q_GTU_3110014_2024_W_013",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_014_branch_00",
+    "question_id": "Q_GTU_3110014_2023_S_014",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_014_branch_06",
+    "question_id": "Q_GTU_3110014_2023_S_014",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_014_branch_07",
+    "question_id": "Q_GTU_3110014_2023_S_014",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_014_branch_09",
+    "question_id": "Q_GTU_3110014_2023_S_014",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_014_branch_11",
+    "question_id": "Q_GTU_3110014_2023_S_014",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_015_branch_00",
+    "question_id": "Q_GTU_3110014_2022_W_015",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_015_branch_06",
+    "question_id": "Q_GTU_3110014_2022_W_015",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_015_branch_07",
+    "question_id": "Q_GTU_3110014_2022_W_015",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_015_branch_09",
+    "question_id": "Q_GTU_3110014_2022_W_015",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_015_branch_11",
+    "question_id": "Q_GTU_3110014_2022_W_015",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_016_branch_00",
+    "question_id": "Q_GTU_3110014_2024_S_016",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_016_branch_06",
+    "question_id": "Q_GTU_3110014_2024_S_016",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_016_branch_07",
+    "question_id": "Q_GTU_3110014_2024_S_016",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_016_branch_09",
+    "question_id": "Q_GTU_3110014_2024_S_016",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_016_branch_11",
+    "question_id": "Q_GTU_3110014_2024_S_016",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_017_branch_00",
+    "question_id": "Q_GTU_3110014_2024_W_017",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_017_branch_06",
+    "question_id": "Q_GTU_3110014_2024_W_017",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_017_branch_07",
+    "question_id": "Q_GTU_3110014_2024_W_017",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_017_branch_09",
+    "question_id": "Q_GTU_3110014_2024_W_017",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_W_017_branch_11",
+    "question_id": "Q_GTU_3110014_2024_W_017",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_018_branch_00",
+    "question_id": "Q_GTU_3110014_2023_S_018",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_018_branch_06",
+    "question_id": "Q_GTU_3110014_2023_S_018",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_018_branch_07",
+    "question_id": "Q_GTU_3110014_2023_S_018",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_018_branch_09",
+    "question_id": "Q_GTU_3110014_2023_S_018",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2023_S_018_branch_11",
+    "question_id": "Q_GTU_3110014_2023_S_018",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_019_branch_00",
+    "question_id": "Q_GTU_3110014_2022_W_019",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_019_branch_06",
+    "question_id": "Q_GTU_3110014_2022_W_019",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_019_branch_07",
+    "question_id": "Q_GTU_3110014_2022_W_019",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_019_branch_09",
+    "question_id": "Q_GTU_3110014_2022_W_019",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2022_W_019_branch_11",
+    "question_id": "Q_GTU_3110014_2022_W_019",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_020_branch_00",
+    "question_id": "Q_GTU_3110014_2024_S_020",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_020_branch_06",
+    "question_id": "Q_GTU_3110014_2024_S_020",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_020_branch_07",
+    "question_id": "Q_GTU_3110014_2024_S_020",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_020_branch_09",
+    "question_id": "Q_GTU_3110014_2024_S_020",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110014_2024_S_020_branch_11",
+    "question_id": "Q_GTU_3110014_2024_S_020",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_021_branch_00",
+    "question_id": "Q_GTU_3110015_2024_W_021",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_021_branch_06",
+    "question_id": "Q_GTU_3110015_2024_W_021",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_021_branch_07",
+    "question_id": "Q_GTU_3110015_2024_W_021",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_021_branch_09",
+    "question_id": "Q_GTU_3110015_2024_W_021",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_021_branch_11",
+    "question_id": "Q_GTU_3110015_2024_W_021",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_022_branch_00",
+    "question_id": "Q_GTU_3110015_2023_S_022",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_022_branch_06",
+    "question_id": "Q_GTU_3110015_2023_S_022",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_022_branch_07",
+    "question_id": "Q_GTU_3110015_2023_S_022",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_022_branch_09",
+    "question_id": "Q_GTU_3110015_2023_S_022",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_022_branch_11",
+    "question_id": "Q_GTU_3110015_2023_S_022",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_023_branch_00",
+    "question_id": "Q_GTU_3110015_2022_W_023",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_023_branch_06",
+    "question_id": "Q_GTU_3110015_2022_W_023",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_023_branch_07",
+    "question_id": "Q_GTU_3110015_2022_W_023",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_023_branch_09",
+    "question_id": "Q_GTU_3110015_2022_W_023",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_023_branch_11",
+    "question_id": "Q_GTU_3110015_2022_W_023",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_024_branch_00",
+    "question_id": "Q_GTU_3110015_2024_S_024",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_024_branch_06",
+    "question_id": "Q_GTU_3110015_2024_S_024",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_024_branch_07",
+    "question_id": "Q_GTU_3110015_2024_S_024",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_024_branch_09",
+    "question_id": "Q_GTU_3110015_2024_S_024",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_024_branch_11",
+    "question_id": "Q_GTU_3110015_2024_S_024",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_025_branch_00",
+    "question_id": "Q_GTU_3110015_2024_W_025",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_025_branch_06",
+    "question_id": "Q_GTU_3110015_2024_W_025",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_025_branch_07",
+    "question_id": "Q_GTU_3110015_2024_W_025",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_025_branch_09",
+    "question_id": "Q_GTU_3110015_2024_W_025",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_025_branch_11",
+    "question_id": "Q_GTU_3110015_2024_W_025",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_026_branch_00",
+    "question_id": "Q_GTU_3110015_2023_S_026",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_026_branch_06",
+    "question_id": "Q_GTU_3110015_2023_S_026",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_026_branch_07",
+    "question_id": "Q_GTU_3110015_2023_S_026",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_026_branch_09",
+    "question_id": "Q_GTU_3110015_2023_S_026",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_026_branch_11",
+    "question_id": "Q_GTU_3110015_2023_S_026",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_027_branch_00",
+    "question_id": "Q_GTU_3110015_2022_W_027",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_027_branch_06",
+    "question_id": "Q_GTU_3110015_2022_W_027",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_027_branch_07",
+    "question_id": "Q_GTU_3110015_2022_W_027",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_027_branch_09",
+    "question_id": "Q_GTU_3110015_2022_W_027",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_027_branch_11",
+    "question_id": "Q_GTU_3110015_2022_W_027",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_028_branch_00",
+    "question_id": "Q_GTU_3110015_2024_S_028",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_028_branch_06",
+    "question_id": "Q_GTU_3110015_2024_S_028",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_028_branch_07",
+    "question_id": "Q_GTU_3110015_2024_S_028",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_028_branch_09",
+    "question_id": "Q_GTU_3110015_2024_S_028",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_028_branch_11",
+    "question_id": "Q_GTU_3110015_2024_S_028",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_029_branch_00",
+    "question_id": "Q_GTU_3110015_2024_W_029",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_029_branch_06",
+    "question_id": "Q_GTU_3110015_2024_W_029",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_029_branch_07",
+    "question_id": "Q_GTU_3110015_2024_W_029",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_029_branch_09",
+    "question_id": "Q_GTU_3110015_2024_W_029",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_029_branch_11",
+    "question_id": "Q_GTU_3110015_2024_W_029",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_030_branch_00",
+    "question_id": "Q_GTU_3110015_2023_S_030",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_030_branch_06",
+    "question_id": "Q_GTU_3110015_2023_S_030",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_030_branch_07",
+    "question_id": "Q_GTU_3110015_2023_S_030",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_030_branch_09",
+    "question_id": "Q_GTU_3110015_2023_S_030",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_030_branch_11",
+    "question_id": "Q_GTU_3110015_2023_S_030",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_031_branch_00",
+    "question_id": "Q_GTU_3110015_2022_W_031",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_031_branch_06",
+    "question_id": "Q_GTU_3110015_2022_W_031",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_031_branch_07",
+    "question_id": "Q_GTU_3110015_2022_W_031",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_031_branch_09",
+    "question_id": "Q_GTU_3110015_2022_W_031",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_031_branch_11",
+    "question_id": "Q_GTU_3110015_2022_W_031",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_032_branch_00",
+    "question_id": "Q_GTU_3110015_2024_S_032",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_032_branch_06",
+    "question_id": "Q_GTU_3110015_2024_S_032",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_032_branch_07",
+    "question_id": "Q_GTU_3110015_2024_S_032",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_032_branch_09",
+    "question_id": "Q_GTU_3110015_2024_S_032",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_032_branch_11",
+    "question_id": "Q_GTU_3110015_2024_S_032",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_033_branch_00",
+    "question_id": "Q_GTU_3110015_2024_W_033",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_033_branch_06",
+    "question_id": "Q_GTU_3110015_2024_W_033",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_033_branch_07",
+    "question_id": "Q_GTU_3110015_2024_W_033",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_033_branch_09",
+    "question_id": "Q_GTU_3110015_2024_W_033",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_033_branch_11",
+    "question_id": "Q_GTU_3110015_2024_W_033",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_034_branch_00",
+    "question_id": "Q_GTU_3110015_2023_S_034",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_034_branch_06",
+    "question_id": "Q_GTU_3110015_2023_S_034",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_034_branch_07",
+    "question_id": "Q_GTU_3110015_2023_S_034",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_034_branch_09",
+    "question_id": "Q_GTU_3110015_2023_S_034",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_034_branch_11",
+    "question_id": "Q_GTU_3110015_2023_S_034",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_035_branch_00",
+    "question_id": "Q_GTU_3110015_2022_W_035",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_035_branch_06",
+    "question_id": "Q_GTU_3110015_2022_W_035",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_035_branch_07",
+    "question_id": "Q_GTU_3110015_2022_W_035",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_035_branch_09",
+    "question_id": "Q_GTU_3110015_2022_W_035",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_035_branch_11",
+    "question_id": "Q_GTU_3110015_2022_W_035",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_036_branch_00",
+    "question_id": "Q_GTU_3110015_2024_S_036",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_036_branch_06",
+    "question_id": "Q_GTU_3110015_2024_S_036",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_036_branch_07",
+    "question_id": "Q_GTU_3110015_2024_S_036",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_036_branch_09",
+    "question_id": "Q_GTU_3110015_2024_S_036",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_036_branch_11",
+    "question_id": "Q_GTU_3110015_2024_S_036",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_037_branch_00",
+    "question_id": "Q_GTU_3110015_2024_W_037",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_037_branch_06",
+    "question_id": "Q_GTU_3110015_2024_W_037",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_037_branch_07",
+    "question_id": "Q_GTU_3110015_2024_W_037",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_037_branch_09",
+    "question_id": "Q_GTU_3110015_2024_W_037",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_W_037_branch_11",
+    "question_id": "Q_GTU_3110015_2024_W_037",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_038_branch_00",
+    "question_id": "Q_GTU_3110015_2023_S_038",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_038_branch_06",
+    "question_id": "Q_GTU_3110015_2023_S_038",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_038_branch_07",
+    "question_id": "Q_GTU_3110015_2023_S_038",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_038_branch_09",
+    "question_id": "Q_GTU_3110015_2023_S_038",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2023_S_038_branch_11",
+    "question_id": "Q_GTU_3110015_2023_S_038",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_039_branch_00",
+    "question_id": "Q_GTU_3110015_2022_W_039",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_039_branch_06",
+    "question_id": "Q_GTU_3110015_2022_W_039",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_039_branch_07",
+    "question_id": "Q_GTU_3110015_2022_W_039",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_039_branch_09",
+    "question_id": "Q_GTU_3110015_2022_W_039",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2022_W_039_branch_11",
+    "question_id": "Q_GTU_3110015_2022_W_039",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_040_branch_00",
+    "question_id": "Q_GTU_3110015_2024_S_040",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_040_branch_06",
+    "question_id": "Q_GTU_3110015_2024_S_040",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_040_branch_07",
+    "question_id": "Q_GTU_3110015_2024_S_040",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_040_branch_09",
+    "question_id": "Q_GTU_3110015_2024_S_040",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110015_2024_S_040_branch_11",
+    "question_id": "Q_GTU_3110015_2024_S_040",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_041_branch_00",
+    "question_id": "Q_GTU_3150710_2024_W_041",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_041_branch_07",
+    "question_id": "Q_GTU_3150710_2024_W_041",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_041_branch_16",
+    "question_id": "Q_GTU_3150710_2024_W_041",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_042_branch_00",
+    "question_id": "Q_GTU_3150710_2023_S_042",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_042_branch_07",
+    "question_id": "Q_GTU_3150710_2023_S_042",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_042_branch_16",
+    "question_id": "Q_GTU_3150710_2023_S_042",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_043_branch_00",
+    "question_id": "Q_GTU_3150710_2022_W_043",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_043_branch_07",
+    "question_id": "Q_GTU_3150710_2022_W_043",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_043_branch_16",
+    "question_id": "Q_GTU_3150710_2022_W_043",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_044_branch_00",
+    "question_id": "Q_GTU_3150710_2024_S_044",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_044_branch_07",
+    "question_id": "Q_GTU_3150710_2024_S_044",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_044_branch_16",
+    "question_id": "Q_GTU_3150710_2024_S_044",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_045_branch_00",
+    "question_id": "Q_GTU_3150710_2024_W_045",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_045_branch_07",
+    "question_id": "Q_GTU_3150710_2024_W_045",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_045_branch_16",
+    "question_id": "Q_GTU_3150710_2024_W_045",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_046_branch_00",
+    "question_id": "Q_GTU_3150710_2023_S_046",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_046_branch_07",
+    "question_id": "Q_GTU_3150710_2023_S_046",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_046_branch_16",
+    "question_id": "Q_GTU_3150710_2023_S_046",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_047_branch_00",
+    "question_id": "Q_GTU_3150710_2022_W_047",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_047_branch_07",
+    "question_id": "Q_GTU_3150710_2022_W_047",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_047_branch_16",
+    "question_id": "Q_GTU_3150710_2022_W_047",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_048_branch_00",
+    "question_id": "Q_GTU_3150710_2024_S_048",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_048_branch_07",
+    "question_id": "Q_GTU_3150710_2024_S_048",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_048_branch_16",
+    "question_id": "Q_GTU_3150710_2024_S_048",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_049_branch_00",
+    "question_id": "Q_GTU_3150710_2024_W_049",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_049_branch_07",
+    "question_id": "Q_GTU_3150710_2024_W_049",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_049_branch_16",
+    "question_id": "Q_GTU_3150710_2024_W_049",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_050_branch_00",
+    "question_id": "Q_GTU_3150710_2023_S_050",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_050_branch_07",
+    "question_id": "Q_GTU_3150710_2023_S_050",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_050_branch_16",
+    "question_id": "Q_GTU_3150710_2023_S_050",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_051_branch_00",
+    "question_id": "Q_GTU_3150710_2022_W_051",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_051_branch_07",
+    "question_id": "Q_GTU_3150710_2022_W_051",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_051_branch_16",
+    "question_id": "Q_GTU_3150710_2022_W_051",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_052_branch_00",
+    "question_id": "Q_GTU_3150710_2024_S_052",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_052_branch_07",
+    "question_id": "Q_GTU_3150710_2024_S_052",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_052_branch_16",
+    "question_id": "Q_GTU_3150710_2024_S_052",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_053_branch_00",
+    "question_id": "Q_GTU_3150710_2024_W_053",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_053_branch_07",
+    "question_id": "Q_GTU_3150710_2024_W_053",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_053_branch_16",
+    "question_id": "Q_GTU_3150710_2024_W_053",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_054_branch_00",
+    "question_id": "Q_GTU_3150710_2023_S_054",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_054_branch_07",
+    "question_id": "Q_GTU_3150710_2023_S_054",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_054_branch_16",
+    "question_id": "Q_GTU_3150710_2023_S_054",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_055_branch_00",
+    "question_id": "Q_GTU_3150710_2022_W_055",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_055_branch_07",
+    "question_id": "Q_GTU_3150710_2022_W_055",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_055_branch_16",
+    "question_id": "Q_GTU_3150710_2022_W_055",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_056_branch_00",
+    "question_id": "Q_GTU_3150710_2024_S_056",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_056_branch_07",
+    "question_id": "Q_GTU_3150710_2024_S_056",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_056_branch_16",
+    "question_id": "Q_GTU_3150710_2024_S_056",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_057_branch_00",
+    "question_id": "Q_GTU_3150710_2024_W_057",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_057_branch_07",
+    "question_id": "Q_GTU_3150710_2024_W_057",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_W_057_branch_16",
+    "question_id": "Q_GTU_3150710_2024_W_057",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_058_branch_00",
+    "question_id": "Q_GTU_3150710_2023_S_058",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_058_branch_07",
+    "question_id": "Q_GTU_3150710_2023_S_058",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2023_S_058_branch_16",
+    "question_id": "Q_GTU_3150710_2023_S_058",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_059_branch_00",
+    "question_id": "Q_GTU_3150710_2022_W_059",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_059_branch_07",
+    "question_id": "Q_GTU_3150710_2022_W_059",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2022_W_059_branch_16",
+    "question_id": "Q_GTU_3150710_2022_W_059",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_060_branch_00",
+    "question_id": "Q_GTU_3150710_2024_S_060",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_060_branch_07",
+    "question_id": "Q_GTU_3150710_2024_S_060",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150710_2024_S_060_branch_16",
+    "question_id": "Q_GTU_3150710_2024_S_060",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_061_branch_00",
+    "question_id": "Q_GTU_3150702_2024_W_061",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_061_branch_07",
+    "question_id": "Q_GTU_3150702_2024_W_061",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_061_branch_16",
+    "question_id": "Q_GTU_3150702_2024_W_061",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_062_branch_00",
+    "question_id": "Q_GTU_3150702_2023_S_062",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_062_branch_07",
+    "question_id": "Q_GTU_3150702_2023_S_062",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_062_branch_16",
+    "question_id": "Q_GTU_3150702_2023_S_062",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_063_branch_00",
+    "question_id": "Q_GTU_3150702_2022_W_063",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_063_branch_07",
+    "question_id": "Q_GTU_3150702_2022_W_063",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_063_branch_16",
+    "question_id": "Q_GTU_3150702_2022_W_063",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_064_branch_00",
+    "question_id": "Q_GTU_3150702_2024_S_064",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_064_branch_07",
+    "question_id": "Q_GTU_3150702_2024_S_064",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_064_branch_16",
+    "question_id": "Q_GTU_3150702_2024_S_064",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_065_branch_00",
+    "question_id": "Q_GTU_3150702_2024_W_065",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_065_branch_07",
+    "question_id": "Q_GTU_3150702_2024_W_065",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_065_branch_16",
+    "question_id": "Q_GTU_3150702_2024_W_065",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_066_branch_00",
+    "question_id": "Q_GTU_3150702_2023_S_066",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_066_branch_07",
+    "question_id": "Q_GTU_3150702_2023_S_066",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_066_branch_16",
+    "question_id": "Q_GTU_3150702_2023_S_066",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_067_branch_00",
+    "question_id": "Q_GTU_3150702_2022_W_067",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_067_branch_07",
+    "question_id": "Q_GTU_3150702_2022_W_067",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_067_branch_16",
+    "question_id": "Q_GTU_3150702_2022_W_067",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_068_branch_00",
+    "question_id": "Q_GTU_3150702_2024_S_068",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_068_branch_07",
+    "question_id": "Q_GTU_3150702_2024_S_068",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_068_branch_16",
+    "question_id": "Q_GTU_3150702_2024_S_068",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_069_branch_00",
+    "question_id": "Q_GTU_3150702_2024_W_069",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_069_branch_07",
+    "question_id": "Q_GTU_3150702_2024_W_069",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_069_branch_16",
+    "question_id": "Q_GTU_3150702_2024_W_069",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_070_branch_00",
+    "question_id": "Q_GTU_3150702_2023_S_070",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_070_branch_07",
+    "question_id": "Q_GTU_3150702_2023_S_070",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_070_branch_16",
+    "question_id": "Q_GTU_3150702_2023_S_070",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_071_branch_00",
+    "question_id": "Q_GTU_3150702_2022_W_071",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_071_branch_07",
+    "question_id": "Q_GTU_3150702_2022_W_071",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_071_branch_16",
+    "question_id": "Q_GTU_3150702_2022_W_071",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_072_branch_00",
+    "question_id": "Q_GTU_3150702_2024_S_072",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_072_branch_07",
+    "question_id": "Q_GTU_3150702_2024_S_072",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_072_branch_16",
+    "question_id": "Q_GTU_3150702_2024_S_072",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_073_branch_00",
+    "question_id": "Q_GTU_3150702_2024_W_073",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_073_branch_07",
+    "question_id": "Q_GTU_3150702_2024_W_073",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_073_branch_16",
+    "question_id": "Q_GTU_3150702_2024_W_073",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_074_branch_00",
+    "question_id": "Q_GTU_3150702_2023_S_074",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_074_branch_07",
+    "question_id": "Q_GTU_3150702_2023_S_074",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_074_branch_16",
+    "question_id": "Q_GTU_3150702_2023_S_074",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_075_branch_00",
+    "question_id": "Q_GTU_3150702_2022_W_075",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_075_branch_07",
+    "question_id": "Q_GTU_3150702_2022_W_075",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_075_branch_16",
+    "question_id": "Q_GTU_3150702_2022_W_075",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_076_branch_00",
+    "question_id": "Q_GTU_3150702_2024_S_076",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_076_branch_07",
+    "question_id": "Q_GTU_3150702_2024_S_076",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_076_branch_16",
+    "question_id": "Q_GTU_3150702_2024_S_076",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_077_branch_00",
+    "question_id": "Q_GTU_3150702_2024_W_077",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_077_branch_07",
+    "question_id": "Q_GTU_3150702_2024_W_077",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_W_077_branch_16",
+    "question_id": "Q_GTU_3150702_2024_W_077",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_078_branch_00",
+    "question_id": "Q_GTU_3150702_2023_S_078",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_078_branch_07",
+    "question_id": "Q_GTU_3150702_2023_S_078",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2023_S_078_branch_16",
+    "question_id": "Q_GTU_3150702_2023_S_078",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_079_branch_00",
+    "question_id": "Q_GTU_3150702_2022_W_079",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_079_branch_07",
+    "question_id": "Q_GTU_3150702_2022_W_079",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2022_W_079_branch_16",
+    "question_id": "Q_GTU_3150702_2022_W_079",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_080_branch_00",
+    "question_id": "Q_GTU_3150702_2024_S_080",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_080_branch_07",
+    "question_id": "Q_GTU_3150702_2024_S_080",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3150702_2024_S_080_branch_16",
+    "question_id": "Q_GTU_3150702_2024_S_080",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_081_branch_00",
+    "question_id": "Q_GTU_3110003_2024_W_081",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_081_branch_06",
+    "question_id": "Q_GTU_3110003_2024_W_081",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_081_branch_07",
+    "question_id": "Q_GTU_3110003_2024_W_081",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_081_branch_09",
+    "question_id": "Q_GTU_3110003_2024_W_081",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_081_branch_11",
+    "question_id": "Q_GTU_3110003_2024_W_081",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_082_branch_00",
+    "question_id": "Q_GTU_3110003_2023_S_082",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_082_branch_06",
+    "question_id": "Q_GTU_3110003_2023_S_082",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_082_branch_07",
+    "question_id": "Q_GTU_3110003_2023_S_082",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_082_branch_09",
+    "question_id": "Q_GTU_3110003_2023_S_082",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_082_branch_11",
+    "question_id": "Q_GTU_3110003_2023_S_082",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_083_branch_00",
+    "question_id": "Q_GTU_3110003_2022_W_083",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_083_branch_06",
+    "question_id": "Q_GTU_3110003_2022_W_083",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_083_branch_07",
+    "question_id": "Q_GTU_3110003_2022_W_083",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_083_branch_09",
+    "question_id": "Q_GTU_3110003_2022_W_083",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_083_branch_11",
+    "question_id": "Q_GTU_3110003_2022_W_083",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_084_branch_00",
+    "question_id": "Q_GTU_3110003_2024_S_084",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_084_branch_06",
+    "question_id": "Q_GTU_3110003_2024_S_084",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_084_branch_07",
+    "question_id": "Q_GTU_3110003_2024_S_084",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_084_branch_09",
+    "question_id": "Q_GTU_3110003_2024_S_084",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_084_branch_11",
+    "question_id": "Q_GTU_3110003_2024_S_084",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_085_branch_00",
+    "question_id": "Q_GTU_3110003_2024_W_085",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_085_branch_06",
+    "question_id": "Q_GTU_3110003_2024_W_085",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_085_branch_07",
+    "question_id": "Q_GTU_3110003_2024_W_085",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_085_branch_09",
+    "question_id": "Q_GTU_3110003_2024_W_085",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_085_branch_11",
+    "question_id": "Q_GTU_3110003_2024_W_085",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_086_branch_00",
+    "question_id": "Q_GTU_3110003_2023_S_086",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_086_branch_06",
+    "question_id": "Q_GTU_3110003_2023_S_086",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_086_branch_07",
+    "question_id": "Q_GTU_3110003_2023_S_086",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_086_branch_09",
+    "question_id": "Q_GTU_3110003_2023_S_086",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_086_branch_11",
+    "question_id": "Q_GTU_3110003_2023_S_086",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_087_branch_00",
+    "question_id": "Q_GTU_3110003_2022_W_087",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_087_branch_06",
+    "question_id": "Q_GTU_3110003_2022_W_087",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_087_branch_07",
+    "question_id": "Q_GTU_3110003_2022_W_087",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_087_branch_09",
+    "question_id": "Q_GTU_3110003_2022_W_087",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_087_branch_11",
+    "question_id": "Q_GTU_3110003_2022_W_087",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_088_branch_00",
+    "question_id": "Q_GTU_3110003_2024_S_088",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_088_branch_06",
+    "question_id": "Q_GTU_3110003_2024_S_088",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_088_branch_07",
+    "question_id": "Q_GTU_3110003_2024_S_088",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_088_branch_09",
+    "question_id": "Q_GTU_3110003_2024_S_088",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_088_branch_11",
+    "question_id": "Q_GTU_3110003_2024_S_088",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_089_branch_00",
+    "question_id": "Q_GTU_3110003_2024_W_089",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_089_branch_06",
+    "question_id": "Q_GTU_3110003_2024_W_089",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_089_branch_07",
+    "question_id": "Q_GTU_3110003_2024_W_089",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_089_branch_09",
+    "question_id": "Q_GTU_3110003_2024_W_089",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_089_branch_11",
+    "question_id": "Q_GTU_3110003_2024_W_089",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_090_branch_00",
+    "question_id": "Q_GTU_3110003_2023_S_090",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_090_branch_06",
+    "question_id": "Q_GTU_3110003_2023_S_090",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_090_branch_07",
+    "question_id": "Q_GTU_3110003_2023_S_090",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_090_branch_09",
+    "question_id": "Q_GTU_3110003_2023_S_090",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_090_branch_11",
+    "question_id": "Q_GTU_3110003_2023_S_090",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_091_branch_00",
+    "question_id": "Q_GTU_3110003_2022_W_091",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_091_branch_06",
+    "question_id": "Q_GTU_3110003_2022_W_091",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_091_branch_07",
+    "question_id": "Q_GTU_3110003_2022_W_091",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_091_branch_09",
+    "question_id": "Q_GTU_3110003_2022_W_091",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_091_branch_11",
+    "question_id": "Q_GTU_3110003_2022_W_091",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_092_branch_00",
+    "question_id": "Q_GTU_3110003_2024_S_092",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_092_branch_06",
+    "question_id": "Q_GTU_3110003_2024_S_092",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_092_branch_07",
+    "question_id": "Q_GTU_3110003_2024_S_092",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_092_branch_09",
+    "question_id": "Q_GTU_3110003_2024_S_092",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_092_branch_11",
+    "question_id": "Q_GTU_3110003_2024_S_092",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_093_branch_00",
+    "question_id": "Q_GTU_3110003_2024_W_093",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_093_branch_06",
+    "question_id": "Q_GTU_3110003_2024_W_093",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_093_branch_07",
+    "question_id": "Q_GTU_3110003_2024_W_093",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_093_branch_09",
+    "question_id": "Q_GTU_3110003_2024_W_093",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_093_branch_11",
+    "question_id": "Q_GTU_3110003_2024_W_093",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_094_branch_00",
+    "question_id": "Q_GTU_3110003_2023_S_094",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_094_branch_06",
+    "question_id": "Q_GTU_3110003_2023_S_094",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_094_branch_07",
+    "question_id": "Q_GTU_3110003_2023_S_094",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_094_branch_09",
+    "question_id": "Q_GTU_3110003_2023_S_094",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_094_branch_11",
+    "question_id": "Q_GTU_3110003_2023_S_094",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_095_branch_00",
+    "question_id": "Q_GTU_3110003_2022_W_095",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_095_branch_06",
+    "question_id": "Q_GTU_3110003_2022_W_095",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_095_branch_07",
+    "question_id": "Q_GTU_3110003_2022_W_095",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_095_branch_09",
+    "question_id": "Q_GTU_3110003_2022_W_095",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_095_branch_11",
+    "question_id": "Q_GTU_3110003_2022_W_095",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_096_branch_00",
+    "question_id": "Q_GTU_3110003_2024_S_096",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_096_branch_06",
+    "question_id": "Q_GTU_3110003_2024_S_096",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_096_branch_07",
+    "question_id": "Q_GTU_3110003_2024_S_096",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_096_branch_09",
+    "question_id": "Q_GTU_3110003_2024_S_096",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_096_branch_11",
+    "question_id": "Q_GTU_3110003_2024_S_096",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_097_branch_00",
+    "question_id": "Q_GTU_3110003_2024_W_097",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_097_branch_06",
+    "question_id": "Q_GTU_3110003_2024_W_097",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_097_branch_07",
+    "question_id": "Q_GTU_3110003_2024_W_097",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_097_branch_09",
+    "question_id": "Q_GTU_3110003_2024_W_097",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_W_097_branch_11",
+    "question_id": "Q_GTU_3110003_2024_W_097",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_098_branch_00",
+    "question_id": "Q_GTU_3110003_2023_S_098",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_098_branch_06",
+    "question_id": "Q_GTU_3110003_2023_S_098",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_098_branch_07",
+    "question_id": "Q_GTU_3110003_2023_S_098",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_098_branch_09",
+    "question_id": "Q_GTU_3110003_2023_S_098",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2023_S_098_branch_11",
+    "question_id": "Q_GTU_3110003_2023_S_098",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_099_branch_00",
+    "question_id": "Q_GTU_3110003_2022_W_099",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_099_branch_06",
+    "question_id": "Q_GTU_3110003_2022_W_099",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_099_branch_07",
+    "question_id": "Q_GTU_3110003_2022_W_099",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_099_branch_09",
+    "question_id": "Q_GTU_3110003_2022_W_099",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2022_W_099_branch_11",
+    "question_id": "Q_GTU_3110003_2022_W_099",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_100_branch_00",
+    "question_id": "Q_GTU_3110003_2024_S_100",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_100_branch_06",
+    "question_id": "Q_GTU_3110003_2024_S_100",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_100_branch_07",
+    "question_id": "Q_GTU_3110003_2024_S_100",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_100_branch_09",
+    "question_id": "Q_GTU_3110003_2024_S_100",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3110003_2024_S_100_branch_11",
+    "question_id": "Q_GTU_3110003_2024_S_100",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 17:40:31"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_001_branch_07",
+    "question_id": "Q_GTU_3140702_2024_001",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_001_branch_16",
+    "question_id": "Q_GTU_3140702_2024_001",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_002_branch_07",
+    "question_id": "Q_GTU_3140702_2023_002",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_002_branch_16",
+    "question_id": "Q_GTU_3140702_2023_002",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_003_branch_07",
+    "question_id": "Q_GTU_3140702_2024_003",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_003_branch_16",
+    "question_id": "Q_GTU_3140702_2024_003",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_004_branch_07",
+    "question_id": "Q_GTU_3140702_2023_004",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_004_branch_16",
+    "question_id": "Q_GTU_3140702_2023_004",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_005_branch_07",
+    "question_id": "Q_GTU_3140702_2024_005",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_005_branch_16",
+    "question_id": "Q_GTU_3140702_2024_005",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_006_branch_07",
+    "question_id": "Q_GTU_3140702_2024_006",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_006_branch_16",
+    "question_id": "Q_GTU_3140702_2024_006",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_007_branch_07",
+    "question_id": "Q_GTU_3140702_2023_007",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_007_branch_16",
+    "question_id": "Q_GTU_3140702_2023_007",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_008_branch_07",
+    "question_id": "Q_GTU_3140702_2024_008",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_008_branch_16",
+    "question_id": "Q_GTU_3140702_2024_008",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_009_branch_07",
+    "question_id": "Q_GTU_3140702_2023_009",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2023_009_branch_16",
+    "question_id": "Q_GTU_3140702_2023_009",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_010_branch_07",
+    "question_id": "Q_GTU_3140702_2024_010",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_010_branch_16",
+    "question_id": "Q_GTU_3140702_2024_010",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_011_branch_07",
+    "question_id": "Q_GTU_3140702_2024_011",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3140702_2024_011_branch_16",
+    "question_id": "Q_GTU_3140702_2024_011",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_012_branch_07",
+    "question_id": "Q_GTU_3130702_2024_012",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_012_branch_16",
+    "question_id": "Q_GTU_3130702_2024_012",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_013_branch_07",
+    "question_id": "Q_GTU_3130702_2024_013",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_013_branch_16",
+    "question_id": "Q_GTU_3130702_2024_013",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_014_branch_07",
+    "question_id": "Q_GTU_3130702_2024_014",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2024_014_branch_16",
+    "question_id": "Q_GTU_3130702_2024_014",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2023_015_branch_07",
+    "question_id": "Q_GTU_3130702_2023_015",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3130702_2023_015_branch_16",
+    "question_id": "Q_GTU_3130702_2023_015",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_00",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_06",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_07",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_09",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_11",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2024_016_branch_19",
+    "question_id": "Q_GTU_3110005_2024_016",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_00",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_06",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_07",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_09",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_11",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_3110005_2023_017_branch_19",
+    "question_id": "Q_GTU_3110005_2023_017",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 18:24:30"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_001_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_001",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_00",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_06",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_07",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_09",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_11",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_16",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_001_branch_19",
+    "question_id": "Q_GTU_3110018_2024_001",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_002_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_002",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_00",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_06",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_07",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_09",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_11",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_16",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_002_branch_19",
+    "question_id": "Q_GTU_3110018_2023_002",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_003_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_003",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_00",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_06",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_07",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_09",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_11",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_16",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_003_branch_19",
+    "question_id": "Q_GTU_3110018_2024_003",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_004_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_004",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_00",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_06",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_07",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_09",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_11",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_16",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_004_branch_19",
+    "question_id": "Q_GTU_3110018_2024_004",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_005_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_005",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_00",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_06",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_07",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_09",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_11",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_16",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_005_branch_19",
+    "question_id": "Q_GTU_3110018_2023_005",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_006_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_006",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_00",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_06",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_07",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_09",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_11",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_16",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_006_branch_19",
+    "question_id": "Q_GTU_3110018_2024_006",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_007_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_007",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_00",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_06",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_07",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_09",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_11",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_16",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_007_branch_19",
+    "question_id": "Q_GTU_3110018_2023_007",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_008_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_008",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_00",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_06",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_07",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_09",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_11",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_16",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_008_branch_19",
+    "question_id": "Q_GTU_3110018_2024_008",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_009_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_009",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_00",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_06",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_07",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_09",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_11",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_16",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_009_branch_19",
+    "question_id": "Q_GTU_3110018_2024_009",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_010_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_010",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_00",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_06",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_07",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_09",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_11",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_16",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_010_branch_19",
+    "question_id": "Q_GTU_3110018_2023_010",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_011_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_011",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_00",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_06",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_07",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_09",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_11",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_16",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_011_branch_19",
+    "question_id": "Q_GTU_3110018_2024_011",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_012_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_012",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_00",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_06",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_07",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_09",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_11",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_16",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_012_branch_19",
+    "question_id": "Q_GTU_3110018_2024_012",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_013_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_013",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_00",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_06",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_07",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_09",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_11",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_16",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_013_branch_19",
+    "question_id": "Q_GTU_3110018_2023_013",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_014_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_014",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_00",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_06",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_07",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_09",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_11",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_16",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_014_branch_19",
+    "question_id": "Q_GTU_3110018_2024_014",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_015_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_015",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_00",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_06",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_07",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_09",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_11",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_16",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_015_branch_19",
+    "question_id": "Q_GTU_3110018_2024_015",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_016_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_016",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_00",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_06",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_07",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_09",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_11",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_16",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_016_branch_19",
+    "question_id": "Q_GTU_3110018_2024_016",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_017_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_017",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_00",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_06",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_07",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_09",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_11",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_16",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_017_branch_19",
+    "question_id": "Q_GTU_3110018_2023_017",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_018_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_018",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_00",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_06",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_07",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_09",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_11",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_16",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_018_branch_19",
+    "question_id": "Q_GTU_3110018_2024_018",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_019_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_019",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_00",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_06",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_07",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_09",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_11",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_16",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_019_branch_19",
+    "question_id": "Q_GTU_3110018_2024_019",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_020_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_020",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_00",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_06",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_07",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_09",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_11",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_16",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_020_branch_19",
+    "question_id": "Q_GTU_3110018_2023_020",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_021_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_021",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_00",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_06",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_07",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_09",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_11",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_16",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_021_branch_19",
+    "question_id": "Q_GTU_3110018_2024_021",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_022_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_022",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_00",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_06",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_07",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_09",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_11",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_16",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_022_branch_19",
+    "question_id": "Q_GTU_3110018_2024_022",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2023_023_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2023_023",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_00",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_06",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_07",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_09",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_11",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_16",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2023_023_branch_19",
+    "question_id": "Q_GTU_3110018_2023_023",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_024_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_024",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_00",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_06",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_07",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_09",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_11",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_16",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_024_branch_19",
+    "question_id": "Q_GTU_3110018_2024_024",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_00",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_06",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_07",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_09",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_11",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_16",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_PHYSICS_2024_025_branch_19",
+    "question_id": "Q_GTU_PHYSICS_2024_025",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_00",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_00",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_06",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_06",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_07",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_07",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_09",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_09",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_11",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_11",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_16",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_16",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  },
+  {
+    "id": "qbm_Q_GTU_3110018_2024_025_branch_19",
+    "question_id": "Q_GTU_3110018_2024_025",
+    "branch_id": "branch_19",
+    "is_primary": 1,
+    "created_at": "2026-08-26 19:23:43"
+  }
+]

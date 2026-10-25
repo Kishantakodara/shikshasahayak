@@ -1,0 +1,50 @@
+{
+  "short_name": "ShikshaSahayak",
+  "name": "ShikshaSahayak — GTU Engineering Notes & PYQs",
+  "description": "AI-powered GTU engineering learning platform with offline notes, previous year question papers, smart practice, and AI tutoring.",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#0F172A",
+  "theme_color": "#f97316",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["education", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Student Dashboard",
+      "short_name": "Dashboard",
+      "description": "Access GTU notes, streaks & PYQ practice",
+      "url": "/student?source=shortcut"
+    },
+    {
+      "name": "AI Study Tutor",
+      "short_name": "AI Tutor",
+      "description": "Get AI explanations for GTU concepts",
+      "url": "/ai-tutor?source=shortcut"
+    },
+    {
+      "name": "Previous Year Papers",
+      "short_name": "PYQs",
+      "description": "Download GTU question papers",
+      "url": "/resources/pyq?source=shortcut"
+    }
+  ]
+}

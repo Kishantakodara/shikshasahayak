@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "0001_allow_semester_zero.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 2,
+    "name": "002_browse_schema.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 3,
+    "name": "003_material_upload_index.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 4,
+    "name": "004_rename_notes_to_study_materials.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 5,
+    "name": "005_add_blogs_to_keydocs.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 6,
+    "name": "006_reset_keydocs_document_schema.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 7,
+    "name": "007_ssot_file_assets.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 8,
+    "name": "008_add_blog_id_to_documents.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 9,
+    "name": "009_add_parent_document_id_to_documents.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 10,
+    "name": "010_fix_semester_check_constraint.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 11,
+    "name": "011_simplify_keydocs_schema.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 12,
+    "name": "011_subject_groups.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 13,
+    "name": "012_create_website_popups.sql",
+    "applied_at": "2026-08-06 13:54:39"
+  },
+  {
+    "id": 14,
+    "name": "013_create_bug_reports.sql",
+    "applied_at": "2026-08-07 10:49:06"
+  }
+]
