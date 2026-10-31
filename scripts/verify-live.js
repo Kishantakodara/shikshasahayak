@@ -21,7 +21,7 @@ for (const arg of rawArgs) {
 
 const TARGET_URLS = filteredUrls.length > 0 
   ? filteredUrls 
-  : ['https://padhakuportal.pages.dev', 'https://shikshasahayak.org'];
+  : ['https://SHIKSHAportal.pages.dev', 'https://shikshasahayak.org'];
 
 const REPORT_DIR = artifactDir;
 

@@ -535,7 +535,7 @@ export async function runPhase7CVerification() {
   );
 
   // --- 21. Admin authentication remains required ---
-  const adminCheck1 = isAdmin('superadmin@padhakuportal.com', 'admin');
+  const adminCheck1 = isAdmin('superadmin@shikshasahayak.org', 'admin');
   const adminCheck2 = isAdmin('student@gmail.com', 'student');
   const pass21 = adminCheck1 === true && adminCheck2 === false;
   record(
@@ -546,7 +546,7 @@ export async function runPhase7CVerification() {
   );
 
   // --- 22. Student/teacher without admin privileges cannot perform admin moderation actions ---
-  const isStudentAdmin = isAdmin('guest_student@padhakuportal.com', 'student');
+  const isStudentAdmin = isAdmin('guest_student@shikshasahayak.org', 'student');
   const isRandomUserAdmin = isAdmin('random@otherdomain.com', 'user');
   const pass22 = isStudentAdmin === false && isRandomUserAdmin === false;
   record(

@@ -29,7 +29,7 @@ interface Note {
 
 export default function TeacherNotesPage() {
   const { currentUser } = useAuth();
-  const storageKey = `padhaku_teacher_notes_${currentUser?.uid || 'guest'}`;
+  const storageKey = `shiksha_teacher_notes_${currentUser?.uid || 'guest'}`;
 
   const [notes, setNotes] = useState<Note[]>(() => {
     try {

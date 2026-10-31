@@ -29,7 +29,7 @@ export async function runDatabaseRepairAudit(db: any, args: string[] = []): Prom
   const isDryRun = args.includes("--dry-run");
 
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 DATABASE INTEGRITY & HEALTH AUDIT");
+  console.log("   SHIKSHASAHAYAK DATABASE INTEGRITY & HEALTH AUDIT");
   console.log(`   Mode: ${isApplyFixes ? 'APPLY SAFE FIXES' : isDryRun ? 'DRY-RUN REPAIR' : 'READ-ONLY AUDIT'}`);
   console.log("==================================================\n");
 

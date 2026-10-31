@@ -53,17 +53,17 @@ try {
     assert(!content.includes('gtu_paper_registry'), `${file} does NOT reference KeyDocs table 'gtu_paper_registry'`);
   }
 
-  // Verify wrangler.toml configuration for PADHAKU_CORE_DB
+  // Verify wrangler.toml configuration for SHIKSHA_CORE_DB
   const wranglerContent = fs.readFileSync(path.join(process.cwd(), 'wrangler.toml'), 'utf8');
-  assert(wranglerContent.includes('binding = "PADHAKU_CORE_DB"'), 'wrangler.toml defines PADHAKU_CORE_DB binding');
-  assert(wranglerContent.includes('migrations_dir = "migrations-shiksha-core"'), 'PADHAKU_CORE_DB points to migrations-shiksha-core');
+  assert(wranglerContent.includes('binding = "SHIKSHA_CORE_DB"'), 'wrangler.toml defines SHIKSHA_CORE_DB binding');
+  assert(wranglerContent.includes('migrations_dir = "migrations-shiksha-core"'), 'SHIKSHA_CORE_DB points to migrations-shiksha-core');
 
-  // Verify Wrangler local migration discovery for PADHAKU_CORE_DB
-  const coreWranglerList = execSync('npx wrangler d1 migrations list PADHAKU_CORE_DB --local', { encoding: 'utf8' });
-  assert(coreWranglerList.includes('0001_initial_schema.sql'), 'Wrangler discovers 0001 for PADHAKU_CORE_DB');
-  assert(coreWranglerList.includes('0002_seed_from_keydocs.sql'), 'Wrangler discovers 0002 for PADHAKU_CORE_DB');
-  assert(coreWranglerList.includes('0004_prep_zone_expansion.sql'), 'Wrangler discovers 0004 for PADHAKU_CORE_DB');
-  assert(!coreWranglerList.includes('0003_update_gtu_pyq_links.sql'), 'Wrangler excludes 0003 from PADHAKU_CORE_DB discovery');
+  // Verify Wrangler local migration discovery for SHIKSHA_CORE_DB
+  const coreWranglerList = execSync('npx wrangler d1 migrations list SHIKSHA_CORE_DB --local', { encoding: 'utf8' });
+  assert(coreWranglerList.includes('0001_initial_schema.sql'), 'Wrangler discovers 0001 for SHIKSHA_CORE_DB');
+  assert(coreWranglerList.includes('0002_seed_from_keydocs.sql'), 'Wrangler discovers 0002 for SHIKSHA_CORE_DB');
+  assert(coreWranglerList.includes('0004_prep_zone_expansion.sql'), 'Wrangler discovers 0004 for SHIKSHA_CORE_DB');
+  assert(!coreWranglerList.includes('0003_update_gtu_pyq_links.sql'), 'Wrangler excludes 0003 from SHIKSHA_CORE_DB discovery');
 
   console.log('\n--------------------------------------------------------------------------------');
 

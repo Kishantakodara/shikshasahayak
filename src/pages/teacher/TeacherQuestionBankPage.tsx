@@ -29,7 +29,7 @@ const DEFAULT_QUESTIONS: QuestionItem[] = [];
 
 export default function TeacherQuestionBankPage() {
   const { currentUser } = useAuth();
-  const storageKey = `padhaku_teacher_question_bank_${currentUser?.uid || 'guest'}`;
+  const storageKey = `shiksha_teacher_question_bank_${currentUser?.uid || 'guest'}`;
 
   const [questions, setQuestions] = useState<QuestionItem[]>(() => {
     try {

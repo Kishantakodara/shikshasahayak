@@ -371,7 +371,7 @@ export const AdminAcademicSubjectsHub: React.FC<AdminAcademicSubjectsHubProps> =
           )}`;
           const downloadAnchor = document.createElement('a');
           downloadAnchor.setAttribute('href', jsonString);
-          downloadAnchor.setAttribute('download', `padhaku_subjects_catalog_${Date.now()}.json`);
+          downloadAnchor.setAttribute('download', `shikshasahayak_subjects_catalog_${Date.now()}.json`);
           document.body.appendChild(downloadAnchor);
           downloadAnchor.click();
           downloadAnchor.remove();

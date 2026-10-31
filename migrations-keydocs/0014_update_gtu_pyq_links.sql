@@ -1,7 +1,7 @@
 -- Migration 0003: Update GTU PYQ Question Paper Links to New API Format
 -- Old format: https://gtu.ac.in/uploads/{SESSION}/{COURSE}/{CODE}.pdf
 -- New format: https://www.gtu.ac.in/api/v1/question-papers/archive/file/{SESSION}/{COURSE}/{CODE}.pdf
--- Target Database: DB (keydocs - d0d22669-42aa-4c36-b9e3-c3aace80cad4)
+-- Target Database: DB (keydocs - 00000000-0000-0000-0000-000000000001)
 
 UPDATE gtu_question_papers
 SET 

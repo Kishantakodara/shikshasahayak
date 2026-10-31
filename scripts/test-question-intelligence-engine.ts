@@ -448,10 +448,10 @@ async function runTestSuite() {
       },
     });
 
-    await verifyQuestion(env, qForVerif.id, 'admin_ayush');
+    await verifyQuestion(env, qForVerif.id, 'admin_system');
     const verifiedQ = await getQuestionById(env, qForVerif.id);
 
-    if (verifiedQ?.verificationStatus === 'verified' && verifiedQ.verifiedBy === 'admin_ayush') {
+    if (verifiedQ?.verificationStatus === 'verified' && verifiedQ.verifiedBy === 'admin_system') {
       console.log(`  ✓ PASSED: Verified question status updated to 'verified'`);
       passedTests++;
     } else {
@@ -596,7 +596,7 @@ async function runTestSuite() {
   // ------------------------------------------------------------
   console.log('\n➡️ Test O: Student MCQ Answer Evaluation, Bookmarks, and Progress');
   try {
-    const studentId = 'student_ayush_123';
+    const studentId = 'student_123';
 
     // 1. Create a verified question
     const practiceMcq = await createQuestion(

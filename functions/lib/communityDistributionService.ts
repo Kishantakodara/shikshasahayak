@@ -69,7 +69,7 @@ export async function getStudentAmbassadorStats(env: Env, userId: string): Promi
     return res || {
       userId,
       collegeName: "L.D. College of Engineering",
-      referralCode: `PADHAKU_${userId.substring(0, 5).toUpperCase()}`,
+      referralCode: `SHIKSHA_${userId.substring(0, 5).toUpperCase()}`,
       studentReferralCount: 18,
       createdAt: new Date().toISOString(),
     };
@@ -77,7 +77,7 @@ export async function getStudentAmbassadorStats(env: Env, userId: string): Promi
     return {
       userId,
       collegeName: "L.D. College of Engineering",
-      referralCode: `PADHAKU_${userId.substring(0, 5).toUpperCase()}`,
+      referralCode: `SHIKSHA_${userId.substring(0, 5).toUpperCase()}`,
       studentReferralCount: 18,
       createdAt: new Date().toISOString(),
     };

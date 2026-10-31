@@ -82,7 +82,7 @@ export function runPwaVerification(): PwaVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 PWA & OFFLINE VERIFIER');
+  console.log('SHIKSHASAHAYAK PWA & OFFLINE VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

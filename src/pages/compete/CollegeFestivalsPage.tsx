@@ -32,7 +32,7 @@ export const CollegeFestivalsPage: React.FC = () => {
 
   useEffect(() => {
     try {
-      const stored = localStorage.getItem('padhaku_registered_fest_events');
+      const stored = localStorage.getItem('shiksha_registered_fest_events');
       if (stored) setRegisteredEvents(JSON.parse(stored));
     } catch {}
   }, []);
@@ -82,7 +82,7 @@ export const CollegeFestivalsPage: React.FC = () => {
         const updated = Array.from(new Set([...registeredEvents, eventId]));
         setRegisteredEvents(updated);
         try {
-          localStorage.setItem('padhaku_registered_fest_events', JSON.stringify(updated));
+          localStorage.setItem('shiksha_registered_fest_events', JSON.stringify(updated));
         } catch {}
         setTeamName('');
       }

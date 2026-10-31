@@ -390,7 +390,7 @@ async function runPhase1dTestSuite() {
       acceptableNumericalRange: { min: 70.0, max: 71.0 },
     });
 
-    const approvalRes = await approveQueuedQuestion(env, gateRes.queueItemId!, 'admin_ayush', ['branch_09']);
+    const approvalRes = await approveQueuedQuestion(env, gateRes.queueItemId!, 'admin_system', ['branch_09']);
     const approvedQuestion = await getQuestionById(env, approvalRes.questionId!);
 
     if (approvalRes.success && approvedQuestion?.verificationStatus === 'verified') {

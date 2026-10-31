@@ -37,7 +37,7 @@ export function generateOperationsReport(): OperationsReportData {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 WEEKLY OPERATIONS REPORT');
+  console.log('SHIKSHASAHAYAK WEEKLY OPERATIONS REPORT');
   console.log(`Generated: ${report.timestamp}`);
   console.log(`System Health Status: ${report.status}`);
   console.log('----------------------------------------------------');

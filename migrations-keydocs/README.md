@@ -1,6 +1,6 @@
 # KeyDocs D1 Migrations (`DB`)
 
-Target Database: `keydocs` (`d0d22669-42aa-4c36-b9e3-c3aace80cad4`)  
+Target Database: `keydocs` (`00000000-0000-0000-0000-000000000001`)  
 Configuration Binding: `DB` in `wrangler.toml` (`migrations_dir = "migrations-keydocs"`)
 
 ## Migration Inventory & Sequence

@@ -21,7 +21,7 @@ export async function verifyAdminPlatform(db: any): Promise<{
   overallStatus: 'PASS' | 'FAIL';
 }> {
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 AUTOMATED ADMIN PLATFORM SUITE");
+  console.log("   SHIKSHASAHAYAK AUTOMATED ADMIN PLATFORM SUITE");
   console.log("==================================================\n");
 
   const checks: AdminPlatformCheckResult[] = [];

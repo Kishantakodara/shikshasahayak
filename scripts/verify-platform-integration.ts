@@ -18,7 +18,7 @@ export async function runPlatformVerification(): Promise<{
   overallStatus: 'PASS' | 'FAIL';
 }> {
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 ECOSYSTEM PLATFORM INTEGRATION SUITE");
+  console.log("   SHIKSHASAHAYAK ECOSYSTEM PLATFORM INTEGRATION SUITE");
   console.log("==================================================\n");
 
   const checks: PlatformCheckItem[] = [
@@ -69,7 +69,7 @@ export async function runPlatformVerification(): Promise<{
     },
     {
       subsystem: "Admin Portal",
-      workflow: "/AyushAn0607/dashboard ➔ Academic ➔ KeyDocs Workspace ➔ Audit Logs",
+      workflow: "/admin/dashboard ➔ Academic ➔ KeyDocs Workspace ➔ Audit Logs",
       roleRequirements: "Admin",
       apiHealth: "PASS",
       persistence: "PASS",

@@ -82,7 +82,7 @@ export function runProductionReadinessAudit(): LaunchAuditReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 PRODUCTION READINESS AUDIT');
+  console.log('SHIKSHASAHAYAK PRODUCTION READINESS AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

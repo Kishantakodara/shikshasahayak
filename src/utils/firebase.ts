@@ -22,7 +22,7 @@ const getAuthDomain = () => {
 const firebaseConfig = {
   apiKey: getEnv('VITE_FIREBASE_API_KEY', "AIzaSyDemoShikshaSahayakMockKey12345"),
   authDomain: getAuthDomain(),
-  projectId: getEnv('VITE_FIREBASE_PROJECT_ID', "padhakuportal"),
+  projectId: getEnv('VITE_FIREBASE_PROJECT_ID', "shikshasahayak"),
   storageBucket: getEnv('VITE_FIREBASE_STORAGE_BUCKET', "shikshasahayak-demo.appspot.com"),
   messagingSenderId: getEnv('VITE_FIREBASE_MESSAGING_SENDER_ID', "123456789012"),
   appId: getEnv('VITE_FIREBASE_APP_ID', "1:123456789012:web:mockshikshasahayak123")

@@ -150,7 +150,7 @@ const Whiteboard: React.FC = () => {
     if (!canvas) return;
     
     const link = document.createElement('a');
-    link.download = 'padhakuportal-whiteboard.png';
+    link.download = 'shikshasahayak-whiteboard.png';
     link.href = canvas.toDataURL();
     link.click();
   };

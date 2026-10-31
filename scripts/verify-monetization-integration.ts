@@ -82,7 +82,7 @@ export function runVerifyMonetizationIntegration(): MonetizationVerificationRepo
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 MONETIZATION VERIFIER');
+  console.log('SHIKSHASAHAYAK MONETIZATION VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

@@ -12,7 +12,7 @@ export interface FinalVerificationCheck {
 
 export async function verifyDatabaseFinal(db: any): Promise<FinalVerificationCheck[]> {
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 FULL DATABASE FINAL VERIFICATION");
+  console.log("   SHIKSHASAHAYAK FULL DATABASE FINAL VERIFICATION");
   console.log("==================================================\n");
 
   const checks: FinalVerificationCheck[] = [];

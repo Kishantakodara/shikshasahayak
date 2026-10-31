@@ -84,7 +84,7 @@ export function runAiQualityEval(): AiQualityEvalReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 AI QUALITY & SAFETY EVALUATION');
+  console.log('SHIKSHASAHAYAK AI QUALITY & SAFETY EVALUATION');
   console.log(`Score: ${report.overallScore}% (${report.passedCases}/${report.totalCases} cases passed - Status: ${report.status})`);
   console.log('----------------------------------------------------');
   cases.forEach(c => {

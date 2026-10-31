@@ -210,7 +210,7 @@ const ACCENT_COLORS = [
 export const ResumeBuilderPage: React.FC = () => {
   const [data, setData] = useState<ResumeData>(() => {
     try {
-      const saved = localStorage.getItem('padhaku_resume_data');
+      const saved = localStorage.getItem('shiksha_resume_data');
       return saved ? JSON.parse(saved) : DEFAULT_RESUME;
     } catch {
       return DEFAULT_RESUME;
@@ -231,7 +231,7 @@ export const ResumeBuilderPage: React.FC = () => {
   useEffect(() => {
     let timer: NodeJS.Timeout | undefined;
     try {
-      localStorage.setItem('padhaku_resume_data', JSON.stringify(data));
+      localStorage.setItem('shiksha_resume_data', JSON.stringify(data));
       setSaveStatus('Draft saved automatically');
       timer = setTimeout(() => setSaveStatus(''), 2500);
     } catch {}

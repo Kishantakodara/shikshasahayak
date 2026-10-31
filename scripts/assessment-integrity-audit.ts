@@ -87,7 +87,7 @@ export function runAssessmentIntegrityAudit(): AssessmentIntegrityReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 ASSESSMENT INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK ASSESSMENT INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

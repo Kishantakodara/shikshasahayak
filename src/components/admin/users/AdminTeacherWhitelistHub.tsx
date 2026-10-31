@@ -150,8 +150,8 @@ export const AdminTeacherWhitelistHub: React.FC<AdminTeacherWhitelistHubProps> =
     setActionLoading(true);
     try {
       const defaultList = [
-        { email: 'tech@shikshasahayak.org', name: 'Ayush Pandey', department: 'Computer Engineering', college: 'GTU Main Campus', status: 'approved' as const },
-        { email: 'contact@shikshasahayak.org', name: 'Kishan Takodara', department: 'Computer Science & Engineering', college: 'GTU Main Campus', status: 'approved' as const },
+        { email: 'tech@shikshasahayak.org', name: 'Dr. R. K. Mehta', department: 'Computer Engineering', college: 'GTU Main Campus', status: 'approved' as const },
+        { email: 'contact@shikshasahayak.org', name: 'Prof. A. S. Patel', department: 'Computer Science & Engineering', college: 'GTU Main Campus', status: 'approved' as const },
         { email: 'team@shikshasahayak.org', name: 'ShikshaSahayak Official Faculty', department: 'Academic Administration', college: 'ShikshaSahayak Network', status: 'approved' as const },
         { email: 'developer@shikshasahayak.org', name: 'Lead Technical Faculty', department: 'Information Technology', college: 'GTU Main Campus', status: 'approved' as const },
       ];
@@ -205,7 +205,7 @@ export const AdminTeacherWhitelistHub: React.FC<AdminTeacherWhitelistHubProps> =
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement('a');
     link.setAttribute('href', encodedUri);
-    link.setAttribute('download', `padhaku_teacher_whitelist_${new Date().toISOString().split('T')[0]}.csv`);
+    link.setAttribute('download', `shikshasahayak_teacher_whitelist_${new Date().toISOString().split('T')[0]}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

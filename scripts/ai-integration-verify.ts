@@ -82,7 +82,7 @@ export function runAiIntegrationVerify(): AiVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 AI INTEGRATION VERIFIER');
+  console.log('SHIKSHASAHAYAK AI INTEGRATION VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

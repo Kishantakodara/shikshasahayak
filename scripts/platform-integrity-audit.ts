@@ -16,7 +16,7 @@ export async function runPlatformIntegrityAudit(db?: any): Promise<{
   overallStatus: 'HEALTHY' | 'DEGRADED';
 }> {
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 READ-ONLY INTEGRITY AUDIT");
+  console.log("   SHIKSHASAHAYAK READ-ONLY INTEGRITY AUDIT");
   console.log("==================================================\n");
 
   const reports: EntityIntegrityReport[] = [

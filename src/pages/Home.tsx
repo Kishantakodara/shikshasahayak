@@ -361,10 +361,14 @@ const Home: React.FC = () => {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 space-y-6">
           
           {/* Top Pill Badge */}
-          <div className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-orange-50 dark:bg-orange-950/40 border border-orange-200 dark:border-orange-900/40 text-brand-orange text-xs sm:text-sm font-semibold shadow-xs animate-fade-in-up">
-            <Sparkles className="w-4 h-4 text-brand-orange" />
-            <span>Your All-in-One Academic Companion</span>
-          </div>
+          <Link 
+            to="/hackathon"
+            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-orange-50 dark:bg-orange-950/40 border border-orange-200 dark:border-orange-900/40 text-brand-orange text-xs sm:text-sm font-semibold shadow-xs hover:border-brand-orange transition-all animate-fade-in-up group"
+          >
+            <span className="text-xs">🇮🇳</span>
+            <span>Hack for Social Cause (VBYLD 2027) • Explore Submission</span>
+            <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" />
+          </Link>
 
           {/* Main Display Headline */}
           <h1 id="hero-title" className="text-4xl sm:text-6xl lg:text-7xl font-extrabold font-display text-navy-900 dark:text-white tracking-tight leading-[1.15] max-w-4xl mx-auto">

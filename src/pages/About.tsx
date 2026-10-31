@@ -129,6 +129,43 @@ const About: React.FC = () => {
           </div>
         </div>
 
+        {/* Hack for Social Cause & UN SDGs Alignment */}
+        <div className="bg-gradient-to-r from-orange-500/10 via-amber-500/5 to-orange-500/10 border-2 border-brand-orange/30 rounded-3xl p-6 sm:p-8 space-y-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+            <div className="flex items-center gap-2 text-brand-orange font-bold text-sm uppercase tracking-wider">
+              <Sparkles className="w-4 h-4" />
+              <span>Hack for Social Cause — VBYLD 2027 & UN SDGs</span>
+            </div>
+            <Link
+              to="/hackathon"
+              className="inline-flex items-center gap-1.5 text-xs font-bold text-brand-orange hover:text-orange-600 transition-colors"
+            >
+              <span>View Full Hackathon Showcase</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </Link>
+          </div>
+          <p className="text-xs sm:text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
+            ShikshaSahayak is proudly submitted under the <strong>Viksit Bharat Young Leaders Dialogue (VBYLD) 2027 — Hack for Social Cause</strong> initiative organized by the Ministry of Youth Affairs & Sports (MoYAS) with IIT Bombay as National Knowledge Partner.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-2">
+            <div className="bg-white/80 dark:bg-navy-900/80 rounded-2xl p-4 border border-gray-200 dark:border-navy-700 space-y-1">
+              <span className="text-[10px] font-bold text-blue-600 dark:text-blue-400 uppercase">Primary Goal</span>
+              <h4 className="text-xs font-bold text-navy-900 dark:text-white">SDG 4: Quality Education</h4>
+              <p className="text-[11px] text-gray-500 dark:text-gray-400">Zero-cost access to notes, PYQs, and AI doubts clearing.</p>
+            </div>
+            <div className="bg-white/80 dark:bg-navy-900/80 rounded-2xl p-4 border border-gray-200 dark:border-navy-700 space-y-1">
+              <span className="text-[10px] font-bold text-purple-600 dark:text-purple-400 uppercase">Equity Goal</span>
+              <h4 className="text-xs font-bold text-navy-900 dark:text-white">SDG 10: Reduced Inequalities</h4>
+              <p className="text-[11px] text-gray-500 dark:text-gray-400">Bridging the Tier-1 vs Tier-3 and rural college divide.</p>
+            </div>
+            <div className="bg-white/80 dark:bg-navy-900/80 rounded-2xl p-4 border border-gray-200 dark:border-navy-700 space-y-1">
+              <span className="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase">Economic Goal</span>
+              <h4 className="text-xs font-bold text-navy-900 dark:text-white">SDG 8: Decent Work</h4>
+              <p className="text-[11px] text-gray-500 dark:text-gray-400">Coding practice tracks and verified career opportunities.</p>
+            </div>
+          </div>
+        </div>
+
         {/* Disclaimer & Non-Affiliation */}
         <div className="bg-white dark:bg-navy-900 rounded-3xl border border-gray-150 dark:border-navy-800 p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2 text-brand-orange font-bold text-sm uppercase tracking-wider">

@@ -4,11 +4,11 @@
 // ============================================================
 
 export const SYNC_EVENTS = {
-  ATTENDANCE_LAUNCH: 'padhaku_attendance_launch',
-  ATTENDANCE_END: 'padhaku_attendance_end',
-  ATTENDANCE_SUBMIT: 'padhaku_attendance_submit',
-  ANNOUNCEMENT_CREATE: 'padhaku_announcement_create',
-  ASSIGNMENT_CREATE: 'padhaku_assignment_create',
+  ATTENDANCE_LAUNCH: 'shiksha_attendance_launch',
+  ATTENDANCE_END: 'shiksha_attendance_end',
+  ATTENDANCE_SUBMIT: 'shiksha_attendance_submit',
+  ANNOUNCEMENT_CREATE: 'shiksha_announcement_create',
+  ASSIGNMENT_CREATE: 'shiksha_assignment_create',
 };
 
 // Dispatch a real-time event (both same window and cross-tab localStorage)
@@ -18,7 +18,7 @@ export function dispatchSyncEvent(eventType: string, payload: any) {
   window.dispatchEvent(event);
 
   // 2. Cross-tab localStorage trigger
-  const syncKey = `padhaku_sync_${eventType}_${Date.now()}`;
+  const syncKey = `shiksha_sync_${eventType}_${Date.now()}`;
   localStorage.setItem(syncKey, JSON.stringify(payload));
   // Clean up after 2 seconds to avoid clutter
   setTimeout(() => {
@@ -41,7 +41,7 @@ export function subscribeToSyncEvent(eventType: string, callback: (payload: any)
 
   // 2. Cross-tab localStorage listener
   const handleStorageEvent = (e: StorageEvent) => {
-    if (e.key && e.key.startsWith(`padhaku_sync_${eventType}`) && e.newValue) {
+    if (e.key && (e.key.startsWith(`shiksha_sync_${eventType}`)) && e.newValue) {
       try {
         const data = JSON.parse(e.newValue);
         callback(data);
@@ -62,7 +62,7 @@ export function subscribeToSyncEvent(eventType: string, callback: (payload: any)
 // Get active attendance session for student dashboard
 export function getActiveAttendanceSessionForStudent(): any | null {
   try {
-    const sessionStr = localStorage.getItem('padhaku_active_attendance_session');
+    const sessionStr = localStorage.getItem('shiksha_active_attendance_session');
     if (sessionStr) {
       const session = JSON.parse(sessionStr);
       if (session && session.is_active) {

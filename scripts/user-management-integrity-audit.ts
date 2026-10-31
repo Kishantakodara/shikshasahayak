@@ -82,7 +82,7 @@ export function runUserManagementIntegrityAudit(): UserManagementIntegrityReport
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 USER MANAGEMENT INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK USER MANAGEMENT INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

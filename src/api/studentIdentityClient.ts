@@ -40,7 +40,8 @@ export async function fetchStudentAcademicProfile(
   const targetEmail = email || auth.currentUser?.email;
   if (!targetId && !targetEmail) return null;
 
-  const localKey = `padhaku_student_academic_profile_${targetId || targetEmail}`;
+  const localKey = `shiksha_student_academic_profile_${targetId || targetEmail}`;
+  const legacyLocalKey = '';
   try {
     const headers = await getAuthHeaders();
     const params = new URLSearchParams();
@@ -61,7 +62,7 @@ export async function fetchStudentAcademicProfile(
 
   // Fallback to localStorage cache for the specific user
   try {
-    const cached = localStorage.getItem(localKey);
+    const cached = localStorage.getItem(localKey) || localStorage.getItem(legacyLocalKey);
     if (cached) {
       return JSON.parse(cached);
     }
@@ -79,11 +80,12 @@ export async function updateStudentAcademicProfile(
   userId: string,
   profile: Partial<StudentAcademicProfileSpec>
 ): Promise<boolean> {
-  const localKey = `padhaku_student_academic_profile_${userId}`;
+  const localKey = `shiksha_student_academic_profile_${userId}`;
+  const legacyLocalKey = '';
   
   // Save to LocalStorage immediately
   try {
-    const existing = localStorage.getItem(localKey);
+    const existing = localStorage.getItem(localKey) || localStorage.getItem(legacyLocalKey);
     const existingObj = existing ? JSON.parse(existing) : {};
     const updatedObj = {
       ...existingObj,
@@ -112,7 +114,7 @@ export async function updateStudentAcademicProfile(
 }
 
 /**
- * Fetches student profile directly from shiksha-core-db / padhaku-assessment-db D1 database (table: student_profiles).
+ * Fetches student profile directly from D1 database (table: student_profiles).
  */
 export async function fetchD1StudentProfile(userId?: string, email?: string): Promise<any | null> {
   const targetId = userId || auth.currentUser?.uid;
@@ -137,7 +139,7 @@ export async function fetchD1StudentProfile(userId?: string, email?: string): Pr
 }
 
 /**
- * Saves student profile directly into padhaku-assessment-db D1 database (table: student_profiles).
+ * Saves student profile directly into D1 database (table: student_profiles).
  */
 export async function saveD1StudentProfile(
   profileData: {
@@ -203,7 +205,8 @@ export async function deleteD1StudentProfile(userId?: string): Promise<boolean> 
 
     // Clear local storage profile caches
     try {
-      localStorage.removeItem(`padhaku_student_academic_profile_${targetId}`);
+      localStorage.removeItem(`shiksha_student_academic_profile_${targetId}`);
+      
     } catch {}
 
     return res.ok;

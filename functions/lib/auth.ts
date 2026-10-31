@@ -35,7 +35,7 @@ export const ALLOWED_ADMIN_EMAILS = [
   'tech@shikshasahayak.org',
   'team@shikshasahayak.org',
   'mentor@shikshasahayak.org',
-  'ayush.team@shikshasahayak.org',
+  
   'support@shikshasahayak.org',
   'lead@shikshasahayak.org',
   'admin@shikshasahayak.org',
@@ -288,7 +288,7 @@ export async function getAuthenticatedUser(
     const token = authHeader.substring(7);
     if (!token) return null;
 
-    const projectId = env.FIREBASE_PROJECT_ID || env.VITE_FIREBASE_PROJECT_ID || 'padhakuportal';
+    const projectId = env.FIREBASE_PROJECT_ID || env.VITE_FIREBASE_PROJECT_ID || 'shikshasahayak';
     if (!projectId) return null;
 
     try {
@@ -391,12 +391,12 @@ export async function getAuthenticatedUser(
   if (cfJwt) {
     try {
       const decoded = jose.decodeJwt(cfJwt);
-      const teamName = env.CF_ACCESS_TEAM_NAME || 'padhakuportal';
+      const teamName = env.CF_ACCESS_TEAM_NAME || 'shikshasahayak';
       const expectedIss = `https://${teamName}.cloudflareaccess.com`;
       const iss = typeof decoded.iss === 'string' ? decoded.iss.replace(/\/$/, '') : '';
 
-      // Cryptographically verify issuer matches configured Access team or padhaku domain
-      const isTrustedTeam = iss === expectedIss || (iss.endsWith('.cloudflareaccess.com') && (iss.includes('padhaku') || !env.CF_ACCESS_TEAM_NAME));
+      // Cryptographically verify issuer matches configured Access team or trusted domain
+      const isTrustedTeam = iss === expectedIss || (iss.endsWith('.cloudflareaccess.com') && (iss.includes('shikshasahayak') || iss.includes('padhaku') || !env.CF_ACCESS_TEAM_NAME));
       if (iss && isTrustedTeam) {
         const certsUrl = `${iss}/cdn-cgi/access/certs`;
         const jwks = getCfJWKS(certsUrl);

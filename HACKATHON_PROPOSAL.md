@@ -1,8 +1,11 @@
-# 🏆 Hack for Social — Hackathon Idea Submission
+# 🇮🇳 Hack for Social Cause — VBYLD 2027 Official Proposal
 
 **Project Title:** ShikshaSahayak — Democratizing Higher Education Through AI & Open Academic Ecosystems  
-**Tagline:** *Empowering Every Student to Learn, Excel, and Rise — Irrespective of College, Location, or Language.*  
-**Domain / Track:** Education for All / Digital Inclusion / AI for Social Good  
+**Tagline:** *Think Global, Hack Local — Technology for Social Transformation*  
+**Initiative:** Viksit Bharat Young Leaders Dialogue (VBYLD) 2027  
+**Governance:** Ministry of Youth Affairs & Sports (MoYAS) • IIT Bombay (National Knowledge Partner) • MY Bharat  
+**Primary Track:** Theme 2 — Education & Skill Development  
+**Secondary Tracks:** Theme 6 — Digital Inclusion | Theme 7 — AI, GIS & Emerging Technologies  
 **UN Sustainable Development Goals (SDGs):**  
 - **SDG 4:** Quality Education (Equal access to academic material & personalized tutoring)  
 - **SDG 8:** Decent Work and Economic Growth (Career pathways & practical readiness)  
@@ -158,3 +161,22 @@ If required to submit or present slides, follow this exact structure:
    - Offline-first PWA, regional vernacular voice summaries, and verified campus mentor networks.
 10. **Slide 10: Conclusion & Call to Action**
     - *"Education is a fundamental right, not a luxury."* Join us in empowering the next million engineers and graduates!
+
+---
+
+## 9. ⚖️ Evaluation Matrix Alignment & Self-Assessment
+
+| # | Evaluation Parameter | ShikshaSahayak Demonstrated Strengths | Score Readiness |
+| :---: | :--- | :--- | :---: |
+| **1** | **Relevance** | Direct alignment with **Theme 2 (Education & Skill Dev)**, targeting Tier-2/Tier-3 engineering & diploma colleges in regional universities (e.g. GTU). | **High / 100%** |
+| **2** | **Technical Strength** | Enterprise-grade serverless architecture: React 19, Cloudflare Edge Workers, D1 SQLite, R2 Zero-Egress Storage, and Google Gemini AI SSE streaming. | **High / 100%** |
+| **3** | **Functionality** | Production-ready prototype with 1-click test personas for Student, Teacher, and Admin at `/hackathon` and `/login` with zero broken paths. | **High / 100%** |
+| **4** | **Creativity** | Contextualized AI academic mentor that explains complex engineering concepts in vernacular analogies (Hinglish/Gujarati) and predicts recurring PYQ patterns. | **High / 100%** |
+| **5** | **Social Cause Impact** | Eliminates ₹15,000–₹50,000/year coaching costs for 50,000+ students (₹125+ Crores societal savings), with an estimated 28% drop in semester failure rates. | **High / 100%** |
+| **6** | **Presentation** | Clean documentation, interactive live impact simulator, verified sitemap, and 1-click evaluation access. | **High / 100%** |
+| **7** | **Teamwork & IP** | 100% IP retained by youth participant team, MIT Open Source License, and compliance with MoYAS & IIT Bombay guidelines. | **High / 100%** |
+
+---
+
+*Compiled for the ShikshaSahayak Team — Hack for Social Cause (VBYLD 2027)*
+

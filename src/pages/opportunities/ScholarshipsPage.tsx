@@ -37,7 +37,7 @@ export const ScholarshipsPage: React.FC = () => {
   // Load saved bookmarks
   useEffect(() => {
     try {
-      const stored = localStorage.getItem('padhaku_saved_scholarships');
+      const stored = localStorage.getItem('shiksha_saved_scholarships');
       const parsed: string[] = stored ? JSON.parse(stored) : [];
       const fromEcosystem = bookmarks.filter(b => b.itemType === 'scholarship').map(b => b.targetId);
       const merged = Array.from(new Set([...parsed, ...fromEcosystem]));
@@ -56,7 +56,7 @@ export const ScholarshipsPage: React.FC = () => {
     }
     setSavedIds(updated);
     try {
-      localStorage.setItem('padhaku_saved_scholarships', JSON.stringify(updated));
+      localStorage.setItem('shiksha_saved_scholarships', JSON.stringify(updated));
     } catch {}
 
     const item = scholarships.find(s => s.id === id);

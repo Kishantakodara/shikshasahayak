@@ -267,7 +267,7 @@ export const BulkEnrollModal: React.FC<BulkEnrollModalProps> = ({
       { wch: 30 },
     ];
 
-    XLSX.writeFile(workbook, 'padhaku_student_roster_template.xlsx');
+    XLSX.writeFile(workbook, 'shikshasahayak_student_roster_template.xlsx');
     toast.success('Excel (.xlsx) template downloaded!');
   };
 
@@ -277,7 +277,7 @@ export const BulkEnrollModal: React.FC<BulkEnrollModalProps> = ({
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'padhaku_student_roster_template.csv';
+    a.download = 'shikshasahayak_student_roster_template.csv';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);

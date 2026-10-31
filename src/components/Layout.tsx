@@ -61,7 +61,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   }, []);
 
   const isDashboardRoute = 
-    location.pathname.startsWith('/AyushAn0607') || 
+    location.pathname.startsWith('/admin') ||
     location.pathname.startsWith('/student') || 
     location.pathname.startsWith('/teacher') || 
     location.pathname.startsWith('/college') || 
@@ -120,7 +120,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 group shrink-0">
               <span className="text-lg sm:text-xl font-bold tracking-tight text-navy-900 dark:text-white font-display block whitespace-nowrap">
-                ShikshaSahayak<span className="text-brand-orange">Portal</span>
+                Shiksha<span className="text-brand-orange">Sahayak</span>
               </span>
               {isBetaTester && (
                 <span className="px-2 py-0.5 rounded-full bg-brand-orange/10 text-brand-orange border border-brand-orange/30 text-[10px] font-extrabold tracking-wider uppercase flex items-center gap-1 shadow-xs">
@@ -147,6 +147,10 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </Link>
                 <Link to="/blogs" className={`${isActive('/blogs')} transition-all px-3 py-1.5 rounded-full text-xs font-semibold`}>
                   Blogs
+                </Link>
+                <Link to="/hackathon" className={`${isActive('/hackathon')} transition-all px-3 py-1.5 rounded-full text-xs font-bold text-brand-orange flex items-center gap-1`}>
+                  <span>🇮🇳</span>
+                  <span>Social Cause</span>
                 </Link>
                 <Link 
                   to="/student" 
@@ -363,6 +367,10 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <Link to="/resources/study-material" onClick={() => setIsMobileMenuOpen(false)} className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-navy-800">Study Material</Link>
                   <Link to="/resources/pyq" onClick={() => setIsMobileMenuOpen(false)} className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-navy-800">Previous Papers</Link>
                   <Link to="/blogs" onClick={() => setIsMobileMenuOpen(false)} className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-navy-800">Blogs</Link>
+                  <Link to="/hackathon" onClick={() => setIsMobileMenuOpen(false)} className="flex items-center gap-2 px-4 py-2.5 rounded-xl text-base font-bold text-brand-orange bg-orange-50/50 dark:bg-navy-800/50 hover:bg-orange-50">
+                    <span>🇮🇳</span>
+                    <span>Social Cause (VBYLD 2027)</span>
+                  </Link>
                   <Link to="/about" onClick={() => setIsMobileMenuOpen(false)} className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-navy-800">About</Link>
                   <Link to="/contact" onClick={() => setIsMobileMenuOpen(false)} className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-navy-800">Contact</Link>
                   <div className="pt-2 grid grid-cols-2 gap-2">
@@ -467,20 +475,20 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <img src="/logo.webp" alt="ShikshaSahayak Logo" className="h-8 w-auto object-contain" width="32" height="32" />
                 </div>
                 <span className="text-lg font-bold text-navy-900 dark:text-white font-display">
-                  ShikshaSahayak<span className="text-brand-orange">Portal</span>
+                  Shiksha<span className="text-brand-orange">Sahayak</span>
                 </span>
               </Link>
               <p className="text-sm text-gray-500 dark:text-gray-400 leading-relaxed">
                 Your academic success partner. Access study materials, notes, and exam papers in one organized place.
               </p>
               <div className="flex items-center gap-3 mt-5">
-                <a href="https://youtube.com/@padhakuportal" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-red-50 dark:hover:bg-red-950/20 text-red-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="YouTube">
+                <a href="https://youtube.com/@shikshasahayak" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-red-50 dark:hover:bg-red-950/20 text-red-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="YouTube">
                   <Youtube className="w-4 h-4" strokeWidth={2.5} />
                 </a>
-                <a href="https://www.instagram.com/padhaku_portal?igsh=MTZ6MjByZjczMzBuNg==" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-pink-50 dark:hover:bg-pink-950/20 text-pink-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="Instagram">
+                <a href="https://www.instagram.com/shikshasahayak" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-pink-50 dark:hover:bg-pink-950/20 text-pink-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="Instagram">
                   <Instagram className="w-4 h-4" strokeWidth={2.5} />
                 </a>
-                <a href="https://t.me/padhaku_portal" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-blue-50 dark:hover:bg-blue-950/20 text-blue-400 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="Telegram">
+                <a href="https://t.me/shikshasahayak" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-blue-50 dark:hover:bg-blue-950/20 text-blue-400 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="Telegram">
                   <Send className="w-4 h-4" strokeWidth={2.5} />
                 </a>
                 <a href="https://chat.whatsapp.com/JKjcvjun6roIkbat7O59uJ" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-green-50 dark:hover:bg-green-950/20 text-green-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="WhatsApp Community">
@@ -517,7 +525,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                     <path d="M14.5 9a3.5 3.5 0 0 1 0 5" />
                   </svg>
                 </a>
-                <a href="https://www.linkedin.com/company/padhakuportal/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-indigo-50 dark:hover:bg-indigo-950/20 text-indigo-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="LinkedIn">
+                <a href="https://www.linkedin.com/company/shikshasahayak/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 dark:bg-navy-850 hover:bg-indigo-50 dark:hover:bg-indigo-950/20 text-indigo-500 flex items-center justify-center border border-gray-100 dark:border-navy-800 transition-colors" title="LinkedIn">
                   <Linkedin className="w-4 h-4" strokeWidth={2.5} />
                 </a>
 
@@ -539,6 +547,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               <h4 className="font-bold text-navy-900 dark:text-white mb-4">ShikshaSahayak</h4>
               <ul className="space-y-2 text-sm text-gray-600 dark:text-gray-400">
                 <li><Link to="/about" className="hover:text-brand-orange transition-colors">About Us</Link></li>
+                <li><Link to="/hackathon" className="hover:text-brand-orange transition-colors flex items-center gap-1.5"><span className="text-brand-orange font-bold">🇮🇳</span><span>Social Cause (VBYLD 2027)</span></Link></li>
                 <li><Link to="/contact" className="hover:text-brand-orange transition-colors">Contact Us</Link></li>
                 <li><Link to="/contribute" className="hover:text-brand-orange transition-colors">Contribute Material</Link></li>
                 <li><Link to="/sitemap" className="hover:text-brand-orange transition-colors">Sitemap</Link></li>

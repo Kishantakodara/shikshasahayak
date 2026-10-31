@@ -75,7 +75,7 @@ export function runContentScaleAudit(): ContentScaleReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 ACADEMIC CONTENT SCALE AUDIT');
+  console.log('SHIKSHASAHAYAK ACADEMIC CONTENT SCALE AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

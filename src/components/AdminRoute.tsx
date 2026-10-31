@@ -21,7 +21,7 @@ const AdminRoute: React.FC<AdminRouteProps> = ({ children }) => {
   }
 
   if (!currentUser) {
-    return <Navigate to="/AyushAn0607" replace />;
+    return <Navigate to="/admin" replace />;
   }
 
   // Unified Admin Role & Email Authorization Guard
@@ -30,7 +30,6 @@ const AdminRoute: React.FC<AdminRouteProps> = ({ children }) => {
     'tech@shikshasahayak.org',
     'team@shikshasahayak.org',
     'mentor@shikshasahayak.org',
-    'ayush.team@shikshasahayak.org',
     'support@shikshasahayak.org',
     'lead@shikshasahayak.org',
     'admin@shikshasahayak.org',

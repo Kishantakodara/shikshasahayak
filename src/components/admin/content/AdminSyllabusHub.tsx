@@ -307,7 +307,7 @@ export const AdminSyllabusHub: React.FC<AdminSyllabusHubProps> = ({ onNavigateTo
           )}`;
           const downloadAnchor = document.createElement('a');
           downloadAnchor.setAttribute('href', jsonString);
-          downloadAnchor.setAttribute('download', `padhaku_syllabus_coverage_${Date.now()}.json`);
+          downloadAnchor.setAttribute('download', `shikshasahayak_syllabus_coverage_${Date.now()}.json`);
           document.body.appendChild(downloadAnchor);
           downloadAnchor.click();
           downloadAnchor.remove();

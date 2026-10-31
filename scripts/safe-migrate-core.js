@@ -5,17 +5,17 @@ import path from 'path';
 /**
  * ShikshaSahayak Core DB Migration & Seed Safeguard
  *
- * Enforces fail-closed protection on PADHAKU_CORE_DB to prevent:
+ * Enforces fail-closed protection on SHIKSHA_CORE_DB to prevent:
  * 1. Accidental replay of Migration 0001 against existing production schema.
  * 2. Catastrophic replay of Migration 0002 (30,646 lines of bootstrap seed) which would
  *    clobber live operational tables (users, announcements, blogs, bug_reports).
  * 3. Execution of remote migrations while the production baseline is unreconciled.
- * 4. Cross-database execution of KeyDocs migrations on PADHAKU_CORE_DB.
+ * 4. Cross-database execution of KeyDocs migrations on SHIKSHA_CORE_DB.
  */
 
-const CORE_BINDING = 'PADHAKU_CORE_DB';
+const CORE_BINDING = 'SHIKSHA_CORE_DB';
 const CORE_DB_NAME = 'shiksha-core-db';
-const CORE_DB_ID = '4e63a42b-1271-462f-8271-da47cf659139';
+const CORE_DB_ID = '00000000-0000-0000-0000-000000000003';
 const CORE_MIGRATIONS_DIR = path.join(process.cwd(), 'migrations-shiksha-core');
 
 const REQUIRED_BASELINE_MIGRATIONS = [
@@ -102,7 +102,7 @@ export function inspectCoreMigrationStatus(options = {}) {
 
 export function runSafeRemoteMigration(options = {}) {
   console.log('\n================================================================================');
-  console.log('🛡️ PADHAKU CORE DB MIGRATION SAFEGUARD CHECK');
+  console.log('🛡️ SHIKSHA CORE DB MIGRATION SAFEGUARD CHECK');
   console.log('================================================================================');
   console.log(`Database Binding: ${CORE_BINDING} (${CORE_DB_NAME})`);
   console.log(`Database ID:      ${CORE_DB_ID}`);

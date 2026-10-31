@@ -20,9 +20,9 @@ interface PWAContextType {
 
 const PWAContext = createContext<PWAContextType | undefined>(undefined);
 
-const LOCAL_STORAGE_KEY_LOW_BW = "padhaku_low_bandwidth_mode";
-const LOCAL_STORAGE_KEY_DOWNLOADS = "padhaku_offline_downloads";
-const LOCAL_STORAGE_KEY_BANNER_SEEN = "padhaku_pwa_banner_seen";
+const LOCAL_STORAGE_KEY_LOW_BW = "shiksha_low_bandwidth_mode";
+const LOCAL_STORAGE_KEY_DOWNLOADS = "shiksha_offline_downloads";
+const LOCAL_STORAGE_KEY_BANNER_SEEN = "shiksha_pwa_banner_seen";
 
 export const PWAProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [isOnline, setIsOnline] = useState<boolean>(navigator.onLine);
@@ -40,7 +40,7 @@ export const PWAProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   };
 
   const [lowBandwidthMode, setLowBandwidthMode] = useState<boolean>(() => {
-    return localStorage.getItem(LOCAL_STORAGE_KEY_LOW_BW) === "true";
+    return (localStorage.getItem(LOCAL_STORAGE_KEY_LOW_BW)) === "true";
   });
 
   const [offlineDownloads, setOfflineDownloads] = useState<OfflineResourceItem[]>(() => {
@@ -140,7 +140,7 @@ export const PWAProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
       // Trigger service worker cache put if browser supports
       if ("caches" in window) {
-        const cache = await caches.open("padhaku-materials-v1");
+        const cache = await caches.open("shiksha-materials-v1");
         await cache.add(`/materials/${item.id}`);
       }
 

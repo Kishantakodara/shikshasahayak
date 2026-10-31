@@ -140,7 +140,7 @@ export const HundredDaysDailyLesson: React.FC<DailyLessonProps> = ({
   };
 
   const starterCodeForLang = problem?.starterCode?.[language] || '';
-  const storageKey = `padhaku_100days_draft_${trackId}_d${dayNumber}_${language}`;
+  const storageKey = `shiksha_100days_draft_${trackId}_d${dayNumber}_${language}`;
 
   return (
     <div className="space-y-6 animate-fadeIn pb-16">

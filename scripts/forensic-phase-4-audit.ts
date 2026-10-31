@@ -170,7 +170,7 @@ async function runForensicAudit() {
   // Inspect wrangler.toml for secret configuration
   const fs = await import('fs');
   const wranglerContent = fs.readFileSync('wrangler.toml', 'utf-8');
-  const hasDbBinding = wranglerContent.includes('binding = "DB"') && wranglerContent.includes('d0d22669-42aa-4c36-b9e3-c3aace80cad4');
+  const hasDbBinding = wranglerContent.includes('binding = "DB"') && wranglerContent.includes('00000000-0000-0000-0000-000000000001');
   const hasR2Binding = wranglerContent.includes('binding = "MATERIALS_BUCKET"');
   
   recordResult(

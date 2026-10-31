@@ -133,7 +133,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [bookmarks, setBookmarks] = useState<BookmarkItem[]>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_bookmarks_${userId}`);
+      const saved = localStorage.getItem(`shiksha_bookmarks_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_BOOKMARKS;
     } catch {
       return DEFAULT_BOOKMARKS;
@@ -178,7 +178,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [continueLearning, setContinueLearning] = useState<ContinueLearningState>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_continue_learning_${userId}`);
+      const saved = localStorage.getItem(`shiksha_continue_learning_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_CONTINUE_LEARNING;
     } catch {
       return DEFAULT_CONTINUE_LEARNING;
@@ -187,7 +187,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [downloads, setDownloads] = useState<DownloadItem[]>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_downloads_${userId}`);
+      const saved = localStorage.getItem(`shiksha_downloads_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_DOWNLOADS;
     } catch {
       return DEFAULT_DOWNLOADS;
@@ -196,7 +196,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [notifications, setNotifications] = useState<NotificationItem[]>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_notifications_${userId}`);
+      const saved = localStorage.getItem(`shiksha_notifications_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_NOTIFICATIONS;
     } catch {
       return DEFAULT_NOTIFICATIONS;
@@ -205,7 +205,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [calendarEvents, setCalendarEvents] = useState<CalendarEvent[]>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_calendar_${userId}`);
+      const saved = localStorage.getItem(`shiksha_calendar_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_CALENDAR_EVENTS;
     } catch {
       return DEFAULT_CALENDAR_EVENTS;
@@ -214,7 +214,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [folders, setFolders] = useState<LibraryFolder[]>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_library_folders_${userId}`);
+      const saved = localStorage.getItem(`shiksha_library_folders_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_FOLDERS;
     } catch {
       return DEFAULT_FOLDERS;
@@ -223,7 +223,7 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   const [analytics, setAnalytics] = useState<LearningAnalyticsData>(() => {
     try {
-      const saved = localStorage.getItem(`padhaku_analytics_${userId}`);
+      const saved = localStorage.getItem(`shiksha_analytics_${userId}`);
       return saved ? JSON.parse(saved) : DEFAULT_ANALYTICS;
     } catch {
       return DEFAULT_ANALYTICS;
@@ -232,31 +232,31 @@ export const LearningEcosystemProvider: React.FC<{ children: ReactNode }> = ({ c
 
   // Sync state changes to localStorage
   useEffect(() => {
-    localStorage.setItem(`padhaku_bookmarks_${userId}`, JSON.stringify(bookmarks));
+    localStorage.setItem(`shiksha_bookmarks_${userId}`, JSON.stringify(bookmarks));
   }, [bookmarks, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_continue_learning_${userId}`, JSON.stringify(continueLearning));
+    localStorage.setItem(`shiksha_continue_learning_${userId}`, JSON.stringify(continueLearning));
   }, [continueLearning, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_downloads_${userId}`, JSON.stringify(downloads));
+    localStorage.setItem(`shiksha_downloads_${userId}`, JSON.stringify(downloads));
   }, [downloads, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_notifications_${userId}`, JSON.stringify(notifications));
+    localStorage.setItem(`shiksha_notifications_${userId}`, JSON.stringify(notifications));
   }, [notifications, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_calendar_${userId}`, JSON.stringify(calendarEvents));
+    localStorage.setItem(`shiksha_calendar_${userId}`, JSON.stringify(calendarEvents));
   }, [calendarEvents, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_library_folders_${userId}`, JSON.stringify(folders));
+    localStorage.setItem(`shiksha_library_folders_${userId}`, JSON.stringify(folders));
   }, [folders, userId]);
 
   useEffect(() => {
-    localStorage.setItem(`padhaku_analytics_${userId}`, JSON.stringify(analytics));
+    localStorage.setItem(`shiksha_analytics_${userId}`, JSON.stringify(analytics));
   }, [analytics, userId]);
 
   // Bookmarks Actions

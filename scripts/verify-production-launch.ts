@@ -82,7 +82,7 @@ export function runVerifyProductionLaunch(): LaunchVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 PRODUCTION LAUNCH VERIFIER');
+  console.log('SHIKSHASAHAYAK PRODUCTION LAUNCH VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

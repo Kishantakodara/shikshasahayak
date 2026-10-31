@@ -36,9 +36,9 @@ export const CreateAnnouncementModal: React.FC<CreateAnnouncementModalProps> = (
       queryClient.invalidateQueries({ queryKey: ['teacher'] });
       
       try {
-        const event = new CustomEvent('padhaku_announcement_create', { detail: { title, content, priority } });
+        const event = new CustomEvent('shiksha_announcement_create', { detail: { title, content, priority } });
         window.dispatchEvent(event);
-        localStorage.setItem(`padhaku_sync_announcement_${Date.now()}`, JSON.stringify({ title, content, priority }));
+        localStorage.setItem(`shiksha_sync_announcement_${Date.now()}`, JSON.stringify({ title, content, priority }));
       } catch (e) {
         console.warn('Announcement sync dispatch skipped:', e);
       }

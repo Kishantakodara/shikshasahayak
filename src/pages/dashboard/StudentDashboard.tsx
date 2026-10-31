@@ -751,7 +751,7 @@ export default function EngineeringDashboard() {
   const isDarkMode = mounted ? resolvedTheme === 'dark' : false;
 
   // Role Gate & Active View Switcher
-  const isAdminPath = typeof window !== 'undefined' && window.location.pathname.includes('AyushAn0607');
+  const isAdminPath = typeof window !== 'undefined' && window.location.pathname.startsWith('/admin');
   const [userRole, setUserRole] = useState<'Student' | 'Admin'>(() => isAdminPath ? 'Admin' : 'Student');
 
   // Navigation & UI States
@@ -796,7 +796,7 @@ export default function EngineeringDashboard() {
 
   const [installedWidgetIds, setInstalledWidgetIds] = useState<string[]>(() => {
     try {
-      const saved = localStorage.getItem('padhaku_installed_widgets');
+      const saved = localStorage.getItem('shiksha_installed_widgets');
       if (saved) return JSON.parse(saved);
     } catch (e) {}
     return ['daily_quiz', 'pyqs', 'coding_practice', 'mock_tests', 'weak_topics', 'subject_progress'];
@@ -862,7 +862,7 @@ export default function EngineeringDashboard() {
     const goalUnlockedWidgets = data.goals.flatMap(g => GOAL_PACKS[g]?.unlockedWidgets || []);
     const mergedWidgets = Array.from(new Set([...pack.defaultWidgets, ...goalUnlockedWidgets]));
     setInstalledWidgetIds(mergedWidgets);
-    localStorage.setItem('padhaku_installed_widgets', JSON.stringify(mergedWidgets));
+    localStorage.setItem('shiksha_installed_widgets', JSON.stringify(mergedWidgets));
 
     addToast(`Updated Academic Workspace: ${pack.name} (Sem ${data.semester})`);
   };
@@ -875,14 +875,14 @@ export default function EngineeringDashboard() {
       next = [...installedWidgetIds, widgetId];
     }
     setInstalledWidgetIds(next);
-    localStorage.setItem('padhaku_installed_widgets', JSON.stringify(next));
+    localStorage.setItem('shiksha_installed_widgets', JSON.stringify(next));
   };
 
   const handleRestoreDefaultWidgets = () => {
     const branchKey = normalizeBranchId(academicProfile.branchId || academicProfile.branchName || settingsDept);
     const pack = BRANCH_PACKS[branchKey] || BRANCH_PACKS['cse'];
     setInstalledWidgetIds(pack.defaultWidgets);
-    localStorage.setItem('padhaku_installed_widgets', JSON.stringify(pack.defaultWidgets));
+    localStorage.setItem('shiksha_installed_widgets', JSON.stringify(pack.defaultWidgets));
     addToast('Restored default widget pack for ' + pack.name);
   };
 
@@ -925,7 +925,7 @@ export default function EngineeringDashboard() {
     }
   }, [searchParams, setSearchParams]);
 
-  // Sync profile data dynamically from Cloudflare D1 Database (student_profiles table in padhaku-assessment-db)
+  // Sync profile data dynamically from Cloudflare D1 Database (student_profiles table)
   useEffect(() => {
     if (academicProfile) {
       if (academicProfile.branchName) setSettingsDept(academicProfile.branchName.toUpperCase());
@@ -991,10 +991,16 @@ export default function EngineeringDashboard() {
     if (currentUser?.uid) {
       loadEnrolledClasses();
     }
-    const unsub = subscribeToSyncEvent('padhaku_student_joined_class', () => {
+    const unsub1 = subscribeToSyncEvent('shiksha_student_joined_class', () => {
       loadEnrolledClasses();
     });
-    return () => unsub();
+    const unsub2 = subscribeToSyncEvent('shiksha_student_joined_class', () => {
+      loadEnrolledClasses();
+    });
+    return () => {
+      unsub1();
+      unsub2();
+    };
   }, [currentUser?.uid]);
 
   const [liveSession, setLiveSession] = useState<any | null>(null);
@@ -1095,7 +1101,7 @@ export default function EngineeringDashboard() {
 
   // Load configuration from localStorage
   useEffect(() => {
-    const saved = localStorage.getItem('padhaku_widgets_config');
+    const saved = localStorage.getItem('shiksha_widgets_config');
     if (saved) {
       try {
         const parsed = JSON.parse(saved);
@@ -1117,7 +1123,7 @@ export default function EngineeringDashboard() {
       }
     }
     
-    const savedGoal = localStorage.getItem('padhaku_career_goal');
+    const savedGoal = localStorage.getItem('shiksha_career_goal');
     if (savedGoal) {
       setSettingsCareerGoal(savedGoal as any);
     }
@@ -1133,12 +1139,12 @@ export default function EngineeringDashboard() {
       isCollapsed: w.isCollapsed,
       order: w.order
     }));
-    localStorage.setItem('padhaku_widgets_config', JSON.stringify(simplified));
+    localStorage.setItem('shiksha_widgets_config', JSON.stringify(simplified));
   };
 
   const handleSetCareerGoal = (goal: typeof settingsCareerGoal) => {
     setSettingsCareerGoal(goal);
-    localStorage.setItem('padhaku_career_goal', goal);
+    localStorage.setItem('shiksha_career_goal', goal);
     addToast(`Career Goal updated to: ${goal}! AI Mentor adapted.`);
   };
 
@@ -1178,7 +1184,7 @@ export default function EngineeringDashboard() {
 
   // Projects Showcase State
   const [projectsList, setProjectsList] = useState([
-    { id: 'p1', title: 'ShikshaSahayak Assessment Hub SPA', author: 'Ayush Pandey', dept: 'CSE 3rd Year', github: 'https://github.com/ayush/ShikshaSahayak', desc: 'Modern real-time engineering assessment & quiz dashboard with GTU 2024-25 syllabus and GATE PYQ zone.', status: 'Approved by Faculty', upvotes: 24, tech: ['Next.js', 'TypeScript', 'Tailwind CSS'], canEdit: true },
+    { id: 'p1', title: 'ShikshaSahayak Assessment Hub SPA', author: 'Aarav Patel', dept: 'CSE 3rd Year', github: 'https://github.com/shikshasahayak/platform', desc: 'Modern real-time engineering assessment & quiz dashboard with GTU 2024-25 syllabus and GATE PYQ zone.', status: 'Approved by Faculty', upvotes: 24, tech: ['Next.js', 'TypeScript', 'Tailwind CSS'], canEdit: true },
     { id: 'p2', title: 'Smart Grid Load Forecaster using LSTM', author: 'Priya Sharma', dept: 'EE 3rd Year', github: 'https://github.com/priya/smart-grid-forecaster', desc: 'Machine learning model predicting electrical grid peak loads using GTU power system dataset.', status: 'Approved by Faculty', upvotes: 18, tech: ['Python', 'TensorFlow', 'Power Systems'], canEdit: false },
     { id: 'p3', title: 'Automated CAD Gear Designer Script', author: 'Sunil Verma', dept: 'ME 3rd Year', github: 'https://github.com/sunil/cad-gear-script', desc: 'Python script for FreeCAD generating spur gear involute profiles automatically.', status: 'Under Faculty Review', upvotes: 9, tech: ['Python', 'CAD', 'Mechanical'], canEdit: false }
   ]);
@@ -1217,13 +1223,13 @@ export default function EngineeringDashboard() {
 
   // Admin Audit Log Trail State
   const [auditLogs, setAuditLogs] = useState<Array<{ id: string; timestamp: string; adminName: string; action: string; targetUser: string; reason: string }>>([
-    { id: 'audit-1', timestamp: '2026-07-04 14:30', adminName: 'Admin (System)', action: 'Manual XP Adjustment (+100 XP)', targetUser: 'Ayush Pandey', reason: 'Hackathon Winner Bonus' },
+    { id: 'audit-1', timestamp: '2026-07-04 14:30', adminName: 'Admin (System)', action: 'Manual XP Adjustment (+100 XP)', targetUser: 'Aarav Patel', reason: 'Hackathon Winner Bonus' },
     { id: 'audit-2', timestamp: '2026-07-04 11:15', adminName: 'Admin (System)', action: 'Streak Override Forgiven', targetUser: 'Priya Sharma', reason: 'Medical Leave Certificate' }
   ]);
 
   // Admin Form Modals State
   const [showManualXpModal, setShowManualXpModal] = useState(false);
-  const [manualXpForm, setManualXpForm] = useState({ targetUser: 'Ayush Pandey', amount: 100, type: 'XP', reason: '' });
+  const [manualXpForm, setManualXpForm] = useState({ targetUser: 'Aarav Patel', amount: 100, type: 'XP', reason: '' });
 
   // Sync Subject when Branch changes
   useEffect(() => {
@@ -1582,7 +1588,7 @@ bool hasCycle(ListNode *head) {
     const newLog = {
       id: `audit-${Date.now()}`,
       timestamp: new Date().toISOString().replace('T', ' ').slice(0, 16),
-      adminName: 'Admin (Ayush)',
+      adminName: 'Admin (System)',
       action,
       targetUser,
       reason
@@ -1660,7 +1666,7 @@ bool hasCycle(ListNode *head) {
       const techArray = newProject.tech ? newProject.tech.split(',').map(s => s.trim()) : ['React', 'TypeScript'];
       const created = await apiClient.submitStudentProject({
         title: newProject.title,
-        author: 'Ayush Pandey',
+        author: 'Aarav Patel',
         dept: `${settingsDept} ${settingsYear}`,
         github: newProject.github,
         desc: newProject.desc || 'Engineering student project submission.',
@@ -2209,7 +2215,7 @@ bool hasCycle(ListNode *head) {
                     onChange={(e) => setManualXpForm(prev => ({ ...prev, targetUser: e.target.value }))}
                     className="w-full p-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 focus:outline-none"
                   >
-                    <option value="Ayush Pandey">Ayush Pandey (CSE 3rd Year)</option>
+                    <option value="Aarav Patel">Aarav Patel (CSE 3rd Year)</option>
                     <option value="Priya Sharma">Priya Sharma (ECE 3rd Year)</option>
                     <option value="Rahul Singh">Rahul Singh (CSE 3rd Year)</option>
                   </select>
@@ -2255,7 +2261,7 @@ bool hasCycle(ListNode *head) {
                       addToast('Mandatory reason field required for audit logging.');
                       return;
                     }
-                    if (manualXpForm.targetUser === 'Ayush Pandey') {
+                    if (manualXpForm.targetUser === 'Aarav Patel') {
                       if (manualXpForm.type === 'XP') {
                         setUserStats(prev => ({ ...prev, xp: Math.max(0, prev.xp + manualXpForm.amount) }));
                       } else {
@@ -2264,7 +2270,7 @@ bool hasCycle(ListNode *head) {
                     }
                     logAuditTrail(`Manual ${manualXpForm.type} Adjustment (${manualXpForm.amount > 0 ? '+' : ''}${manualXpForm.amount} ${manualXpForm.type})`, manualXpForm.targetUser, manualXpForm.reason);
                     setShowManualXpModal(false);
-                    setManualXpForm({ targetUser: 'Ayush Pandey', amount: 100, type: 'XP', reason: '' });
+                    setManualXpForm({ targetUser: 'Aarav Patel', amount: 100, type: 'XP', reason: '' });
                     addToast(`Updated ${manualXpForm.targetUser}'s ${manualXpForm.type}! Logged to audit trail.`);
                   }}
                   className="w-full py-2.5 bg-orange-600 hover:bg-orange-700 text-white font-bold text-xs rounded-xl shadow-md cursor-pointer"
@@ -6954,14 +6960,14 @@ bool hasCycle(ListNode *head) {
                         <div className="space-y-2">
                           <span className="text-[9px] text-slate-455 font-bold uppercase block">Your Public Portfolio Link</span>
                           <div className="flex items-center gap-2 p-2 rounded-xl bg-slate-50 dark:bg-slate-900 text-[10px] font-semibold select-all font-mono truncate text-slate-600 dark:text-slate-400">
-                            <span>padhakuportal.com/u/{settingsName.toLowerCase().replace(/[^a-z0-9]/g, '')}</span>
+                            <span>shikshasahayak.org/u/{settingsName.toLowerCase().replace(/[^a-z0-9]/g, '')}</span>
                           </div>
                         </div>
 
                         <div className="flex gap-2">
                           <button 
                             onClick={() => {
-                              navigator.clipboard.writeText(`padhakuportal.com/u/${settingsName.toLowerCase().replace(/[^a-z0-9]/g, '')}`);
+                              navigator.clipboard.writeText(`shikshasahayak.org/u/${settingsName.toLowerCase().replace(/[^a-z0-9]/g, '')}`);
                               addToast('Portfolio link copied to clipboard! 📋');
                             }}
                             className="flex-1 py-2 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-[10px] font-bold rounded-xl flex items-center justify-center gap-1 cursor-pointer bg-transparent"
@@ -7303,7 +7309,7 @@ bool hasCycle(ListNode *head) {
                   <PyqQuizHub />
                 )}
 
-                {/* 13. ACADEMIC & ACCOUNT SETTINGS (SYNCED WITH PADHAKU_CORE_DB student_profiles) */}
+                {/* 13. ACADEMIC & ACCOUNT SETTINGS (SYNCED WITH D1 student_profiles) */}
                 {activeSidebarTab === 'Settings' && (
                   <div className="space-y-6 max-w-4xl mx-auto text-left font-sans">
                     <div className="bg-white dark:bg-slate-900 rounded-3xl p-6 sm:p-8 border border-slate-200/80 dark:border-slate-800 shadow-xl space-y-6">
@@ -7382,7 +7388,7 @@ bool hasCycle(ListNode *head) {
                               type="text" 
                               value={settingsName} 
                               onChange={(e) => setSettingsName(e.target.value)} 
-                              placeholder="e.g. Ayush Patel"
+                              placeholder="e.g. Aarav Patel"
                               className="w-full p-2.5 border rounded-xl bg-slate-50 dark:bg-slate-950 border-slate-200 dark:border-slate-800 text-slate-800 dark:text-slate-100 focus:outline-none text-xs font-bold" 
                             />
                           </div>

@@ -36,7 +36,7 @@ async function runTestSuite() {
   console.log('➡️ Test 1: Branch 2.0 target resolution');
   const betaConfig = resolvePurgeConfig({
     branch: '2.0',
-    project: 'beta-padhakuportal',
+    project: 'beta-SHIKSHASAHAYAK',
     zoneId: 'test-zone-beta-123',
     apiToken: 'test-token-beta-abc'
   });
@@ -77,7 +77,7 @@ async function runTestSuite() {
   console.log('\n➡️ Test 3: Production hostnames rejected in beta configuration');
   const apexAttempt = resolvePurgeConfig({
     branch: '2.0',
-    project: 'beta-padhakuportal',
+    project: 'beta-SHIKSHASAHAYAK',
     zoneId: 'test-zone',
     apiToken: 'test-token',
     betaHostname: 'shikshasahayak.org'
@@ -87,7 +87,7 @@ async function runTestSuite() {
 
   const wwwAttempt = resolvePurgeConfig({
     branch: '2.0',
-    project: 'beta-padhakuportal',
+    project: 'beta-SHIKSHASAHAYAK',
     zoneId: 'test-zone',
     apiToken: 'test-token',
     betaHostname: 'www.shikshasahayak.org'
@@ -101,10 +101,10 @@ async function runTestSuite() {
   console.log('\n➡️ Test 4: *.pages.dev hostnames rejected against Zone API');
   const pagesDevAttempt = resolvePurgeConfig({
     branch: '2.0',
-    project: 'beta-padhakuportal',
+    project: 'beta-SHIKSHASAHAYAK',
     zoneId: 'test-zone',
     apiToken: 'test-token',
-    betaHostname: 'beta-padhakuportal.pages.dev'
+    betaHostname: 'beta-SHIKSHASAHAYAK.pages.dev'
   });
   assert(pagesDevAttempt.valid === false, 'pages.dev hostname rejected for Cloudflare Zone API');
   assert(pagesDevAttempt.error === 'FORBIDDEN_PAGES_DEV_HOSTNAME', 'Error code is FORBIDDEN_PAGES_DEV_HOSTNAME');
@@ -149,16 +149,16 @@ async function runTestSuite() {
   console.log('\n➡️ Test 7: Branch & Project interchange safety');
   const interchange1 = resolvePurgeConfig({
     branch: '2.0',
-    project: 'padhakuportal', // Production project illegally targeted from branch 2.0
+    project: 'SHIKSHASAHAYAK', // Production project illegally targeted from branch 2.0
     zoneId: 'test-zone',
     apiToken: 'test-token'
   });
-  assert(interchange1.valid === false, 'Branch 2.0 targeting padhakuportal project blocked');
+  assert(interchange1.valid === false, 'Branch 2.0 targeting SHIKSHASAHAYAK project blocked');
   assert(interchange1.error === 'PROJECT_BRANCH_MISMATCH', 'Error code is PROJECT_BRANCH_MISMATCH');
 
   const interchange2 = resolvePurgeConfig({
     branch: 'main',
-    project: 'beta-padhakuportal', // Beta project illegally targeted from main
+    project: 'beta-SHIKSHASAHAYAK', // Beta project illegally targeted from main
     zoneId: 'test-zone',
     apiToken: 'test-token'
   });
@@ -239,7 +239,7 @@ async function runTestSuite() {
   console.log('\n➡️ Test 11: Production main path verification');
   const prodConfig = resolvePurgeConfig({
     branch: 'main',
-    project: 'padhakuportal',
+    project: 'SHIKSHASAHAYAK',
     zoneId: 'test-zone-prod-456',
     apiToken: 'test-token-prod-xyz'
   });

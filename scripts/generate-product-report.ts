@@ -25,7 +25,7 @@ export interface WeeklyProductMetrics {
 
 export function generateProductReport(): WeeklyProductMetrics {
   console.log("\n==================================================");
-  console.log("   PADHAKUPORTAL 2.0 WEEKLY PRODUCT REPORT ENGINE");
+  console.log("   SHIKSHASAHAYAK WEEKLY PRODUCT REPORT ENGINE");
   console.log("==================================================\n");
 
   const now = new Date();
@@ -46,7 +46,7 @@ export function generateProductReport(): WeeklyProductMetrics {
     systemErrorRate5xx: "0.02%",
   };
 
-  const reportMarkdown = `# PADHAKUPORTAL 2.0 — WEEKLY PRODUCT PERFORMANCE REPORT
+  const reportMarkdown = `# SHIKSHASAHAYAK — WEEKLY PRODUCT PERFORMANCE REPORT
 **Generated Date**: ${metrics.reportDate}
 
 ---

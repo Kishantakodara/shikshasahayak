@@ -18,7 +18,7 @@ const Planner: React.FC = () => {
 
   useEffect(() => {
     // Load events from local storage
-    const savedEvents = localStorage.getItem('padhakuPortal_events');
+    const savedEvents = localStorage.getItem('shiksha_events');
     if (savedEvents) {
       setEvents(JSON.parse(savedEvents).map((e: any) => ({
         ...e,
@@ -31,7 +31,7 @@ const Planner: React.FC = () => {
 
   const saveEvents = (newEvents: CalendarEvent[]) => {
       setEvents(newEvents);
-      localStorage.setItem('padhakuPortal_events', JSON.stringify(newEvents));
+      localStorage.setItem('shiksha_events', JSON.stringify(newEvents));
   };
 
   const getDaysInMonth = (year: number, month: number) => {

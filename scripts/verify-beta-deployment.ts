@@ -82,7 +82,7 @@ export function runVerifyBetaDeployment(): BetaVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 BETA DEPLOYMENT VERIFIER');
+  console.log('SHIKSHASAHAYAK BETA DEPLOYMENT VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

@@ -1,8 +1,8 @@
 # Keydocs Data Forensic Audit & Migration Mapping Blueprint
 
 **Generated:** 2026-09-04  
-**Source Database:** `keydocs` (`d0d22669-42aa-4c36-b9e3-c3aace80cad4`)  
-**Target Database:** `shiksha-core-db` (`4e63a42b-1271-462f-8271-da47cf659139`)  
+**Source Database:** `keydocs` (`00000000-0000-0000-0000-000000000001`)  
+**Target Database:** `shiksha-core-db` (`00000000-0000-0000-0000-000000000003`)  
 **Status:** DATA DOWNLOADED LOCALLY & AUDITED. ZERO MODIFICATIONS APPLIED TO TARGET DATABASE (Per User Strict Constraint).
 
 ---
@@ -164,7 +164,7 @@ All 58 tables from the remote production `keydocs` D1 database have been downloa
   - `id`: `0tpV07mBfhMdbaqoPSIVKVEZNNt2`
   - `uid`: `0tpV07mBfhMdbaqoPSIVKVEZNNt2`
   - `email`: `tech@shikshasahayak.org`
-  - `display_name`: `Ayush Pandey`
+  - `display_name`: `Academic Administrator`
   - `user_type`: `teacher`
   - `status`: `active`
 - **Transformation:**
@@ -172,7 +172,7 @@ All 58 tables from the remote production `keydocs` D1 database have been downloa
     - `id`: `0tpV07mBfhMdbaqoPSIVKVEZNNt2`
     - `firebase_uid`: `0tpV07mBfhMdbaqoPSIVKVEZNNt2`
     - `email`: `tech@shikshasahayak.org`
-    - `display_name`: `Ayush Pandey`
+    - `display_name`: `Academic Administrator`
     - `user_type`: `teacher`
     - `status`: `active`
   - Seed `user_roles`:

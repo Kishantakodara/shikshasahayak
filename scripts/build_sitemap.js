@@ -25,6 +25,7 @@ const staticUrls = [
   { loc: '/ai-tutor', changefreq: 'monthly', priority: '0.6' },
   { loc: '/contribute', changefreq: 'monthly', priority: '0.6' },
   { loc: '/about', changefreq: 'monthly', priority: '0.7' },
+  { loc: '/hackathon', changefreq: 'weekly', priority: '0.9' },
   { loc: '/contact', changefreq: 'monthly', priority: '0.7' },
   { loc: '/privacypolicy', changefreq: 'yearly', priority: '0.6' },
   { loc: '/privacy-policy', changefreq: 'yearly', priority: '0.6' },

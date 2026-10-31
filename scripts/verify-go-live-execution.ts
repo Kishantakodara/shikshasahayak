@@ -82,7 +82,7 @@ export function runVerifyGoLiveExecution(): GoLiveVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 FINAL GO-LIVE VERIFIER');
+  console.log('SHIKSHASAHAYAK FINAL GO-LIVE VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

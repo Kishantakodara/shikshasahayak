@@ -1,5 +1,5 @@
 {
-  "name": "padhakuportal",
+  "name": "shikshasahayak",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -15,14 +15,10 @@
     "test:cache-purge": "npx tsx scripts/test-cache-purge-scope.ts",
     "deploy": "node scripts/deploy-pipeline.js",
     "db:seed": "wrangler d1 execute DB --local --file=./schema.sql",
-    "db:seed:remote": "wrangler d1 execute DB --remote --file=./schema.sql",
-    "db:branches": "wrangler d1 execute DB --remote --command=\"SELECT name, slug FROM branches\"",
     "db:core:migrate:local": "wrangler d1 migrations apply PADHAKU_CORE_DB --local",
-    "db:core:migrate:remote": "node scripts/safe-migrate-core.js --remote",
-    "db:core:schema:remote": "wrangler d1 execute PADHAKU_CORE_DB --remote --file=./shiksha-core-schema.sql",
+    "db:core:schema:local": "wrangler d1 execute PADHAKU_CORE_DB --local --file=./shiksha-core-schema.sql",
     "db:core:seed:local": "wrangler d1 execute PADHAKU_CORE_DB --local --file=./shiksha-core-seed-keydocs.sql",
-    "db:core:seed:remote": "node scripts/safe-migrate-core.js --block-seed-remote",
-    "db:core:tables": "wrangler d1 execute PADHAKU_CORE_DB --remote --command=\"SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' AND name NOT LIKE '_cf_%' ORDER BY name;\"",
+    "db:core:tables": "wrangler d1 execute PADHAKU_CORE_DB --local --command=\"SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' AND name NOT LIKE '_cf_%' ORDER BY name;\"",
     "keydocs:verify": "npx tsx -e \"import { verifyKeyDocs3System } from './scripts/verify-keydocs-3'; console.log('Running KeyDocs System Verification');\"",
     "keydocs:e2e": "npx tsx -e \"import { runKeyDocs3E2ESuite } from './scripts/e2e-keydocs-3'; console.log('Running KeyDocs E2E Suite');\"",
     "keydocs:audit": "npx tsx -e \"import { runKeyDocsProductionAudit } from './scripts/keydocs-production-audit'; console.log('Running KeyDocs Production Audit');\"",
@@ -69,7 +65,8 @@
     "beta:verify": "npx tsx -e \"import { runVerifyBetaDeployment } from './scripts/verify-beta-deployment'; runVerifyBetaDeployment();\"",
     "product:report": "npx tsx -e \"import { generateProductReport } from './scripts/generate-product-report'; generateProductReport();\"",
     "test:migration-safeguards": "node scripts/verify-migration-safeguards.js",
-    "test:100days": "npx tsx scripts/verify-100-days-of-code.ts"
+    "test:100days": "npx tsx scripts/verify-100-days-of-code.ts",
+    "hackathon:verify": "npx tsx scripts/verify-hackathon.ts"
   },
   "dependencies": {
     "@google/genai": "^2.10.0",

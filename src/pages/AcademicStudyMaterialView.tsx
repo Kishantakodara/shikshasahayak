@@ -47,7 +47,7 @@ const AcademicStudyMaterialView: React.FC = () => {
         <div className="absolute inset-0 bg-gradient-to-t from-[#0F172A] via-[#0F172A]/80 to-transparent" />
         
         <div className="absolute inset-0 flex flex-col justify-end pb-12 max-w-5xl mx-auto px-6 lg:px-8">
-          <Link to="/AyushAn0607/dashboard" className="inline-flex items-center gap-2 text-slate-400 hover:text-white transition-colors mb-6 w-fit">
+          <Link to="/admin/dashboard" className="inline-flex items-center gap-2 text-slate-400 hover:text-white transition-colors mb-6 w-fit">
             <ArrowLeft className="h-4 w-4" /> Back to Dashboard
           </Link>
           

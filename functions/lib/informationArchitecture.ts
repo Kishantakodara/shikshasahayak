@@ -30,9 +30,9 @@ export async function getCompleteHierarchyBreadcrumb(
 
   const breadcrumb: MasterHierarchyBreadcrumb = {
     platform: {
-      id: "platform_padhaku",
+      id: "platform_shikshasahayak",
       name: "ShikshaSahayak OS",
-      domain: "padhakuportal.com",
+      domain: "shikshasahayak.org",
     },
   };
 

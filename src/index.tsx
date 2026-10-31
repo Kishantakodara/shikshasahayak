@@ -1,4 +1,4 @@
-console.log("[PADHAKU_BOOT] React entry reached");
+console.log("[SHIKSHA_BOOT] React entry reached");
 console.log("[BOOT] Initializing React entry");
 
 import React, { useState, useEffect } from 'react';
@@ -55,7 +55,7 @@ if ('serviceWorker' in navigator) {
 
 // --- Throttled Reload Mechanism for Chunk / Asset Failures ---
 const reloadPageWithThrottle = (reason: string) => {
-  const reloadKey = 'padhaku_deployment_reload';
+  const reloadKey = 'shiksha_deployment_reload';
   const lastReload = sessionStorage.getItem(reloadKey);
   const now = Date.now();
   

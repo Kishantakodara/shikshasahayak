@@ -26,7 +26,7 @@ export const onRequestPost: PagesFunction = async (context) => {
       ],
       skills: body.skills || ['JavaScript', 'TypeScript', 'React', 'Node.js', 'SQL', 'Git', 'Data Structures', 'Algorithms'],
       projects: body.projects || [
-        { title: 'ShikshaSahayak OS EdTech Platform', techStack: ['React 19', 'TypeScript', 'Cloudflare Workers', 'D1'], description: 'Built an autonomous AI-powered academic learning portal for GTU engineering students.', githubUrl: 'https://github.com/padhaku/portal' }
+        { title: 'ShikshaSahayak OS EdTech Platform', techStack: ['React 19', 'TypeScript', 'Cloudflare Workers', 'D1'], description: 'Built an autonomous AI-powered academic learning portal for GTU engineering students.', githubUrl: 'https://github.com/shikshasahayak/portal' }
       ]
     };
 

@@ -6,14 +6,14 @@ export const CookieConsent: React.FC = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const consent = localStorage.getItem('padhaku_cookie_consent');
-    const bannerSeen = localStorage.getItem('padhaku_cookie_banner_seen');
+    const consent = localStorage.getItem('shiksha_cookie_consent');
+    const bannerSeen = localStorage.getItem('shiksha_cookie_banner_seen');
     if (!consent && !bannerSeen) {
       // Small delay before showing banner for smoother UX
       const timer = setTimeout(() => {
         setIsVisible(true);
         // Mark as seen immediately so it doesn't show on subsequent pages/refreshes
-        localStorage.setItem('padhaku_cookie_banner_seen', 'true');
+        localStorage.setItem('shiksha_cookie_banner_seen', 'true');
       }, 1000);
       return () => clearTimeout(timer);
     }
@@ -21,12 +21,12 @@ export const CookieConsent: React.FC = () => {
   }, []);
 
   const handleAccept = () => {
-    localStorage.setItem('padhaku_cookie_consent', 'accepted');
+    localStorage.setItem('shiksha_cookie_consent', 'accepted');
     setIsVisible(false);
   };
 
   const handleDecline = () => {
-    localStorage.setItem('padhaku_cookie_consent', 'essential_only');
+    localStorage.setItem('shiksha_cookie_consent', 'essential_only');
     setIsVisible(false);
   };
 

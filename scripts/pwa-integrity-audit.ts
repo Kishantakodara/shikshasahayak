@@ -82,7 +82,7 @@ export function runPwaIntegrityAudit(): PwaIntegrityReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 PWA & OFFLINE INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK PWA & OFFLINE INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

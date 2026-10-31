@@ -713,7 +713,7 @@ const ManagePYQsUI: React.FC<ManagePYQsUIProps> = ({ embedded = false, initialSe
       semesters: targetSemesters,
       sessions: selectedSessions,
       subjectsCount: autoSelectedSubjects.length,
-      uploadedBy: currentUser?.email || 'admin@padhakuportal.com',
+      uploadedBy: currentUser?.email || 'admin@shikshasahayak.org',
       status: errorCount === 0 ? 'success' : (successCount > 0 ? 'partial' : 'failed'),
       successCount,
       errorCount,

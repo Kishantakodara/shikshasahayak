@@ -75,13 +75,7 @@ import { toast } from 'sonner';
 
 const getAdminName = (email?: string | null, displayName?: string | null): string => {
   if (displayName) return displayName;
-  if (!email) return 'Ayush Pandey';
-
-  const emailLower = email.toLowerCase();
-  if (emailLower.includes('ayush')) return 'Ayush Pandey';
-  if (emailLower.includes('padhakuportal') || emailLower.startsWith('admin')) {
-    return 'Ayush Pandey';
-  }
+  if (!email) return 'System Administrator';
 
   const parts = email.split('@');
   if (parts.length > 0) {
@@ -89,7 +83,7 @@ const getAdminName = (email?: string | null, displayName?: string | null): strin
     return name.charAt(0).toUpperCase() + name.slice(1);
   }
 
-  return 'Ayush Pandey';
+  return 'System Administrator';
 };
 
 const AdminDashboard: React.FC = () => {
@@ -179,7 +173,7 @@ const AdminDashboard: React.FC = () => {
 
   const handleLogout = async () => {
     await logout();
-    navigate('/AyushAn0607');
+    navigate('/admin');
   };
 
   // Toggle feature flag directly from command center

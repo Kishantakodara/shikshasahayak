@@ -71,6 +71,7 @@ const Planner = lazyWithRetry(() => import('./pages/Planner'));
 const Feedback = lazyWithRetry(() => import('./pages/Feedback'));
 const BulkUpload = lazyWithRetry(() => import('./pages/BulkUpload'));
 const BugBounty = lazyWithRetry(() => import('./pages/BugBounty'));
+const HackathonSocialCause = lazyWithRetry(() => import('./pages/HackathonSocialCause'));
 
 // Dashboards
 const StudentPortalHome = lazyWithRetry(() => import('./pages/dashboard/StudentPortalHome'));
@@ -340,6 +341,9 @@ const App: React.FC = () => {
               <Route path="/privacy-policy.html" element={<PrivacyPolicy />} />
               <Route path="/privacy.html" element={<PrivacyPolicy />} />
               <Route path="/about" element={<About />} />
+              <Route path="/hackathon" element={<HackathonSocialCause />} />
+              <Route path="/social-cause" element={<HackathonSocialCause />} />
+              <Route path="/vbyld-2027" element={<HackathonSocialCause />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/terms-of-service" element={<TermsOfService />} />
               <Route path="/bug-bounty" element={<BugBounty />} />
@@ -349,8 +353,11 @@ const App: React.FC = () => {
               <Route path="/sitemap" element={<Sitemap />} />
               <Route path="/exam-tips" element={<ExamTips />} />
               <Route path="/announcements" element={<Announcements />} />
-              <Route path="/AyushAn0607" element={<AdminLogin />} />
-              <Route path="/AyushAn0607/dashboard" element={
+              
+              {/* Admin Portal Routes */}
+              <Route path="/admin" element={<AdminLogin />} />
+              <Route path="/admin/login" element={<AdminLogin />} />
+              <Route path="/admin/dashboard" element={
                 <AdminRoute>
                   <AdminDashboard />
                 </AdminRoute>
@@ -728,9 +735,7 @@ const App: React.FC = () => {
               <Route path="/feedback" element={<Feedback />} />
               <Route path="/bulk-upload" element={<BulkUpload />} />
 
-              {/* Admin Dashboard Redirect & Command Center */}
-              <Route path="/admin" element={<Navigate to="/AyushAn0607/dashboard" replace />} />
-              <Route path="/admin/dashboard" element={<Navigate to="/AyushAn0607/dashboard" replace />} />
+              {/* Admin Command Center Sub-Routes */}
               <Route path="/admin/question-intelligence" element={
                 <AdminRoute>
                   <DashboardShell role={UserRole.SUPER_ADMIN}>

@@ -1418,7 +1418,7 @@ export function AchievementsWidget() {
 export function CommunityActivityWidget() {
   const activities = [
     { user: 'Rahul Patel', action: 'solved Circuit Challenge', time: '2m ago' },
-    { user: 'Ayush Pandey', action: 'completed Day 36 of DSA Track', time: '10m ago' },
+    { user: 'Aarav Patel', action: 'completed Day 36 of DSA Track', time: '10m ago' },
     { user: 'Priya Sharma', action: 'uploaded Smart Grid project', time: '1h ago' },
     { user: 'Neha Vyas', action: 'earned Gold Badge in Database', time: '2h ago' }
   ];

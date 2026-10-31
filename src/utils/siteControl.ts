@@ -14,7 +14,7 @@ export interface SiteControlState {
   showAnnouncements: boolean;
 }
 
-const STORAGE_KEY = 'padhaku_admin_site_control';
+const STORAGE_KEY = 'shiksha_admin_site_control';
 
 const DEFAULT_CONTROL_STATE: SiteControlState = {
   showSyllabus: true,

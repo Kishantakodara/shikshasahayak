@@ -4,7 +4,7 @@ import { getFirestore, doc, deleteDoc, getDocs, collection } from 'firebase/fire
 const firebaseConfig = {
   apiKey: "AIzaSyDemoShikshaSahayakMockKey12345",
   authDomain: "shikshasahayak-demo.firebaseapp.com",
-  projectId: "padhakuportal",
+  projectId: "SHIKSHASAHAYAK",
   storageBucket: "shikshasahayak-demo.appspot.com",
   messagingSenderId: "123456789012",
   appId: "1:123456789012:web:mockshikshasahayak123"

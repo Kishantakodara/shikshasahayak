@@ -41,7 +41,7 @@ export class CloudflareR2Provider implements IStorageProvider {
   }
 
   getPublicUrl(key: string): string {
-    return `https://storage.padhakuportal.com/${key}`;
+    return `https://storage.shikshasahayak.org/${key}`;
   }
 }
 
@@ -114,7 +114,7 @@ export async function registerDigitalAsset(
     await env.DB.prepare(
       `INSERT INTO digital_asset_metadata (
          asset_id, storage_provider, storage_bucket, storage_key, checksum_sha256, visibility, created_at, updated_at
-       ) VALUES (?, 'cloudflare_r2', 'padhaku-storage', ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)`
+       ) VALUES (?, 'cloudflare_r2', 'shiksha-materials-sandbox', ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)`
     )
       .bind(
         assetId,

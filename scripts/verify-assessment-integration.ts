@@ -95,7 +95,7 @@ export function runAssessmentVerification(): AssessmentVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 ASSESSMENT INTEGRATION VERIFIER');
+  console.log('SHIKSHASAHAYAK ASSESSMENT INTEGRATION VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

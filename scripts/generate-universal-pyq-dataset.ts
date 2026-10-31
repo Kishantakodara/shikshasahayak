@@ -194,7 +194,7 @@ export async function generateUniversalPyqDataset() {
   const header = (title: string) =>
     `-- ============================================================================\n` +
     `-- SHIKSHA SAHAYAK - ${title}\n` +
-    `-- Target D1: keydocs (d0d22669-42aa-4c36-b9e3-c3aace80cad4)\n` +
+    `-- Target D1: keydocs (00000000-0000-0000-0000-000000000001)\n` +
     `-- Generated: ${new Date().toISOString()}\n` +
     `-- ============================================================================\n` +
     `PRAGMA defer_foreign_keys = TRUE;\n\n`;

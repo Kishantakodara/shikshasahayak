@@ -16,7 +16,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     status: 'healthy',
     timestamp: new Date().toISOString(),
     deploymentVersion: '2.0.0-prod',
-    buildHash: 'padhaku-2.0-reconciled',
+    buildHash: 'shiksha-2.0-reconciled',
     environment: 'production',
     uptimeSeconds: 86400,
     system: {
@@ -51,17 +51,22 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       const coreStart = Date.now();
       const coreResult = await context.env.PADHAKU_CORE_DB.prepare('SELECT 1 as alive').first();
       const coreLatency = Date.now() - coreStart;
-      healthStatus.checks.padhakuCoreDb = {
+      const dbStatus = {
         status: coreResult && (coreResult as any).alive === 1 ? 'ok' : 'degraded',
         latencyMs: coreLatency,
         database: 'shiksha-core-db'
       };
+      healthStatus.checks.shikshaCoreDb = dbStatus;
+      healthStatus.checks.padhakuCoreDb = dbStatus;
+      healthStatus.metrics.shikshaCoreDbLatencyMs = coreLatency;
       healthStatus.metrics.padhakuCoreDbLatencyMs = coreLatency;
     } catch (err: any) {
-      healthStatus.checks.padhakuCoreDb = {
+      const errStatus = {
         status: 'error',
-        message: err?.message || 'PADHAKU_CORE_DB connection failure'
+        message: err?.message || 'Database connection failure'
       };
+      healthStatus.checks.shikshaCoreDb = errStatus;
+      healthStatus.checks.padhakuCoreDb = errStatus;
     }
   }
 

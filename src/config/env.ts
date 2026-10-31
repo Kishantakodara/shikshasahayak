@@ -26,7 +26,7 @@ export function getEnvironmentConfig(): EnvironmentConfig {
   return {
     appEnv,
     appName: 'ShikshaSahayak OS',
-    appUrl: import.meta.env.VITE_APP_URL || 'https://padhakuportal.com',
+    appUrl: import.meta.env.VITE_APP_URL || 'https://shikshasahayak.org',
     isDev,
     isProd,
     // NEVER enable Agentation in production per AGENTS.md

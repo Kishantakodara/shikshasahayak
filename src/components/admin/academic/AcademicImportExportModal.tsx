@@ -88,7 +88,7 @@ export const AcademicImportExportModal: React.FC<AcademicImportExportModalProps>
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `padhaku_academic_catalog_${Date.now()}.${exportFormat}`);
+      link.setAttribute('download', `shikshasahayak_academic_catalog_${Date.now()}.${exportFormat}`);
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);

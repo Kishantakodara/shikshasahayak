@@ -25,7 +25,7 @@ const routeMatchers = Array.from(declaredRoutes)
   }));
 
 const sitemap = fs.readFileSync('public/sitemap.xml', 'utf-8');
-const locRegex = /<loc>https:\/\/padhakuportal\.in(\/[^<]*)<\/loc>/g;
+const locRegex = /<loc>https:\/\/(?:SHIKSHASAHAYAK\.in|shikshasahayak\.org)(\/[^<]*)<\/loc>/g;
 let locMatch;
 const sitemapUrls: string[] = [];
 while ((locMatch = locRegex.exec(sitemap)) !== null) {

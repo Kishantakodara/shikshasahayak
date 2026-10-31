@@ -6,7 +6,7 @@ import {
 const defaultTeachers = [
   {
     email: 'tech@shikshasahayak.org',
-    name: 'Ayush Pandey (Lead Developer & Educator)',
+    name: 'Academic Administrator',
     department: 'Computer Engineering',
     college: 'GTU Main Campus',
     status: 'approved',
@@ -14,7 +14,7 @@ const defaultTeachers = [
   },
   {
     email: 'contact@shikshasahayak.org',
-    name: 'Kishan Takodara (Platform Administrator)',
+    name: 'Platform Administrator',
     department: 'Computer Science & Engineering',
     college: 'GTU Main Campus',
     status: 'approved',

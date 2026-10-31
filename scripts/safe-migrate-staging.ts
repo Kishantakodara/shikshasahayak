@@ -8,9 +8,9 @@
  */
 
 export const PRODUCTION_BLOCKED_UUIDS = new Set([
-  '4e63a42b-1271-462f-8271-da47cf659139', // Production shiksha-core-db
-  'd0d22669-42aa-4c36-b9e3-c3aace80cad4', // Production keydocs
-  '352efef7-24bb-418c-8158-92144fc7f821'  // Production padhaku-assessment-db
+  '00000000-0000-0000-0000-000000000003', // Production shiksha-core-db
+  '00000000-0000-0000-0000-000000000001', // Production keydocs
+  '00000000-0000-0000-0000-000000000002'  // Production padhaku-assessment-db
 ]);
 
 export function validateStagingTarget(databaseName: string, databaseId: string) {

@@ -4,7 +4,7 @@ import { getFirestore, doc, setDoc, getDocs, collection } from 'firebase/firesto
 const firebaseConfig = {
   apiKey: "AIzaSyDemoShikshaSahayakMockKey12345",
   authDomain: "shikshasahayak-demo.firebaseapp.com",
-  projectId: "padhakuportal",
+  projectId: "SHIKSHASAHAYAK",
   storageBucket: "shikshasahayak-demo.appspot.com",
   messagingSenderId: "123456789012",
   appId: "1:123456789012:web:mockshikshasahayak123"
@@ -16,7 +16,7 @@ const db = getFirestore(app);
 const sampleTeachers = [
   {
     email: 'tech@shikshasahayak.org',
-    name: 'Ayush Pandey',
+    name: 'Dr. R. K. Mehta',
     department: 'Computer Engineering',
     college: 'GTU Main Campus',
     status: 'approved',
@@ -27,7 +27,7 @@ const sampleTeachers = [
   },
   {
     email: 'contact@shikshasahayak.org',
-    name: 'Kishan Takodara',
+    name: 'Prof. A. S. Patel',
     department: 'Computer Science & Engineering',
     college: 'GTU Main Campus',
     status: 'approved',

@@ -32,7 +32,7 @@ export const onRequestPost: PagesFunction = async (context) => {
         success: true,
         order,
         invoice,
-        razorpayKeyId: (context.env as any).RAZORPAY_KEY_ID || 'rzp_live_padhaku_key'
+        razorpayKeyId: (context.env as any).RAZORPAY_KEY_ID || 'rzp_live_shikshasahayak_key'
       }), {
         status: 200,
         headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' }

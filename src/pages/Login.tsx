@@ -55,8 +55,8 @@ const Login: React.FC = () => {
         console.log('[LoginPage useEffect] Navigating to /teacher');
         navigate('/teacher', { replace: true });
       } else if (role === 'admin' || role === 'super_admin') {
-        console.log('[LoginPage useEffect] Navigating to /AyushAn0607/dashboard');
-        navigate('/AyushAn0607/dashboard', { replace: true });
+        console.log('[LoginPage useEffect] Navigating to /admin/dashboard');
+        navigate('/admin/dashboard', { replace: true });
       } else {
         const fromPath = (location.state as any)?.from?.pathname;
         const activeJoinCode = joinCode || sessionStorage.getItem('pending_join_code') || '';
@@ -102,8 +102,7 @@ const Login: React.FC = () => {
       };
       try {
         localStorage.setItem('shiksha_student_academic_profile_dev-mock-uid', JSON.stringify(mockProfile));
-        localStorage.setItem('padhaku_student_academic_profile_dev-mock-uid', JSON.stringify(mockProfile));
-        localStorage.setItem('padhaku_student_academic_profile_student@shikshasahayak.org', JSON.stringify(mockProfile));
+        localStorage.setItem('shiksha_student_academic_profile_student@shikshasahayak.org', JSON.stringify(mockProfile));
       } catch {}
       loginMockUser('student@shikshasahayak.org', 'Aarav Patel (Student)', 'student');
       navigate('/student', { replace: true });
@@ -112,7 +111,7 @@ const Login: React.FC = () => {
       navigate('/teacher', { replace: true });
     } else {
       loginMockUser('admin@shikshasahayak.org', 'Lead Evaluator (Admin)', 'admin');
-      navigate('/AyushAn0607/dashboard', { replace: true });
+      navigate('/admin/dashboard', { replace: true });
     }
   };
 
@@ -164,7 +163,7 @@ const Login: React.FC = () => {
       if (rawRole === 'teacher' || rawRole === 'educator') {
         targetDestination = '/teacher';
       } else if (rawRole === 'admin' || rawRole === 'super_admin') {
-        targetDestination = '/AyushAn0607/dashboard';
+        targetDestination = '/admin/dashboard';
       } else {
         const fromPath = (location.state as any)?.from?.pathname;
         const activeJoinCode = joinCode || sessionStorage.getItem('pending_join_code') || '';
@@ -263,20 +262,20 @@ const Login: React.FC = () => {
           )}
 
                     {/* 🏆 Hackathon Evaluator Instant Mode */}
-          <div className="bg-gradient-to-r from-orange-500/10 via-amber-500/10 to-orange-500/10 border border-orange-500/30 rounded-2xl p-4 space-y-3">
+          <div className="bg-gradient-to-r from-orange-500/10 via-amber-500/10 to-orange-500/10 border-2 border-brand-orange/40 rounded-2xl p-4 space-y-3 shadow-xs">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-2">
                 <Sparkles className="w-4 h-4 text-brand-orange animate-spin-slow" />
                 <span className="text-xs font-bold text-navy-900 dark:text-white uppercase tracking-wider">
-                  Hackathon Evaluation Access
+                  🇮🇳 Hack for Social Cause (VBYLD 2027) Access
                 </span>
               </div>
-              <span className="text-[10px] bg-brand-orange/20 text-brand-orange font-bold px-2 py-0.5 rounded-full">
-                Offline Local DB
-              </span>
+              <Link to="/hackathon" className="text-[10px] bg-brand-orange text-white font-bold px-2 py-0.5 rounded-full hover:bg-orange-600 transition-colors">
+                View Submission
+              </Link>
             </div>
             <p className="text-[11px] text-gray-600 dark:text-gray-300">
-              Instant 1-click test login with pre-loaded academic data (no password or cloud signup needed):
+              Instant 1-click evaluator login with pre-loaded academic data (no password or cloud signup needed):
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
               <button

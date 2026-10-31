@@ -74,7 +74,7 @@ export interface PaymentInvoice {
 export function generateStudentResumeAndATS(studentData: Partial<ResumeData>): ResumeData {
   const skills = studentData.skills || ['JavaScript', 'React', 'TypeScript', 'Node.js', 'SQL', 'Data Structures'];
   const projects = studentData.projects || [
-    { title: 'ShikshaSahayak OS EdTech Platform', techStack: ['React', 'TypeScript', 'Cloudflare Workers', 'D1'], githubUrl: 'https://github.com/user/padhaku' }
+    { title: 'ShikshaSahayak OS EdTech Platform', techStack: ['React', 'TypeScript', 'Cloudflare Workers', 'D1'], githubUrl: 'https://github.com/shikshasahayak/platform' }
   ];
 
   let score = 75;

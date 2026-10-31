@@ -82,7 +82,7 @@ export function runNotificationIntegrityAudit(): NotificationAuditReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 NOTIFICATION INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK NOTIFICATION INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

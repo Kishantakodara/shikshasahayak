@@ -75,7 +75,7 @@ export function runPaymentReconciliationAudit(): PaymentReconciliationReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 PAYMENT RECONCILIATION AUDIT');
+  console.log('SHIKSHASAHAYAK PAYMENT RECONCILIATION AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

@@ -59,7 +59,7 @@ const AcademicPYQView: React.FC = () => {
         <div className="absolute top-0 right-0 w-96 h-96 bg-[#6366F1]/10 rounded-full blur-3xl -mr-20 -mt-20 pointer-events-none" />
         
         <div className="max-w-5xl mx-auto px-6 lg:px-8 relative z-10">
-          <Link to="/AyushAn0607/dashboard" className="inline-flex items-center gap-2 text-slate-400 hover:text-white transition-colors mb-8 w-fit">
+          <Link to="/admin/dashboard" className="inline-flex items-center gap-2 text-slate-400 hover:text-white transition-colors mb-8 w-fit">
             <ArrowLeft className="h-4 w-4" /> Back to Dashboard
           </Link>
           

@@ -16,9 +16,9 @@ export const GamificationProvider: React.FC<{ children: React.ReactNode }> = ({ 
 
   useEffect(() => {
     // Load from local storage
-    const savedStreak = parseInt(localStorage.getItem('padhakuPortal_streak') || '0');
-    const savedPoints = parseInt(localStorage.getItem('padhakuPortal_points') || '0');
-    const savedLastLogin = localStorage.getItem('padhakuPortal_lastLogin');
+    const savedStreak = parseInt(localStorage.getItem('shiksha_streak') || '0');
+    const savedPoints = parseInt(localStorage.getItem('shiksha_points') || '0');
+    const savedLastLogin = localStorage.getItem('shiksha_lastLogin');
 
     setPoints(savedPoints);
 
@@ -41,24 +41,24 @@ export const GamificationProvider: React.FC<{ children: React.ReactNode }> = ({ 
              if (savedLastLogin === yesterdayStr) {
                  const newStreak = savedStreak + 1;
                  setStreak(newStreak);
-                 localStorage.setItem('padhakuPortal_streak', newStreak.toString());
+                 localStorage.setItem('shiksha_streak', newStreak.toString());
              } else {
                  // Streak broken
                  setStreak(1);
-                 localStorage.setItem('padhakuPortal_streak', '1');
+                 localStorage.setItem('shiksha_streak', '1');
              }
         } else {
             // Missed a day or more
              setStreak(1);
-             localStorage.setItem('padhakuPortal_streak', '1');
+             localStorage.setItem('shiksha_streak', '1');
         }
       } else {
         // First time
         setStreak(1);
-        localStorage.setItem('padhakuPortal_streak', '1');
+        localStorage.setItem('shiksha_streak', '1');
       }
       setLastLoginDate(today);
-      localStorage.setItem('padhakuPortal_lastLogin', today);
+      localStorage.setItem('shiksha_lastLogin', today);
     } else {
         setStreak(savedStreak);
         setLastLoginDate(savedLastLogin);
@@ -68,7 +68,7 @@ export const GamificationProvider: React.FC<{ children: React.ReactNode }> = ({ 
   const addPoints = (amount: number) => {
     setPoints(prev => {
         const newPoints = prev + amount;
-        localStorage.setItem('padhakuPortal_points', newPoints.toString());
+        localStorage.setItem('shiksha_points', newPoints.toString());
         return newPoints;
     });
   };

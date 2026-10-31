@@ -99,7 +99,7 @@ export const CareerListingsPage: React.FC = () => {
   // Load saved bookmarks from localStorage and reconcile with server
   useEffect(() => {
     try {
-      const stored = localStorage.getItem('padhaku_saved_jobs');
+      const stored = localStorage.getItem('shiksha_saved_jobs');
       if (stored) {
         setSavedIds(JSON.parse(stored));
       }
@@ -115,7 +115,7 @@ export const CareerListingsPage: React.FC = () => {
             const serverIds = data.map(b => b.resourceId);
             setSavedIds(prev => {
               const combined = Array.from(new Set([...prev, ...serverIds]));
-              localStorage.setItem('padhaku_saved_jobs', JSON.stringify(combined));
+              localStorage.setItem('shiksha_saved_jobs', JSON.stringify(combined));
               return combined;
             });
           }
@@ -136,7 +136,7 @@ export const CareerListingsPage: React.FC = () => {
     // Optimistic local state update
     setSavedIds(updated);
     try {
-      localStorage.setItem('padhaku_saved_jobs', JSON.stringify(updated));
+      localStorage.setItem('shiksha_saved_jobs', JSON.stringify(updated));
     } catch {}
 
     const targetListing = listings.find(l => l.id === id);
@@ -411,14 +411,14 @@ export const CareerListingsPage: React.FC = () => {
           <div className="flex items-center gap-1.5 pl-1">
             <div className="w-7 h-7 rounded-full overflow-hidden bg-gradient-to-tr from-orange-500 to-amber-500 flex items-center justify-center text-white font-bold text-[11px] shadow-2xs ring-1 ring-white dark:ring-slate-800 shrink-0">
               {currentUser?.photoURL ? (
-                <img src={currentUser.photoURL} alt="Ayush Pandey" className="w-full h-full object-cover" />
+                <img src={currentUser.photoURL} alt="Student Profile" className="w-full h-full object-cover" />
               ) : (
                 <span>AP</span>
               )}
             </div>
             <div className="text-left hidden sm:block">
               <div className="text-xs font-bold text-slate-800 dark:text-white leading-tight">
-                {currentUser?.displayName || academicProfile?.fullName || 'Ayush Pandey'}
+                {currentUser?.displayName || academicProfile?.fullName || 'Aarav Patel'}
               </div>
               <div className="text-[10px] text-slate-500 dark:text-slate-400 font-medium leading-tight">
                 {(academicProfile?.college || academicProfile?.universityName || 'GTU').split(' ')[0]} • {academicProfile?.branchName || 'Electrical Engineering'}

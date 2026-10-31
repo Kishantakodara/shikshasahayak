@@ -1133,7 +1133,7 @@ export const AdminBlogsHub: React.FC = () => {
           )}`;
           const downloadAnchor = document.createElement('a');
           downloadAnchor.setAttribute('href', jsonString);
-          downloadAnchor.setAttribute('download', `padhaku_blogs_${Date.now()}.json`);
+          downloadAnchor.setAttribute('download', `shikshasahayak_blogs_${Date.now()}.json`);
           document.body.appendChild(downloadAnchor);
           downloadAnchor.click();
           downloadAnchor.remove();

@@ -1,18 +1,24 @@
 // ============================================================
-// SHIKSHA SAHAYAK OS SERVICE WORKER: padhaku-sw-v1
+// SHIKSHA SAHAYAK OS SERVICE WORKER: shiksha-sw-v1
 // STRATEGY: Stale-While-Revalidate (Assets), Cache-First (PDFs/Static JSON), Network-First (APIs)
 // ============================================================
 
-const CACHE_NAME_STATIC = "padhaku-static-v1";
-const CACHE_NAME_DYNAMIC = "padhaku-dynamic-v1";
-const CACHE_NAME_MATERIALS = "padhaku-materials-v1";
+const CACHE_NAME_STATIC = "shiksha-static-v1";
+const CACHE_NAME_DYNAMIC = "shiksha-dynamic-v1";
+const CACHE_NAME_MATERIALS = "shiksha-materials-v1";
 
 const STATIC_ASSETS = [
   "/",
+  "/index.html",
   "/manifest.json",
   "/offline.html",
   "/logo.webp",
   "/favicon-32x32.png",
+  "/icon-192x192.png",
+  "/icon-512x512.png",
+  "/apple-touch-icon.png",
+  "/icon-maskable-192x192.png",
+  "/icon-maskable-512x512.png",
   "/subjects_data.json",
   "/subject_codes.json",
 ];
@@ -115,8 +121,11 @@ self.addEventListener("fetch", (event) => {
       fetch(event.request).catch(() => {
         return caches.match("/index.html").then((cachedIndex) => {
           if (cachedIndex) return cachedIndex;
-          return caches.match(event.request).then((cached) => {
-            return cached || caches.match("/offline.html");
+          return caches.match("/").then((cachedRoot) => {
+            if (cachedRoot) return cachedRoot;
+            return caches.match(event.request).then((cached) => {
+              return cached || caches.match("/offline.html");
+            });
           });
         });
       })

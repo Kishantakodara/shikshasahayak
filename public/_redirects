@@ -1,3 +1,2 @@
 # Cloudflare Pages Redirects & SPA Rewrite Rule
-/ads.txt https://srv.adstxtmanager.com/19390/padhakuportal.in 301
 /* /index.html 200

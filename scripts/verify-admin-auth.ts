@@ -112,7 +112,7 @@ export async function runAdminAuthVerification(env: any = {}): Promise<AdminAuth
   });
 
   // 8. Insecure Substring & Domain Wildcard Rejection
-  const insecureRejected = !isAdmin("random.ayush.fake@yahoo.com") && !isAdmin("admin.fake@gmail.com");
+  const insecureRejected = !isAdmin("random.unauthorized.fake@yahoo.com") && !isAdmin("admin.fake@gmail.com");
   const domainWildcardRejected = !isAdmin("random_student@shikshasahayak.org") && !isAdmin("guest@shikshasahayak.org");
   results.push({
     scenario: "Insecure Substring & Domain Wildcard Rejection",

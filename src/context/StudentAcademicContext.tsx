@@ -63,7 +63,7 @@ export const StudentAcademicProvider: React.FC<{ children: React.ReactNode }> = 
   const [academicProfile, setAcademicProfile] = useState<StudentAcademicProfileSpec>(EMPTY_PROFILE);
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [isExploreMode, setIsExploreModeState] = useState<boolean>(() => {
-    return localStorage.getItem("padhaku_explore_mode") === "true";
+    return (localStorage.getItem("shiksha_explore_mode")) === "true";
   });
 
   const setShowProfileModal = (show: boolean) => {
@@ -74,7 +74,7 @@ export const StudentAcademicProvider: React.FC<{ children: React.ReactNode }> = 
 
   const setExploreMode = (explore: boolean) => {
     setIsExploreModeState(explore);
-    localStorage.setItem("padhaku_explore_mode", explore ? "true" : "false");
+    localStorage.setItem("shiksha_explore_mode", explore ? "true" : "false");
   };
 
   const toggleExploreMode = () => {
@@ -86,7 +86,7 @@ export const StudentAcademicProvider: React.FC<{ children: React.ReactNode }> = 
     if (!currentUser) {
       let guestData: Partial<StudentAcademicProfileSpec> = {};
       try {
-        const saved = localStorage.getItem("padhaku_guest_academic_profile");
+        const saved = localStorage.getItem("shiksha_guest_academic_profile");
         if (saved) guestData = JSON.parse(saved);
       } catch {}
 
@@ -156,7 +156,7 @@ export const StudentAcademicProvider: React.FC<{ children: React.ReactNode }> = 
       updatedAt: new Date().toISOString()
     };
     try {
-      localStorage.setItem("padhaku_guest_academic_profile", JSON.stringify(updated));
+      localStorage.setItem("shiksha_guest_academic_profile", JSON.stringify(updated));
     } catch {}
     if (currentUser?.uid) {
       try {

@@ -29,7 +29,7 @@ export const WorkshopsPage: React.FC = () => {
   // Load registered workshops from localStorage
   useEffect(() => {
     try {
-      const stored = localStorage.getItem('padhaku_registered_workshops');
+      const stored = localStorage.getItem('shiksha_registered_workshops');
       if (stored) setRegisteredIds(JSON.parse(stored));
     } catch {}
   }, []);
@@ -76,7 +76,7 @@ export const WorkshopsPage: React.FC = () => {
         const updated = Array.from(new Set([...registeredIds, workshopId]));
         setRegisteredIds(updated);
         try {
-          localStorage.setItem('padhaku_registered_workshops', JSON.stringify(updated));
+          localStorage.setItem('shiksha_registered_workshops', JSON.stringify(updated));
         } catch {}
 
         // Update local participant count if new registration

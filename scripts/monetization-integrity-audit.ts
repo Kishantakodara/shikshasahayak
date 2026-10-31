@@ -82,7 +82,7 @@ export function runMonetizationIntegrityAudit(): MonetizationAuditReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 MONETIZATION INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK MONETIZATION INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

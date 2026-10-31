@@ -82,7 +82,7 @@ export function runVerifyPhaseQ(): PhaseQVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 PHASE Q BUSINESS ACTIVATION VERIFIER');
+  console.log('SHIKSHASAHAYAK PHASE Q BUSINESS ACTIVATION VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

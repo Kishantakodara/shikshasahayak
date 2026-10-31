@@ -2,8 +2,8 @@ import { chromium } from 'playwright';
 
 const urls = [
   'https://shikshasahayak.org',
-  'https://padhakuportal.pages.dev',
-  'https://a6c12570.padhakuportal.pages.dev'
+  'https://SHIKSHAportal.pages.dev',
+  'https://a6c12570.SHIKSHAportal.pages.dev'
 ];
 
 async function diagnoseLive() {

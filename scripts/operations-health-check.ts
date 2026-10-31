@@ -44,7 +44,7 @@ export function runOperationsHealthCheck(): OperationsHealthCheckReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 DAILY OPERATIONS HEALTH CHECK');
+  console.log('SHIKSHASAHAYAK DAILY OPERATIONS HEALTH CHECK');
   console.log(`Status: ${report.overallStatus} (${report.healthyServices}/${report.servicesChecked} services healthy)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

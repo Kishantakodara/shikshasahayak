@@ -14,7 +14,7 @@ const endpoints = [
 const hosts = [
   'http://localhost:8788',
   'https://shikshasahayak.org',
-  'https://padhakuportal.pages.dev'
+  'https://SHIKSHAportal.pages.dev'
 ];
 
 async function testEndpoint(baseUrl, path) {

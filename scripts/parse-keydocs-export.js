@@ -141,7 +141,7 @@ console.log(`Parsed ${insertCount} total inserted rows.`);
 
 const summary = {
   exportDate: new Date().toISOString(),
-  sourceDatabase: 'keydocs (d0d22669-42aa-4c36-b9e3-c3aace80cad4)',
+  sourceDatabase: 'keydocs (00000000-0000-0000-0000-000000000001)',
   tables: {}
 };
 

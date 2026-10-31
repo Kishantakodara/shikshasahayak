@@ -151,7 +151,7 @@ const ManageAnnouncementsUI: React.FC = () => {
                   type="url"
                   value={link}
                   onChange={e => setLink(e.target.value)}
-                  placeholder="e.g. https://padhakuportal.com/syllabus"
+                  placeholder="e.g. https://shikshasahayak.org/syllabus"
                   className="w-full bg-background border border-border rounded-xl px-4 py-3 text-text focus:border-primary outline-none text-sm"
                 />
               </div>

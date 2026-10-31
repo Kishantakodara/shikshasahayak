@@ -20,7 +20,7 @@ export async function downloadPdfFile(url: string, rawTitle?: string) {
   }
 
   // Append "- By ShikshaSahayak"
-  if (!cleanName.toLowerCase().includes('by padhaku portal')) {
+  if (!cleanName.toLowerCase().includes('by shikshasahayak')) {
     cleanName = `${cleanName} - By ShikshaSahayak`;
   }
   const filename = `${cleanName}.pdf`;

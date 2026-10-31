@@ -89,7 +89,7 @@ export function runVerifyUserManagement(): UserManagementVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 USER MANAGEMENT E2E VERIFIER');
+  console.log('SHIKSHASAHAYAK USER MANAGEMENT E2E VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

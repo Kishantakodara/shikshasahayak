@@ -21,7 +21,7 @@ const AdminLogin: React.FC = () => {
   // If already logged in, redirect to dashboard
   useEffect(() => {
     if (currentUser) {
-      navigate('/AyushAn0607/dashboard');
+      navigate('/admin/dashboard');
     }
   }, [currentUser, navigate]);
 
@@ -116,7 +116,7 @@ const AdminLogin: React.FC = () => {
                 onChange={(e) => setEmail(e.target.value)}
                 disabled={isLoading}
                 className="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-navy-700 bg-gray-50 dark:bg-navy-800 text-navy-900 dark:text-white focus:ring-2 focus:ring-brand-orange/50 focus:border-brand-orange outline-none transition-all"
-                placeholder="admin@padhakuportal.com"
+                placeholder="admin@shikshasahayak.org"
               />
             </div>
             

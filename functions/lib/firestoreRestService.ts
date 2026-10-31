@@ -3,7 +3,7 @@
 // Serverless sync for beta_whitelist and teacher_whitelist in Firebase Firestore
 // ============================================================
 
-const FIREBASE_PROJECT_ID = "padhakuportal";
+const FIREBASE_PROJECT_ID = "shikshasahayak";
 const FIREBASE_API_KEY = "AIzaSyDemoShikshaSahayakMockKey12345";
 const FIRESTORE_BASE_URL = `https://firestore.googleapis.com/v1/projects/${FIREBASE_PROJECT_ID}/databases/(default)/documents`;
 

@@ -50,7 +50,7 @@ const mockEnv: any = {
   DB: createMockDb(),
   PADHAKU_CORE_DB: createMockDb(),
   ASSESSMENT_DB: createMockDb(),
-  FIREBASE_PROJECT_ID: "padhakuportal",
+  FIREBASE_PROJECT_ID: "SHIKSHASAHAYAK",
 };
 
 export async function runAll14SectionsTest() {
@@ -102,7 +102,7 @@ export async function runAll14SectionsTest() {
     // D. Authenticated Admin Request
     const reqAdmin = new Request(s.url, {
       method: "GET",
-      headers: { "Authorization": "Bearer mock-token-admin-ayush-admin-uid" },
+      headers: { "Authorization": "Bearer mock-token-admin-system-uid" },
     });
     const resAdmin = await s.handler({ request: reqAdmin, env: mockEnv, params: {} });
     // Admin should not receive 401 or 403

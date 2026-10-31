@@ -13,7 +13,7 @@ import { execSync } from 'child_process';
 
 export function runDeployBeta(): void {
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 SAFE BETA DEPLOYMENT GUARD');
+  console.log('SHIKSHASAHAYAK SAFE BETA DEPLOYMENT GUARD');
   console.log('====================================================');
 
   // 1. Verify Git Branch

@@ -93,7 +93,7 @@ export function runTeacherVerification(): TeacherVerificationReport {
   };
 
   console.log('====================================================');
-  console.log('PADHAKUPORTAL 2.0 TEACHER INTEGRATION VERIFIER');
+  console.log('SHIKSHASAHAYAK TEACHER INTEGRATION VERIFIER');
   console.log(`Status: ${report.status} (${report.passedSteps}/${report.totalSteps} steps passed)`);
   console.log('====================================================');
   steps.forEach(s => {

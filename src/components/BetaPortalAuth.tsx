@@ -47,7 +47,7 @@ export const BetaPortalAuth: React.FC<BetaPortalAuthProps> = ({ onSuccessRedirec
         return;
       }
 
-      // 2. Email IS whitelisted: Check D1 database `padhaku-assessment-db` (student_profiles / student_profile) using Firebase UID
+      // 2. Email IS whitelisted: Check D1 database (student_profiles / student_profile) using Firebase UID
       let hasProfile = false;
       try {
         // Try server-side Bearer API check first

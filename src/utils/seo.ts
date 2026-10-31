@@ -87,6 +87,18 @@ const STATIC_ROUTE_META: Record<string, PageMeta> = {
     title: 'About ShikshaSahayak',
     description: 'Learn about ShikshaSahayak, a student-focused education resource for engineering notes, PYQs, and exam preparation.',
   },
+  '/hackathon': {
+    title: 'Hack for Social Cause 2027 — ShikshaSahayak VBYLD Showcase',
+    description: 'Official Hack for Social Cause (VBYLD 2027) showcase by ShikshaSahayak. Democratizing higher education with zero paywalls, UN SDG 4 & 10 alignment, and curriculum-grounded AI.',
+  },
+  '/social-cause': {
+    title: 'Hack for Social Cause 2027 — ShikshaSahayak VBYLD Showcase',
+    description: 'Official Hack for Social Cause (VBYLD 2027) showcase by ShikshaSahayak. Democratizing higher education with zero paywalls, UN SDG 4 & 10 alignment, and curriculum-grounded AI.',
+  },
+  '/vbyld-2027': {
+    title: 'Hack for Social Cause 2027 — ShikshaSahayak VBYLD Showcase',
+    description: 'Official Hack for Social Cause (VBYLD 2027) showcase by ShikshaSahayak. Democratizing higher education with zero paywalls, UN SDG 4 & 10 alignment, and curriculum-grounded AI.',
+  },
   '/contact': {
     title: 'Contact ShikshaSahayak',
     description: 'Contact ShikshaSahayak for corrections, privacy questions, content removal requests, and study material support.',
@@ -515,7 +527,7 @@ export const getRouteMeta = (pathname: string): PageMeta => {
     };
   }
 
-  if (pathname.startsWith('/AyushAn0607')) {
+  if (pathname.startsWith('/admin')) {
     if (pathname.endsWith('/dashboard')) {
       return {
         title: 'Admin Control Panel - ShikshaSahayak',

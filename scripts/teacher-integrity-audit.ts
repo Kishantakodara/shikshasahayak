@@ -90,7 +90,7 @@ export function runTeacherIntegrityAudit(): TeacherIntegrityReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 TEACHER INTEGRITY AUDIT');
+  console.log('SHIKSHASAHAYAK TEACHER INTEGRITY AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

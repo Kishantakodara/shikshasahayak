@@ -1011,7 +1011,7 @@ console.log(`• Total Quality Review Flags: ${totalFlags}`);
 console.log('================================================================\n');
 
 // Save the batch payload to scratch artifact directory for ingestion
-const scratchDir = 'C:/Users/ayush/.gemini/antigravity-ide/brain/9eeb7749-d707-418d-a42e-cd3fa9a46018/scratch';
+const scratchDir = path.resolve(__dirname, '../.scratch');
 if (!fs.existsSync(scratchDir)) {
   fs.mkdirSync(scratchDir, { recursive: true });
 }

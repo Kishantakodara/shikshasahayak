@@ -180,7 +180,7 @@ const StudyMaterialView: React.FC = () => {
     try {
       await apiClient.rejectMaterial(id);
       alert("Material rejected and deleted successfully.");
-      navigate('/AyushAn0607/dashboard');
+      navigate('/admin/dashboard');
     } catch (err: any) {
       console.error("Failed to reject material:", err);
       setModerationError(err.message || "Failed to reject material");

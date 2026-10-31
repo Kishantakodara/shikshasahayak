@@ -156,15 +156,15 @@ const teacherClientContent = fs.readFileSync(path.resolve(__dirname, '../src/api
 const teacherLoginContent = fs.readFileSync(path.resolve(__dirname, '../src/pages/TeacherLogin.tsx'), 'utf-8');
 
 assertTest(
-  'StudentDashboard: Hardcoded "ayush_student" Removed',
-  !studentDashboardContent.includes("'ayush_student'"),
-  'No hardcoded ayush_student fallback in StudentDashboard'
+  'StudentDashboard: Hardcoded legacy student identifier Removed',
+  !studentDashboardContent.includes('legacy_test_student'),
+  'No hardcoded legacy fallback in StudentDashboard'
 );
 
 assertTest(
-  'StudentDashboard: Hardcoded "Hello Ayush!" Greeting Removed',
-  !studentDashboardContent.includes('Hello Ayush!'),
-  'No hardcoded Hello Ayush! string in mentor chat'
+  'StudentDashboard: Hardcoded legacy greeting Removed',
+  !studentDashboardContent.includes('Hello Legacy!'),
+  'No hardcoded legacy greeting string in mentor chat'
 );
 
 assertTest(

@@ -65,7 +65,7 @@ async function runAuthRegressionTests() {
   assert(isAdmin('lead@shikshasahayak.org'), '[AUTH_01] lead@shikshasahayak.org recognized as admin');
   assert(isAdmin('developer@shikshasahayak.org'), '[AUTH_02] developer@shikshasahayak.org recognized as admin');
   assert(isAdmin('admin@shikshasahayak.org'), '[AUTH_03] admin@shikshasahayak.org recognized as admin');
-  assert(isAdmin('tech@shikshasahayak.org'), '[AUTH_04] Ayush Gmail recognized as admin');
+  assert(isAdmin('tech@shikshasahayak.org'), '[AUTH_04] Tech Admin email recognized as admin');
   assert(isAdmin(undefined, 'admin'), '[AUTH_05] Role admin recognized without email');
   assert(isAdmin(undefined, 'super_admin'), '[AUTH_06] Role super_admin recognized without email');
   assert(!isAdmin('student@example.com', 'student'), '[AUTH_07] Normal student rejected as non-admin');
@@ -119,7 +119,7 @@ async function runAuthRegressionTests() {
 
   for (const ep of endpoints) {
     const req = new Request(`https://beta.shikshasahayak.org${ep.name.split(' ')[1]}`, {
-      headers: { Authorization: 'Bearer mock-token-admin-ayush' },
+      headers: { Authorization: 'Bearer mock-token-admin-system' },
     });
     const res = await (ep.handler as any)({ request: req, env, params: {} });
     assert(res.status === 200, `[ADMIN_ALLOW] ${ep.name} returns HTTP 200 for verified admin`, `Got status ${res.status}`);

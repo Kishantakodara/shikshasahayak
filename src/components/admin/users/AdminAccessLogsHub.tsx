@@ -87,7 +87,7 @@ export const AdminAccessLogsHub: React.FC<AdminAccessLogsHubProps> = ({
     const jsonContent = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(logs, null, 2));
     const link = document.createElement('a');
     link.setAttribute('href', jsonContent);
-    link.setAttribute('download', `padhaku_audit_logs_${new Date().toISOString().split('T')[0]}.json`);
+    link.setAttribute('download', `shikshasahayak_audit_logs_${new Date().toISOString().split('T')[0]}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -108,7 +108,7 @@ export const AdminAccessLogsHub: React.FC<AdminAccessLogsHubProps> = ({
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement('a');
     link.setAttribute('href', encodedUri);
-    link.setAttribute('download', `padhaku_audit_logs_${new Date().toISOString().split('T')[0]}.csv`);
+    link.setAttribute('download', `shikshasahayak_audit_logs_${new Date().toISOString().split('T')[0]}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

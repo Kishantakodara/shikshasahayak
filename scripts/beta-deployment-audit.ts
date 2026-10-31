@@ -75,7 +75,7 @@ export function runBetaDeploymentAudit(): BetaDeploymentAuditReport {
   };
 
   console.log('----------------------------------------------------');
-  console.log('PADHAKUPORTAL 2.0 BETA DEPLOYMENT PREFLIGHT AUDIT');
+  console.log('SHIKSHASAHAYAK BETA DEPLOYMENT PREFLIGHT AUDIT');
   console.log(`Status: ${report.overallStatus} (${report.passedChecks}/${report.totalChecks} checks passed)`);
   console.log('----------------------------------------------------');
   results.forEach(r => {

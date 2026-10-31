@@ -367,7 +367,7 @@ export const AdminPYQsHub: React.FC = () => {
           )}`;
           const downloadAnchor = document.createElement('a');
           downloadAnchor.setAttribute('href', jsonString);
-          downloadAnchor.setAttribute('download', `padhaku_pyqs_${Date.now()}.json`);
+          downloadAnchor.setAttribute('download', `shikshasahayak_pyqs_${Date.now()}.json`);
           document.body.appendChild(downloadAnchor);
           downloadAnchor.click();
           downloadAnchor.remove();

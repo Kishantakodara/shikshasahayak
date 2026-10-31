@@ -104,8 +104,8 @@ export async function onRequestGet(context: {
             .catch(() => null)
         : null) || storageKey.split('/').pop() || "Study Material";
 
-    if (downloadName && !downloadName.toLowerCase().includes("by padhaku portal")) {
-      let base = downloadName.replace(/\.pdf$/i, "");
+    if (downloadName && !downloadName.toLowerCase().includes("by shikshasahayak") && !downloadName.toLowerCase().includes("by padhaku portal")) {
+      let base = downloadName.replace(/\.pdf$/i, "").replace(/\s*-\s*by\s+(shikshasahayak|padhaku\s*portal)$/i, "");
       downloadName = `${base} - By ShikshaSahayak.pdf`;
     }
 

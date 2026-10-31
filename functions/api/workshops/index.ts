@@ -33,7 +33,7 @@ export const CURATED_WORKSHOPS: WorkshopDTO[] = [
     slug: 'agentic-ai-gemini-cloudflare',
     description: 'Deep dive into constructing autonomous AI agents that invoke tools, orchestrate multi-step LLM workflows, and run with sub-10ms edge latency.',
     category: 'AI & Cloud',
-    speakerName: 'Dr. Ayush Sharma',
+    speakerName: 'Dr. Alok Sharma',
     speakerBio: 'Edge AI Systems Engineer & Open Source Contributor',
     speakerCompanyOrInstitution: 'ShikshaSahayak Core AI Research',
     startTime: '2026-10-18T18:00:00Z',

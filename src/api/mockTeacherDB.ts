@@ -119,7 +119,7 @@ const SEED_STUDENTS = [
     enrollment_id: "enroll-1",
     class_id: "class-1",
     student_id: "student-1",
-    student_name: "Ayush Anand",
+    student_name: "Aarav Anand",
     student_email: "lead@shikshasahayak.org",
     enrollment_number: "24CSE001",
     enrollment_status: "ACTIVE",
@@ -365,14 +365,14 @@ const SEED_SUBMISSIONS = [
     id: "sub-1",
     assignment_id: "assign-1",
     student_id: "student-1",
-    student_name: "Ayush Anand",
+    student_name: "Aarav Anand",
     enrollment_number: "24CSE001",
     status: "SUBMITTED",
     submitted_at: new Date(Date.now() - 1 * 24 * 60 * 60 * 1000).toISOString(),
     marks: null,
     feedback: null,
     is_late: false,
-    attachments: ["http://example.com/ayush_dbms_sub.pdf"],
+    attachments: ["http://example.com/student_dbms_sub.pdf"],
     grade_percentage: 0
   },
   {
@@ -443,7 +443,7 @@ const SEED_NOTIFICATIONS = [
     type: "ASSIGNMENT_SUBMITTED",
     channel: "IN_APP",
     title: "New Submission",
-    message: "DBMS Lab Assignment 3 submitted by Ayush Anand",
+    message: "DBMS Lab Assignment 3 submitted by Aarav Anand",
     link: "/teacher/assignments/assign-1/submissions",
     metadata: null,
     is_read: false,
@@ -455,12 +455,12 @@ const SEED_NOTIFICATIONS = [
 const SEED_MESSAGES = [
   {
     thread_id: "thread-1",
-    thread_title: "Ayush Anand (Direct)",
+    thread_title: "Aarav Anand (Direct)",
     last_message: "Sir, I had a doubt in Query 3",
     unread_count: 1,
     updated_at: new Date().toISOString(),
     messages: [
-      { id: "m-1", sender_name: "Ayush Anand", content: "Sir, I had a doubt in Query 3", timestamp: new Date().toISOString() }
+      { id: "m-1", sender_name: "Aarav Anand", content: "Sir, I had a doubt in Query 3", timestamp: new Date().toISOString() }
     ]
   }
 ];
@@ -1148,7 +1148,7 @@ export const mockTeacherDB = {
           id: "act-1",
           type: "submission",
           title: "Assignment Submission",
-          description: "Ayush Anand submitted DBMS Lab Assignment 3",
+          description: "Aarav Anand submitted DBMS Lab Assignment 3",
           timestamp: new Date().toISOString(),
           link: "/teacher/assignments/assign-1/submissions"
         }
@@ -1342,8 +1342,8 @@ export const mockTeacherDB = {
         pin_to_top: true,
         author_name: "Prof. Anand",
         comments: [
-          { id: "c-1", author_name: "Ayush Anand", content: "Sir, should we submit the soft copy of the SQL queries too?", created_at: new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString() },
-          { id: "c-2", author_name: "Prof. Anand", content: "Yes Ayush, include the source SQL file in your project zip.", created_at: new Date().toISOString() }
+          { id: "c-1", author_name: "Aarav Anand", content: "Sir, should we submit the soft copy of the SQL queries too?", created_at: new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString() },
+          { id: "c-2", author_name: "Prof. Anand", content: "Yes Aarav, include the source SQL file in your project zip.", created_at: new Date().toISOString() }
         ],
         created_at: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString() 
       },
@@ -1466,7 +1466,7 @@ export const mockTeacherDB = {
     let suggestedMarks = Math.round(totalMarks * 0.85);
     let feedback = "Good overall attempt. Standard query syntax is followed, join predicates are correct. Try organizing the outputs in a tabular layout for better clarity.";
 
-    if (sub.student_name === "Ayush Anand") {
+    if (sub.student_name === "Aarav Anand") {
       suggestedMarks = Math.round(totalMarks * 0.925);
       feedback = "Excellent solution! All queries compile correctly and output shapes match expectations. The normalization logic is highly detailed with correct functional dependencies.";
     } else if (sub.student_name === "Rahul Verma") {
@@ -1634,9 +1634,9 @@ export const mockTeacherDB = {
 
     // Dispatch real-time sync event
     try {
-      const event = new CustomEvent('padhaku_attendance_submit', { detail: newSubmission });
-      window.dispatchEvent(event);
-      localStorage.setItem(`padhaku_sync_submit_${Date.now()}`, JSON.stringify(newSubmission));
+      window.dispatchEvent(new CustomEvent('shiksha_attendance_submit', { detail: newSubmission }));
+      window.dispatchEvent(new CustomEvent('shiksha_attendance_submit', { detail: newSubmission }));
+      localStorage.setItem(`shiksha_sync_submit_${Date.now()}`, JSON.stringify(newSubmission));
     } catch (e) {
       console.warn('Sync dispatch skipped:', e);
     }
@@ -1695,8 +1695,8 @@ export const mockTeacherDB = {
 
     // Broadcast sync event
     try {
-      const event = new CustomEvent('padhaku_student_joined_class', { detail: { class: cls, student: newStudent } });
-      window.dispatchEvent(event);
+      window.dispatchEvent(new CustomEvent('shiksha_student_joined_class', { detail: { class: cls, student: newStudent } }));
+      window.dispatchEvent(new CustomEvent('shiksha_student_joined_class', { detail: { class: cls, student: newStudent } }));
     } catch (e) {
       console.warn('Sync dispatch skipped:', e);
     }

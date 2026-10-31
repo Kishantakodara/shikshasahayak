@@ -1,6 +1,6 @@
 -- ============================================================================
 -- SHIKSHA SAHAYAK - PART 3: CORE DOCUMENTS - FIRST YEAR (SEM 0, 1, 2)
--- Target D1: keydocs (d0d22669-42aa-4c36-b9e3-c3aace80cad4)
+-- Target D1: keydocs (00000000-0000-0000-0000-000000000001)
 -- Generated: 2026-09-11T03:41:42.687Z
 -- ============================================================================
 PRAGMA defer_foreign_keys = TRUE;

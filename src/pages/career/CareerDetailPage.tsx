@@ -95,7 +95,7 @@ export const CareerDetailPage: React.FC = () => {
   useEffect(() => {
     if (!id) return;
     try {
-      const stored = localStorage.getItem('padhaku_saved_jobs');
+      const stored = localStorage.getItem('shiksha_saved_jobs');
       if (stored) {
         const parsed = JSON.parse(stored) as string[];
         setIsSaved(parsed.includes(id));
@@ -109,10 +109,10 @@ export const CareerDetailPage: React.FC = () => {
     setIsSaved(nextSaved);
 
     try {
-      const stored = localStorage.getItem('padhaku_saved_jobs');
+      const stored = localStorage.getItem('shiksha_saved_jobs');
       const parsed: string[] = stored ? JSON.parse(stored) : [];
       const updated = nextSaved ? Array.from(new Set([...parsed, id])) : parsed.filter(i => i !== id);
-      localStorage.setItem('padhaku_saved_jobs', JSON.stringify(updated));
+      localStorage.setItem('shiksha_saved_jobs', JSON.stringify(updated));
 
       if (nextSaved) {
         addBookmark({

@@ -33,7 +33,7 @@ export const CURATED_COURSES: CourseSummaryDTO[] = [
     level: 'Intermediate',
     description: 'Master React 19, server actions, optimistic UI, state machines, and building low-latency edge applications on Cloudflare Workers and D1.',
     thumbnailUrl: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80',
-    instructorName: 'Prof. Ayush & ShikshaSahayak Core Team',
+    instructorName: 'Prof. R. Verma & ShikshaSahayak Academic Team',
     durationHours: 14.5,
     enrolledCount: 3420,
     rating: 4.95,

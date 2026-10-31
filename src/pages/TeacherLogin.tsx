@@ -213,7 +213,7 @@ export default function TeacherLogin() {
 
                     {/* 🏆 Hackathon Evaluator Instant Mode */}
           <div className="p-3 bg-blue-500/10 border border-blue-500/20 rounded-xl space-y-1.5 text-center">
-            <p className="text-[11px] text-blue-300 font-medium">Hackathon Evaluator Quick Access:</p>
+            <p className="text-[11px] text-blue-300 font-medium">🇮🇳 Hack for Social Cause (VBYLD 2027) Access:</p>
             <button
               type="button"
               onClick={() => {
@@ -356,6 +356,15 @@ export default function TeacherLogin() {
               <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" />
             </svg>
             <span>Continue with Google</span>
+          </Button>
+
+          <Button
+            type="button"
+            onClick={() => loginMockUser('teacher@shikshasahayak.org', 'Prof. Educator', 'teacher')}
+            variant="outline"
+            className="w-full py-4 font-bold border-2 border-dashed border-blue-500/50 text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-navy-800 transition-all flex items-center justify-center gap-2 text-xs rounded-xl cursor-pointer"
+          >
+            <span>⚡ [Demo / Evaluator] Instant Faculty Login</span>
           </Button>
 
           {/* Footer note */}

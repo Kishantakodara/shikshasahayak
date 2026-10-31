@@ -232,7 +232,7 @@ export const AcademicCalendarPage: React.FC = () => {
       const cleanDate = ev.startDate.replace(/-/g, '');
       icsContent.push(
         'BEGIN:VEVENT',
-        `UID:padhaku-${ev.id}@shikshasahayak.org`,
+        `UID:shiksha-${ev.id}@shikshasahayak.org`,
         `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, '').split('.')[0]}Z`,
         `DTSTART;VALUE=DATE:${cleanDate}`,
         `SUMMARY:${ev.title}`,
@@ -248,7 +248,7 @@ export const AcademicCalendarPage: React.FC = () => {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `padhaku_academic_calendar_sem${academicProfile?.semester || 5}.ics`);
+    link.setAttribute('download', `shikshasahayak_academic_calendar_sem${academicProfile?.semester || 5}.ics`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
