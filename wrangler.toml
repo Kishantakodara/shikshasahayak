@@ -1,4 +1,4 @@
-name = "shikshasahayak"
+name = "padhakuportal"
 compatibility_date = "2024-03-01"
 pages_build_output_dir = "dist"
 
@@ -7,21 +7,21 @@ pages_build_output_dir = "dist"
 
 [[r2_buckets]]
 binding = "MATERIALS_BUCKET"
-bucket_name = "shiksha-materials-sandbox"
+bucket_name = "store"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "keydocs-sandbox"
-database_id = "00000000-0000-0000-0000-000000000001"
+database_name = "keydocs"
+database_id = "d0d22669-42aa-4c36-b9e3-c3aace80cad4"
 migrations_dir = "migrations-keydocs"
 
 [[d1_databases]]
 binding = "ASSESSMENT_DB"
-database_name = "assessment-sandbox"
-database_id = "00000000-0000-0000-0000-000000000002"
+database_name = "ASSESSMENT_DB"
+database_id = "352efef7-24bb-418c-8158-92144fc7f821"
 
 [[d1_databases]]
 binding = "PADHAKU_CORE_DB"
-database_name = "shiksha-core-sandbox"
-database_id = "00000000-0000-0000-0000-000000000003"
+database_name = "shiksha-core-db"
+database_id = "4e63a42b-1271-462f-8271-da47cf659139"
 migrations_dir = "migrations-shiksha-core"
